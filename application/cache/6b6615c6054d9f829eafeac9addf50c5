@@ -1,0 +1,1897 @@
+a:2:{s:6:"expire";i:1552794161;s:7:"headers";a:0:{}}ENDCI---><!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <link rel="apple-touch-icon" sizes="76x76" href="assets/img/apple-icon.png">
+  <link rel="icon" type="image/png" href="assets/img/favicon.png">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
+  <!--     Fonts and scripts jquery     -->  
+  
+  <script type="text/javascript" src="assets/js/jquery.js"></script>
+   
+  <title>Ingenieria Soft</title>
+  
+  <!--     Fonts and icons     -->
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
+  <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+  
+  <!-- CSS Files -->
+  <link href="assets/css/material-kit.css?v=2.0.5" rel="stylesheet" />
+  <!-- CSS Just for demo purpose, don't include it in your project -->
+  <link href="assets/css/demo.css" rel="stylesheet" />
+</head>
+<body class="index-page sidebar-collapse">
+   
+ 
+ <nav class="navbar navbar-transparent navbar-color-on-scroll fixed-top navbar-expand-lg  bg-warning" color-on-scroll="100" id="sectionsNav">
+    <div class="container">
+      <div class="navbar-translate">
+        <a class="navbar-brand" href="Welcome">
+          Inicio </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="navbar-toggler-icon"></span>
+          <span class="navbar-toggler-icon"></span>
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="navbar-nav ml-auto">
+          <li class="dropdown nav-item">
+            <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
+              <i class="material-icons">apps</i> Componentes
+            </a>
+            <div class="dropdown-menu dropdown-with-icons">
+              <a href="Welcome" class="dropdown-item">
+                <i class="material-icons">layers</i> Ver más
+              </a>
+              <a href="#" class="dropdown-item">
+                <i class="material-icons">content_paste</i> Documentación
+              </a>
+            </div>
+          </li>
+          <!-- <li class="nav-item">
+            <a class="nav-link" href="javascript:void(0)" onclick="scrollToDownload()">
+              <i class="material-icons">cloud_download</i> Download
+            </a>
+          </li> -->
+          <!-- <li class="nav-item">
+            <a class="nav-link" rel="tooltip" title="" data-placement="bottom" href="https://twitter.com/CreativeTim" target="_blank" data-original-title="Follow us on Twitter">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li> -->
+          <!-- <li class="nav-item">
+            <a class="nav-link" rel="tooltip" title="" data-placement="bottom" href="https://www.facebook.com/CreativeTim" target="_blank" data-original-title="Like us on Facebook">
+              <i class="fa fa-facebook-square"></i>
+            </a>
+          </li> -->
+          <!-- <li class="nav-item">
+            <a class="nav-link" rel="tooltip" title="" data-placement="bottom" href="https://www.instagram.com/CreativeTimOfficial" target="_blank" data-original-title="Follow us on Instagram">
+              <i class="fa fa-instagram"></i>
+            </a>
+          </li> -->
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <!-- <div class="page-header header-filter clear-filter  purple-filter" data-parallax="true" style="background-image: url('assets/img/ds1.jpg');">  -->
+  <div class="page-header header-filter" style="background-image: url('assets/img/ds1.jpg'); background-size: cover; background-position: top center;">
+  <!-- <div class="page-header header-filter clear-filter  tint" data-parallax="true" style="background-image: url('assets/img/ds1.jpg');"> -->
+  <!-- <div class="page-header header-filter clear-filter  inkwell" data-parallax="true" style="background-image: url('assets/img/ds1.jpg');"> -->
+  
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 ml-auto mr-auto">
+          <div class="brand">
+            <h2 class ="title">INGENIERIA DE SOFTWARE </h2>
+            
+            <h3>CARRERA: Lic. en Sistemas de Información/Facultad de Ciencias Exactas/ UNNE</h3>
+			
+			            
+          
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+ 
+  <div class="main main-raised">
+    <div class="section section-basic">
+      <div class="container">
+         <div class="title">
+		 Metodologia Enterprise Unified Process (EUP) extensiones RUP desde 2002
+
+        </div> 
+<div>
+           <h3>INTEGRANTES DEL GRUPO:</h3>
+			<ul> 
+				<li>
+			        Benitez Vallejos Victor Hugo	
+				 </li>
+				 <li>
+				 	Acevedo Eulices
+				 </li>
+                 <li>
+                 Abel Marquez
+                 </li>
+			</ul>
+			
+</div>
+
+        <h1>EUP</h1>
+        <p>Enterprise Unified Process (EUP) es una variante extendida del Proceso Unificado (RUP) y
+         fue desarrollado por Scott W. Ambler y Larry Constantine en 2000, reelaborado en 2005 
+         por Ambler, John Nalbone y Michael Vizdos. EUP fue introducido originalmente
+         para superar algunas carencias de RUP, a saber, la falta de rendimiento y utilidad así como 
+         la eventual retirada de un sistema de software. Se agregaron dos fases y varias 
+         disciplinas nuevas. EUP considera que el desarrollo de software
+         no es una actividad autónoma, sino que está integrado en el ciclo de vida del sistema
+          (que se construirá o mejorará o sustituirá), el ciclo de vida de TI de la empresa 
+          y el ciclo de vida de la empresa. Se trata de desarrollo de software
+            como se ve desde el punto de vista del cliente.
+        </p>
+        <p>EUP ve el desarrollo de software, no como una actividad independiente, 
+             sino integrada en el ciclo de vida del sistema (que se construirá o 
+             mejorado o sustituido), el ciclo de vida de la empresa y el ciclo de 
+             vida de la organización / negocio de la empresa en sí misma. 
+             Las  ofertas con el desarrollo de software como se ve desde el punto de 
+             vista del cliente.
+        </p>
+        <p>Para comenzar hay que tener en claro que es RUP para saber cuales son las ventajas de usar EUP. </p>
+        <p>  Para saber mas sobre rup haga click en el siguiente boton =><a class ="btn btn-primary" href="Welcome/index/rup">Saber de Rup</a></p>
+        <p>Retomando el tema, comenzaremos a comparar los ciclos de vida de cada metodolgía y sus caracteristicas:</p>
+        <p>En la figura 1, se muestra el ciclo de vida del RUP en su versión 2003. 
+            En él se aprecian las disciplinas de Modelamiento
+            del Negocio, Requerimientos, Análisis y Diseño, Implementación, 
+            Pruebas, Despliegue, Configuración y Manejo del cambio, Project
+            Management y Environment1, en contraste con sus fases de Concepción, 
+            Elaboración, Construcción y Transición.</p>
+           
+            <!-- <img src="assets/img/img1.jpg" alt="Raised Image" class="img-raised rounded img-fluid"> -->
+            <div class ="col-sm-offset-1">
+            <img src="assets/img/img1.jpg" alt="Raised Image" class="img-raised rounded img-fluid">
+                <h4 class ="text-center">Figura 1 – Ciclo de vida del RUP</h4>
+           </div>
+         <h1>Ciclo de vida del EUP</h1>
+         <p> En el ciclo de vida del EUP se puede apreciar las disciplinas 
+             anteriormente mencionadas del RUP y
+        las nuevas, propias del EUP. Estas son: Enterprise Business Modelling, 
+        Portfolio Management, Enterprise Architecture, Strategic
+        Reuse, People Management, Enterprise Administration, 
+        Software Process Improvement. En el EUP se puede distinguir 
+        7 fases. La primera es previa a todo el proceso y, por ello, 
+        es denominada Pre-Concepción. Las 4 siguientes fueron rescatadas del
+        RUP y son Concepción, Elaboración, Construcción y Transición. 
+        Finalmente, las 2 nuevas fases, que se integran al final del
+        proceso, son Producción y Retiro.</p>
+        <p>Esto se refleja en el gráfico 2, mostrado a continuación.</p>
+        <div class="col-sm-offset-1">
+        <img src="assets/img/img3_eup.jpg" alt="Raised Image" class="img-raised rounded img-fluid">    
+         
+            <h4 class="text-center">Figura 2 – Ciclo de vida del EUP</h4>
+        </div>
+     <h1>Comparación entre RUP y EUP</h1>
+      <p>De la descripción de los ciclos de vida del RUP y del EUP se puede
+           ver que el Enterprise Unified Process(EUP) muestra una clara 
+           inclinación a la empresa como entidad y no solo al producto 
+           software. Por ejemplo, la primera disciplina del RUP es 
+           Business Modelling (BM) mientras que la del EUP es 
+           Enterprise Business Modelling (EBM). El BM se centra
+           en el producto software y le interesa la información relacionada 
+           a un área determinada; en cambio, el EBM tiene su foco en la empresa y
+           le interesa la información de la empresa en general. Sin embargo, el 
+           ciclo de vida de cualquier sistema debe comprender desde
+           la idea de su formación hasta la inactividad del mismo. Como se aprecia
+            en el gráfico siguiente, el ciclo de vida de un sistema
+            abarca más puntos que sólo las actividades del desarrollo 
+            del producto software.
+        </p>
+        <p>El RUP cubre de forma acertada dichas actividades pero no va 
+            más allá. Es decir, no abarca lo referido a la post-entrega.
+            El EUP si lo hace por medio de sus fases de Producción y Retiro.</p>
+            <div class="col-sm-offset-1">
+            <img src="assets/img/img4_eup.jpg" alt="Raised Image" class="img-raised rounded img-fluid">    
+            
+                <h4 class="text-center">Figura 3 – Comparación entre RUP y EUP</h4>
+            </div>
+            <p>Fuente: <a href="https://en.wikipedia.org/wiki/Enterprise_Unified_Process">
+                Enterprise Unified Process</a></p>
+            <p class="lead">Existen 4 tipos de ciclos de vida marcados desde el punto de vista del 
+                alcance de los mismos.</p>
+            <ul>
+                <li><strong>Ciclo de vida del Desarrollo del Sistema</strong>, abarca exclusivamente las 
+                    actividades del desarrollo del software. El RUP cubre
+                cabalmente este ciclo, es decir, pertenece a él.</li>
+                <li><strong>Ciclo de vida del Sistema</strong>, se basa en el anterior y añade las 
+                    actividades para operar y dar soporte al sistema, una vez puesto
+                en producción o cuando pase al retiro.</li>
+                <li><strong>Ciclo de vida de la Tecnología de Información (IT)</strong>, abarca las 
+                    actividades del departamento de tecnologías de información
+                y las que sirven para realizar un adecuado manejo de la organización. 
+                El EUP pertenece a este tipo de ciclo.</li>
+                <li><strong>Ciclo de vida de la Organización o del Negocio</strong>, comprende el 
+                    ciclo anterior y lo fusiona con las actividades del negocio.</li>
+              </ul>
+            <p>De esta agrupación de ciclos de vida se desprende que el RUP es
+                   limitado en lo referido a las actividades del negocio y sólo
+            se concentra en las relacionadas al desarrollo del producto software.
+            </p>
+            <p>Esto ya no es suficiente, se debe ofrecer más que un producto software. 
+                El proceso no debe acabar en la entrega del aplicativo
+                a la empresa que lo requirió, sino debe velar que éste funcione 
+                adecuadamente luego de que se haya puesto en producción.
+                Por eso es indispensable escalar el RUP, y así llegar al EUP, 
+                que abarca la producción, el retiro y, para ello, realiza
+                actividades del Portfolio Management, Enterprise Architecture y 
+                Strategic Reuse.
+            </p>
+            <h3>Fase de Producción</h3>
+            <p>Es la primera fase adicional del EUP respecto del RUP. El ciclo de vida 
+                del Rational Unified Process concluía con la fase
+                de Transición, pero se ha visto que realmente no debe acabar allí. 
+                Las actividades propias de esta fase están más relacionadas
+                a las tecnologías de información (IT) 3que a la construcción y al 
+                despliegue del software, ya que se da cuando esto ya ha
+                terminado
+            </p>
+            <p>Esta fase del EUP contiene las actividades de soporte y operación del 
+                sistema, para ello el aplicativo debe estar en funcionamiento.
+               Estas actividades, que forman parte del ciclo de vida del sistema, 
+               duran hasta que se decida reemplazar el aplicativo,
+               ya sea por una nueva versión o por otro software. También la causa se 
+               puede deber a que dicho aplicativo ya no estará
+               más en uso, es decir, pasará al retiro.
+            </p>
+            <p>Pero se pueden presentar nuevos requerimientos por parte de los usuarios 
+                finales o cambios en la administración de los defectos
+               encontrados. En este caso, se deberá verificar que dichos cambios pasen 
+               a formar parte del nuevo ciclo de vida del desarrollo
+               del sistema.
+            </p>
+            <h3>Objetivos</h3>
+            <p>El objetivo principal de esta fase es mantener el sistema útil y 
+                productivo para la organización que adquirió el producto
+                software. Para cumplir con estos niveles de servicio, especificados 
+                entre el usuario y el personal de soporte, es necesario
+                realizar planes de acción, en casos extremos, para dar mantenimiento 
+                de emergencia al sistema. Para mantener los sistemas
+                operando correctamente, se debe brindar diferentes soluciones. Estas 
+                soluciones dependen del giro de la organización
+                y del software que cuentan. En algunos casos, se brindarán soporte 
+                en las operaciones o cambios en ciertas funcionalidades
+                y, en otros, solo se hará soporte del tipo help desk, por ejemplo.
+            </p>
+            <h3>Roles</h3>
+            <P>
+                El EUP define una serie de roles relacionados a las actividades de 
+                producción. Estos roles abarcan todos las funciones que
+                se deben considerar para que se brinde servicios de operación y soporte 
+                de manera eficiente y efectiva. Los roles que se
+                usan para la disciplina de producción se detallarán a continuación.
+            </P>
+            <ul>
+                <li>
+                    <strong>Operador.</strong> Monitorear el sistema para verificar que 
+                    opere correctamente, para comenzar 
+                        los trabajos y procesos adecuados,
+                     para realizar un backup y restaurar la data y para ocuparse de, 
+                     de forma general, del sistema y su entorno.
+                </li>
+                <li>
+                    <strong> Support Manager</strong>. Programa y asigna tareas. Debe 
+                    asegurarse que el personal cuente con recursos necesarios para poder
+                    realizar las tareas y, con esto, que el trabajo esté terminado a tiempo
+                    y de forma óptima.
+                 </li>
+                 <li>
+                    <strong>Support Representatives</strong> . Son los representantes del 
+                    soporte a los clientes o usuarios finales. Deben proporcionar
+                     guías a los usuarios y recibir los reportes de las fallas ocurridas. 
+                     Están en permanente contacto con el usuario y, si
+                     fuera el caso, muestran el progreso de la solución del problema reportado. 
+                 </li>
+                 <li>
+                     <strong>Support Representatives</strong> . Son los representantes del 
+                     soporte al sistema. Reciben los informes de los problemas reportados
+                     de los Customer Support Representatives. Si estos problemas son originados por falla del sistema deben crear defectos
+                     para que sean atendidos por los Support Developer.
+                 </li>
+                    <li>
+                        <strong>Support Developer</strong>. Son los encargados de realizar los cambios en el sistema con 
+                        el fin de que vuelva a funcionar
+                        correctamente.
+                    </li>
+            </ul>
+            <h3>Actividades Básicas</h3>
+            <p>La figura 4, muestra las actividades básicas que se realizan en esta fase del 
+            ciclo de vida del Enterprise
+            Unified Process. Además, muestra los roles principales involucrados en dicha 
+            fase y la relación de estos roles con las actividades
+            que están a su cargo.</p>
+            <div class="col-sm-offset-1">
+            <img src="assets/img/PhaseWorkflow.jpg" alt="Raised Image" class="img-raised rounded img-fluid">    
+            
+                <h4 class="text-center">Figura 4 – Actividades Básicas 2</h4>
+            </div>
+            <P>
+                <strong>Fuente: Enterprise Unified Process</strong>
+            </P>
+            <p><strong>Resumen</strong> Esta es la última fase del ciclo de vida del EUP. 
+                Trata sobre cómo se debe llevar a cabo un adecuado
+            retiro del producto software. Esto con la finalidad de que el cliente o usuario 
+            final no sienta el cambio (es otra realidad,
+            ya no se cuenta con el sistema que antes se usaba) o si lo siente no le afecte. 
+            Existen muchas razones para retirar un
+            sistema pero siempre estas razones estarán comprendidas en un proceso de mejora 
+             continua que pudiera resultar incomodo para el usuario final, pero necesario para el cliente y su organización.
+            </p>
+            <h3>Definición del PMBOK</h3>
+            <p>El PMBOK es una guía que contiene los fundamentos para la efectiva dirección de proyectos. Está compuesta por una colección
+                de procesos y áreas de conocimiento generalmente aceptadas como las mejores prácticas para su desarrollo. Esta guía fue
+                propuesta por el PMI, la cual es una asociación de profesionales que practican la gerencia de proyectos.</p>
+            <p>Así también, esta guía proporciona un vocabularios en común para que los involucrados puedan analizar, escribir y aplicar
+                la dirección de proyectos</p>
+            <h3>Definición de Proyecto</h3>
+            <p>Un proyecto es un esfuerzo temporal que se lleva a cabo para crear un producto, servicio o resultado único.</p>
+            <p>En primer lugar, el proyecto es temporal ya que cada proyecto tiene un comienzo definido y un final definido. El final se
+                alcanza cuando se han logrado los objetivos del proyecto o cuando queda claro que los objetivos del proyecto no serán
+                o no podrán ser alcanzados, o cuando la necesidad del proyecto ya no exista y el proyecto sea cancelado. Temporal no
+                necesariamente significa de corta duración; muchos proyectos duran varios años. En cada caso, sin embargo, la duración
+                de un proyecto es limitada. Los proyectos no son esfuerzos continuos.</p>
+            <p>La naturaleza temporal de los proyectos puede aplicarse también a otros aspectos de la empresa. En segundo lugar, el proyecto
+                crea productos o servicios entregables únicos. Según las normas publicadas en el PMBOK, “los proyectos pueden crear:
+                Un producto o artículo producido, que es cuantificable, y que puede ser un elemento terminado o un componente. La capacidad
+                de prestar un servicio como, por ejemplo, las funciones del negocio que respaldan la producción o la distribución. Un
+                resultado como, por ejemplo, salidas o documentos. Por ejemplo, de un proyecto de investigación se obtienen conocimientos
+                que pueden usarse para determinar si existe o no una tendencia o si un nuevo proceso beneficiará a la sociedad.”5 Los
+                productos que se obtienen en cualquier proyecto, no necesariamente de sistemas, son por definición diferentes, esto se
+                especifica en la característica de singularidad, la cual es una de las más importantes de cualquier proyecto. Como ejemplo
+                tenemos a las personas, producto de la unión de un hombre y una mujer, las cuales son diferentes, aunque existan casos
+            de gemelos o siameses, estos son diferentes en personalidad o alguna otra característica.</p>
+            <p>A continuación se muestra un grafico sobre las áreas de conocimiento que debe seguir la dirección de proyectos.</p>
+            <div class="col-sm-offset-1">
+                 
+            <img src="assets/img/PMBOK.jpg" alt="Raised Image" class="img-raised rounded img-fluid">
+            <h4 class="text-center">Figura 6 – Áreas de conocimiento</h4>
+            </div>
+            <p>Para poder distribuir y controlar eficientemente los recursos, el tiempo y el dinero que son asignados a cualquier proyecto
+                se hace uso de las pautas que define el PMBOK, denominadas áreas de conocimiento. Esto traerá como consecuencia el resultado
+                esperado y la satisfacción del cliente.</p>
+            <p>A continuación se detallaran solo 3 áreas de conocimiento, las cuales fueron utilizadas para el desarrollo efectivo del presente
+                proyecto:</p>
+                <ul>
+                    <li>1- Gestión de la Integración del Proyecto </li>
+                    <li>2- Gestión del Alcance del Proyecto </li>
+                    <li>3- Gestión del Tiempo del Proyecto </li>
+                </ul>
+            <p>En los siguientes puntos, se explicará cada una de las áreas de conocimiento arriba mencionados.
+            </p>
+            <h3>1- Gestión de la Integración del Proyecto</h3>
+            <p>
+            Esta área de conocimiento define procesos y actividades del proyecto. Se debe identificar las necesidades de los stakeholders
+            que se relaciona en el proyecto. Además se trata de definir el alcance, roles, visión, misión, etc, que se encuentran involucrados.
+            También, se procede a combinar y unificar los procesos y actividades de dirección de proyectos. Finalmente, se combinan todos
+            los aspectos mencionados para lograr un eficiente desarrollo del proyecto.
+            </p>
+            <p>
+            Para el desarrollo de un proyecto, la integración abarca características de consolidación, dirección, conjunción y factores
+            de integración que son necesarios para finalizarlo, utilizando los recursos y tiempo disponibles.
+            </p>
+            <p>
+            Para esto, la integración implica saber cómo reunir los recursos, como distribuirlos correctamente y como hacer efectivos
+            sus tiempos; adelantándose a posibles problemas que interrumpan el normal flujo de desarrollo.
+            </p>
+            <p>
+            Así, la integración está fuertemente vinculada con la relación que tienen los procesos entre los grupos de procesos del
+            directorio, que son la guía para alcanzar los objetivos del proyecto definidos por la organización. “Según el PMBOK, los
+            procesos de integración de dirección de proyectos incluyen:
+            </p>
+            <ul>
+            <li>
+                <strong>Desarrollar el Acta de Constitución del Proyecto:</strong> desarrollar el acta de constitución del proyecto que autoriza
+                formalmente un proyecto o una fase de un proyecto. </li>
+            <li>
+            <strong>Desarrollar el Enunciado del Alcance del Proyecto (Preliminar):</strong> desarrollar el enunciado del alcance del proyecto
+                preliminar que ofrece una descripción del alcance de alto nivel. </li>
+            <li>
+            <strong>Desarrollar el Plan de Gestión del Proyecto:</strong> documentar las acciones necesarias para definir, preparar, integrar
+                y coordinar todos los planes subsidiarios en un plan de gestión del proyecto. </li>
+            <li>
+            <strong>Dirigir y Gestionar la Ejecución del Proyecto:</strong> ejecutar el trabajo definido en el plan de gestión del proyecto
+                para lograr los requisitos del proyecto definidos en el enunciado del alcance del proyecto.</li>
+
+            <li>
+                <strong>Supervisar y Controlar el Trabajo del Proyecto:</strong> supervisar y controlar los procesos requeridos para iniciar,
+                planificar, ejecutar y cerrar un proyecto, a fin de cumplir con los objetivos de rendimiento definidos en el plan de
+                gestión del proyecto.</li>
+            <li>
+                <strong>Control Integrado de Cambios:</strong>
+            revisar todas las solicitudes de cambio, aprobar los cambios, y controlar los cambios en los productos entregables y en los
+            activos de los procesos de la organización.
+            </li>
+            <li>
+                <strong>
+            Cerrar Proyecto:
+                </strong>
+            finalizar todas las actividades en todos los Grupos de Procesos de Dirección de Proyectos para cerrar formalmente el proyecto
+            o una fase del proyecto.
+            </li>
+
+            </ul>
+            <p>A continuación se muestra un gráfico donde se detallan las relaciones entre los procesos de integración de dirección de proyectos.</p>
+
+            <div >
+            <img src="assets/img/r_proceso7.jpg" alt="Raised Image" class="img-raised rounded img-fluid">
+            <h4 class="text-center">Figura 7 – Relación entre los procesos de integración de dirección de proyectos</h4>
+            </div>
+            <p>si quiere ver mas del tema visite la página amiga =>
+                <a class="btn btn-success" href="http://www.uv-mdap.com/blog/pmp-introduccion-a-la-direccion-de-proyectos/">Ir a página</a>
+            <h3>2- Gestión del Alcance del Proyecto</h3>
+            <p>
+            Esta área de conocimiento define los procesos que permiten que el proyecto llegue a un final donde se alcance con las expectativas
+            del cliente. Para esto se evalúa que requerimientos son los necesarios para que el trabajo concluya satisfactoriamente.
+            </p>
+            <p>
+            Esta área delimita hasta donde se quiere llegar en el desarrollo del proyecto, se define y se lleva el control de lo que
+            está incluido en el proyecto. Los procesos que se definen en la guía PMBOK incluyen:
+            </p>
+            <ul>
+            <li>
+                <strong>Planificación del Alcance:</strong> crear un plan de gestión del alcance del proyecto que refleje cómo se definirá, verificará
+                y
+                controlará el alcance del proyecto, y cómo se creará y definirá la Estructura de Desglose del Trabajo (EDT).</li> 
+            <li>
+                <strong>Definición del Alcance:</strong> desarrollar un enunciado del alcance del proyecto detallado como base para futuras decisiones
+                del
+                proyecto.</li>
+            <li>
+                <strong>Crear EDT:</strong> subdividir los principales productos entregables del proyecto y el trabajo del proyecto en componentes
+                más pequeños
+                y más fáciles de manejar.</li>
+            <li>
+                <strong>Verificación del Alcance:</strong> formalizar la aceptación de los productos entregables completados
+            del proyecto.</li>
+            <li>
+                <strong>Control del Alcance:</strong> controlar los cambios en el alcance del proyecto.</li>
+            </ul>
+<p>Esta área del conocimiento es una de las más importantes de todas, ya que los procesos que define se relacionan con los de
+las demás áreas del conocimiento. Estos procesos se presentan como componentes discretos con las interfaces del área
+de conocimiento, pero en la realidad puede interactuar de maneras que no se especifican en el manual del PMBOK.
+</p>
+<p>Según la guía definida por el PMI, “la palabra alcance puede referirse a lo siguiente:</p>
+<ul>
+<li>
+<strong>Alcance del producto.</strong> Las características y funciones que caracterizan a un producto, servicio o resultado.
+</li>
+<li>
+<strong>Alcance del proyecto.</strong> El trabajo que debe realizarse para entregar un producto, servicio o resultado con las
+funciones y características
+especificadas.</li>
+</ul>
+<p>A continuación se muestra un gráfico donde se detallan las relaciones entre los procesos del alcance del proyecto.</p>
+<div>
+<img src="assets/img/gap.png" alt="Raised Image" class="img-raised rounded img-fluid">
+<h4 class="text-center">Figura 8 – Relación entre procesos del alcance del proyecto</h4>
+</div>
+<p>si quiere ver mas del tema visite la página amiga =>
+<a class="btn btn-success" href="http://www.uv-mdap.com/blog/la-gestion-del-alcance-proyecto-enfoque-pmi/">Ir a página</a>
+<h3>3- Gestión del Tiempo del Proyecto</h3>
+<p>Esta área define los pasos necesarios para que el proyecto se concluya en el tiempo establecido por el cliente. Según PMBOK,
+los procesos de Gestión del Tiempo del Proyecto incluyen lo siguiente:</p>
+<ul>
+<li>Definición de las Actividades: identifica las actividades específicas del cronograma que deben ser realizadas para producir
+los diferentes productos entregables del proyecto.
+</li>
+<li>Establecimiento de la Secuencia de las Actividades: identifica y documenta las dependencias entre las actividades del cronograma.</li>
+<li>Estimación de Recursos de las Actividades: estima el tipo y las cantidades de recursos necesarios para realizar cada actividad
+del cronograma.</li>
+<li>Estimación de la Duración de las Actividades: estima la cantidad de períodos laborables que serán necesarios para completar
+cada actividad del cronograma.</li>
+<li>Desarrollo del Cronograma: analiza las secuencias de las actividades, la duración de las actividades, los requisitos de recursos
+y las restricciones del cronograma para crear el cronograma del proyecto.</li>
+<li>Control del Cronograma: controla los cambios del cronograma del proyecto.</li>
+</ul>
+<p>Esta área del conocimiento es una de las más importantes de todas, ya que los procesos que define se relacionan con los de
+las demás áreas del conocimiento. Estos procesos se presentan como componentes discretos con las interfaces del área
+de conocimiento, pero en la realidad puede interactuar de maneras que no se especifican en el manual del PMBOK 
+</p>
+<p>Cuando el proyecto es de bajo alcance, la definición del tiempo tiende a no ser tan exacta, debido a que existe una holgura
+mayor, caso contrario, cuando un proyecto es de gran alcance, se debe hacer tener un mayor control al momento de definir
+las labores de las personas.</p>
+<p>A continuación se muestra un grafico donde se detallan las relaciones entre los procesos de la gestión de tiempo del proyecto.</p>
+
+
+<div>
+<img src="assets/img/tiempoimages.png" alt="Raised Image" class="img-raised rounded img-fluid">
+<h4 class="text-center">Figura 9 – Relación entre los procesos de gestión de tiempo del proyecto</h4>
+</div>
+<h1>Ejemplo básico de implementación de Enterprise Unified Process (EUP) extensiones RUP desde 2002</h1>
+<h2>Modelamiento Empresarial para la Oficina de Investigación y Docencia</h2>
+<p>Para tener una visión global del negocio y los procesos que en ella se desarrollan, nos hemos basado en la metodología denominada
+EUP10. Esta metodología define una disciplina, denominada Enterprise Business Modelling, la cual nos permitirá entender
+el negocio, y luego, realizar artefactos que nos permitan identificar y relacionar los procesos.
+</p>
+<p>Para ello se revisó varios documentos proporcionados por la Unidad de Apoyo 
+Administrativo como el Manual de Organización
+y Funciones y el Reglamento de organización y funciones. Además, se realizaron diversas 
+entrevistas con los jefes de las
+unidades orgánicas de la EMPRESA así como con el Director Ejecutivo. La definición de
+algunos términos usados en la oficina
+se encuentran detallados en el Anexo C.</p>
+<h2>Descripción del Negocio</h2> <p>La descripción del negocio
+es la base en la que se desenvuelve
+la empresa. Esta base involucra la visión y misión del negocio. Para conocer y entender 
+las actividades principales de la
+oficina de investigación y docencia, se ha revisado una serie de documentos y se ha 
+solicitado una serie de entrevistas con
+los responsables de las diferentes unidades de la entidad.</p>
+
+<h2>Oficina Ejecutiva de Apoyo a la Investigación y Docencia Especializada</h2> 
+<p>La Oficina Ejecutiva de Apoyo a la Investigación y Docencia Especializada (OEAIDE)
+es una unidad orgánica del Instituto Especializado de Salud del Niño, que depende de la 
+dirección general, y está encargada de realizar la coordinación, programación, asesoría 
+y seguimiento de los proyectos de investigación e impulsar la difusión
+de sus resultados.</p> 
+<div>
+<img src="assets/img/Organigrama_OEAIDE.png" alt="Raised Image" class="img-raised rounded img-fluid">
+<h4 class="text-center">Figura 10 – Organigrama de OEAIDE</h4>
+</div>
+<p>
+<strong>Fuente: Manual de funciones de OEAIDE 
+</strong></p>
+<p>La oficina de investigación y docencia cuenta con 4 unidades de operaciones, donde 
+se desarrollan los procesos de investigación y docencia, y 1 unidad de apoyo, la cual 
+soporta los procesos realizados en la oficina.
+</p>
+<p>La unidad de apoyo administrativo, es la responsable de realizar las actividades que apoyan a los procesos de investigación
+y docencia, administrando convenios específicos con universidades de salud, gestionando el ciclo de vida de los trámites realizados
+ por alumnos, verificando la entrega y recepción de los documentos oficiales que manejan las diferentes unidades 
+ de la oficina, entre otros.</p>
+<p>Los procesos de investigación son desarrollados, en su mayoría, por 2 unidades de la oficina, las cuales son, Unidad de Diseño
+y Elaboración de Proyectos de Investigación y Unidad de Desarrollo de Investigación Clínico – Epidemiológica y Ensayos
+Clínicos.</p>
+<p>Estas unidades son las encargadas de gestionar los recursos y actividades necesarias para la elaboración de los concursos
+de investigación, administrar el desarrollo de los proyectos propuesto por investigadores, publicar e informar sobre
+los resultados obtenidos en los proyectos desarrollados satisfactoriamente, entre otros.</p>
+<p>Los procesos de docencia son soportados por 2 unidades dentro de la oficina, Unidad de Enseñanza Formativa y Unidad de Capacitación
+Especializada. Estas unidades son las responsables de capacitar a los alumnos y médicos con los temas desarrollados en
+las investigaciones, gestionar los recursos necesarios para otorgar una adecuada enseñanza, entre otros.</p>
+<h2>Unidades Funcionales</h2>
+<p>Las unidades funcionales son referidas a las áreas de mayor actividad, las cuales tiene una serie de funciones.</p>
+<p>A continuación se detallarán las funciones y actividades que se realizan en cada una de las unidades dentro de la oficina
+de investigación y docencia.</p>
+<h3 class ="text-danger">
+    a) Unidad de Diseño y Elaboración de Proyectos de Investigación
+</h3>
+<p>La Unidad de Diseño y Elaboración de Proyectos de Investigación (UDEPI) es la encargada de la coordinación de las actividades
+de diseño y elaboración de proyectos de investigación que se presentan en la OEAIDE y que van a ser realizados en el
+Instituto Especializado de Salud del Niño.</p>
+<p>También es la encargada de coordinar las actividades sobre la aplicación metodológica y estadística en los sistemas de ejecución
+y proyección de los proyectos de investigación, así como establecer mecanismos de capacitación y actualización en diseño
+y elaboración, de los mismos, en el área de salud y afines.</p>
+<p class ="lead">Las actividades realizadas dentro de esta unidad son las siguientes:</p>
+<ul>
+<li> Asesoría y evaluación de los proyectos de investigación </li>
+<li> Elaboración de talleres de diseño de proyectos de investigación</li>
+<li> Mantenimiento de la biblioteca virtual del hospital del niño </li>
+<li> Desarrollo de proyectos de acuerdo al convenio con el hospital de niño </li>
+<li> Elaboración de manual de procesos y procedimientos para la oficina de investigación y docencia </li>
+<li> Gestionar el fondo concursable para investigación</li>
+</ul>>  
+<p>Todas estas actividades apoyarán al correcto desarrollo de los proyectos de investigación.
+</p>
+<h3 class ="text-danger">  b) Unidad de Desarrollo de Investigación Clínico – Epidemiológica y Ensayos Clínicos
+</h3>
+<p>La Unidad de Desarrollo de Investigación Clínico-Epidemiológica y Ensayos Clínicos (UDICEYEC) es la encargada de definir
+los miembros de los diferentes comités que intervienen en el desarrollo de los proyectos presentados para su desarrollo.</p>
+<p>Además, esta unidad tiene la responsabilidad de incentivar y promover la elaboración de nuevos proyectos de investigación,
+para su posterior desarrollo y evaluación. Esto favorece a brindar un servicio asistencial de calidad a las pacientes
+que asisten al Hospital del Niño.</p>
+<p>Finalmente, son los encargados de mantener en funcionamiento los activos de información y tecnológicos, proporcionando la
+continuidad en los sistemas usados en toda la oficina de investigación y docencia. Así también, deben realizar actividades
+de administración sobre la base de datos y proponer las mejores opciones para proporcionar disponibilidad, seguridad
+y confiabilidad de la información.</p>
+<p>A continuación se presentan las diferentes actividades realizadas en la unidad:</p>
+<ul>
+<li> Definición del comité de ética en investigación </li>
+<li> Selección de personal para comité de monitoreo de ensayos clínicos </li>
+<li> Actualización de la información para la biblioteca del hospital del niño </li>
+<li> Mantenimiento de los recursos de tecnologías de información </li>
+<li> Definición de los miembros del comité de publicaciones </li>
+<li> Actividades de promoción y fomento de la investigación</li>
+<li> Actividades de planificación, organización, control y evaluación de los trabajos de investigación</li>
+</ul>
+<h3 class="text-danger">c) Unidad de Enseñanza Formativa</h3>
+<p>La Unidad de Enseñanza Formativa (UEF) es una unidad funcional de la OEAIDE que tiene por función la coordinación, programación
+y seguimiento, así como apoyo, de la docencia especializada de pregrado y postgrado.</p>
+<p>De otro lado, la UEF está encargada de evaluar y ejecutar el Plan Anual de Residentado Médico, Internado de Ciencias de las
+Salud, así como la instalación y funcionamiento de los Comités Técnicos con las Instituciones Universitarias con las
+cuales el INSN tiene convenios firmados (Convenios Específicos de Cooperación), al igual que de los Cursos de Especialización,
+Maestrías y Doctorado e igualmente de la capacitación del personal de INSN.</p>
+<p>Por último, está encargada de la conservación, programación y coordinación de las ocho aulas a su cargo, así como del material
+audiovisual, los cuales están dedicados prioritariamente a la Enseñanza Formativa de pregrado y postgrado, así como los
+cursos de especialización, de Maestría y de Doctorado e igualmente de capacitación del personal del INSN.</p>
+<h3 class ="text-danger">d) Unidad de Capacitación Especializada</h3>
+<p>La Unidad de Capacitación Especializada (UCE), es la encargada de programar, ejecutar y evaluar el Plan Anual de Capacitación
+institucional. Conjuntamente con la Unidad de Enseñanza Formativa, es la encargada de la coordinación y firma de convenios,
+con instituciones educativas; supervisar y velar que se cumpla lo estipulado en los convenios a través de los Comités
+Técnicos Locales de Coordinación.</p>
+<p>También, esta unidad tiene por función la convocatoria de los trabajadores del IESN a la participación en el Fondo Concursable
+de Capacitación y coordinar con el Comité de Becas la evaluación de los participantes en el Fondo Concursable. Así también,
+deben convocar y coordinar las reuniones del Comité de Becas y Capacitación y brindar el apoyo necesario a los diferentes
+servicios, en la ejecución de sus programas de capacitación internos.</p>
+<p>Por otro lado, debe evaluar y aprobar las pasantías solicitadas por profesionales visitantes al IESN, así como las solicitadas
+por trabajadores del IESN, así como, evaluar, aprobar y distribuir a los alumnos que requieren prácticas pre-profesionales
+de los institutos superiores.</p>
+<p>Finalmente, debe evaluar, aprobar y coordinar la difusión de los diferentes programas de capacitación organizados por otras
+Instituciones y que no estén incluidos en el PAC institucional.
+</p>
+<p>La Unidad de Capacitación Especializada, también forma parte del Comité de Becas y Capacitación. Brinda el apoyo necesario
+a los diferentes servicios, en la elaboración y ejecución de sus programas de capacitación internos, así como evalúa
+y aprueba las capacitaciones solicitadas por los trabajadores de los diferentes grupos ocupacionales del IESN</p>
+
+<h3 class ="text-danger">e) Unidad de Apoyo Administrativo</h3>
+<p>La unidad de Apoyo Administrativo es la encargada de coordinar las actividades
+administrativas internas y externas, autorizadas por el Director Ejecutivo de la
+OEAIDE, y salvaguardar el cumplimiento de las normas y directivas propias de la
+Oficina y de la Institución.</p>
+<p>Además, su personal está encargado de elaborar los documentos de requerimientos internos y externos; asimismo el trámite
+y seguimiento de los mismos, con autorización del Director Ejecutivo de la OEAIDE</p>
+<p>Esta unidad tiene una serie de responsabilidades, las cuales deben ser realizadas de manera eficiente para el buen funcionamiento
+de los procesos de investigación y docencia. Las responsabilidades de esta unidad serán mencionadas a continuación:
+</p>
+<ul>
+<li> Recepción y distribución de los documentos que ingresan a la OEAIDE.</li>
+<li> Atención del público,</li>
+<li> Atención del teléfono interno y externo,</li>
+<li> Registro de documentos en el Sistema de Trámite Documentario,</li>
+<li> Trámites administrativos.</li>
+</ul>
+<p> Se cuenta con el apoyo de la Secretaria de la Unidad de Desarrollo de Investigación Clínico - Epidemiológica y Ensayos Clínicos
+(Srta. Mabel Torres Padilla) y del Auxiliar en Estadística de la Unidad de: Diseño y Elaboración de Proyectos de Investigación
+(Sr. Ormindo Hugo Vela Marrou). , las cuales tienen una serie de funciones.</p>
+<h3>Modelo de Dominio</h3>
+<p>El modelo de dominio es una representación lógica de los objetos, clases y conceptos de la realidad de algún negocio que
+son importantes para un problema o área empresarial. Además, representa los conceptos del mundo real y no de los componentes
+de software y representa los tipos de objetos más importantes dentro del contexto del sistema. Los objetos del dominio
+representan clases u otras entidades que existen en el entorno en el cual operarán los productos finales.</p>
+<p>Todo modelo de dominio, representado con cualquier metodología, muestra en sus diagramas:
+</p>
+<ul>  <li> Conceptos u objetos del dominio del problema: clases conceptuales.</li>
+<li> Asociaciones entre las clases conceptuales</li>
+<li> Atributos de las clases conceptuales”11</li>
+</ul>
+<p>Hay que tener en cuenta que en el modelo de dominio no se muestra el comportamiento de las entidades, y estas deben tener
+solo atributos. Se debe tener en cuenta que cualquiera que sea el modelo, debe contemplar todos los casos que pueda contemplar
+la empresa. Esto quiere decir que no existe un modelo de negocio único, pero el modelo que se genere, debe contar con
+una cronología, debe diferenciar entre los de adentro y fuera del negocio y debe abarcar todos los casos de uso.</p>
+<p>En este modelo se muestran las relaciones de las clases que intervienen en los procesos
+de la oficina de investigación y docencia; tales como los de investigación, docencia y
+apoyo administrativo.</p>
+<p> Para ver mas del tema modelo y dominio -->link de referencia del tema
+<a class ="btn btn-primary" href="http://www.wikiwand.com/es/Modelo_de_dominio">Modelo de dominio - definicion y uso</a>
+</p>
+<div>
+<img src="assets/img/modelo_hospital.png" alt="Raised Image" class="img-raised rounded img-fluid">
+<h4 class="text-center">Figura 3.2 – Modelo de Dominio</h4>
+</div>
+
+
+11 Cfr. Modelo de Dominio
+
+
+<p>Las entidades de negocio son importantes porque manejan información de la empresa y
+pueden almacenar datos.</p> 
+<p>Es importante definir todas las entidades de datos necesarias para soportar el negocio. A continuación se presentará una
+lista de aquellas entidades identificadas, las cuales brindan información vital para el negocio.</p>
+<p>
+<strong>Expediente:</strong> Es la entidad la cual ofrece los datos del expediente que llegan a la OEAIDE provenientes de una
+unidad externa
+por ejemplo: MINSA, Universidades etc.</p>
+<p>Estos expedientes son denominados Oficios y son únicamente recepcionadas por la Unidad de Apoyo Administrativo para luego
+derivarlo a la unidad correspondiente.</p>
+<p>
+<strong>Proyecto de investigación:</strong> Entidad que contiene el proyecto de investigación presentado por los alumnos o por
+alguna persona
+externa interesada en presentar un proyecto en el área de la salud.</p>
+<p>
+<strong>Organismo:</strong>Es la orden de compra realizada una vez aprobada la cotización, el proveedor ha confirmado la compra y
+esta ha sido aprobada por presupuestos, se genera la orden de compra.
+</p>  
+<p>
+<strong>Médico:</strong> Es aquel profesional de la salud especializado en el área pediátrica que realiza un entrenamiento corto
+en servicio y que se rige por las normas del IESN.</p>
+<p>
+<strong>Residente:</strong> Es aquel profesional de la salud que requiere realizar una especialización.</p>
+<p>
+<strong>Interno:</strong> Es aquel alumno de medicina que realiza sus prácticas pre profesionales en el
+instituto.</p>
+<p>
+<strong>Pasante:</strong> Es aquel medico que desea realizar una estancia en el hospital para
+especializarse pero el lapso de tiempo es corto.</p>
+<p>
+<strong>Recursos:</strong> Es la entidad que se refiere a los recursos que se debe contar para realizar
+una clase en OEAIDE.</p>
+<p>
+<strong>Equipo:</strong> Es la entidad que contiene la información de los equipos y permite realizar el
+seguimiento a dichos equipos.</p>
+<p>
+<strong>Aula:</strong> Es la entidad que contiene la información de las aulas y permite realizar el
+seguimiento a dichos equipos.</p>
+<p>
+<strong>Actividad:</strong> Contiene la información de las actividades tanto teóricas como las
+asistenciales.</p>
+<p>Matricula: Contiene la información de la matricula del alumno que tiene clases en
+OEAIDE.</p>
+<p>Trámite: Es la entidad en la cual se registra la información del trámite que realiza un
+alumno o profesor.</p>
+<p>Profesor: Es el profesional de la salud, miembro del IESN que realizan labores de
+enseñanza en el área donde trabaja. Tiene a su cargo un grupo reducido de alumnos de
+una Facultad o Escuela que tiene Convenio Especifico con el IESN.</p>
+<p>Universidad: Es la institución con la que OEAIDE tiene algún convenio y así sus
+alumnos pueden asistir para realizar sus prácticas pre-profesionales y realizar las labores
+en el OEAIDE</p>
+<p>Convenio: Es la entidad que contiene los datos con que universidad se tiene el convenio
+con OEAIDE</p>
+<p>Rotación: Es la entidad que contiene los datos de la rotación del interno o profesional
+de la salud</p>
+<p>Sede: Esta referido a la sede en la que se encuentra haciendo la rotación el interno o
+alumno.</p>
+<p>Revista médica: Es la entidad que contiene la publicación del proyecto que ha sido
+aprobado y corregido para su distribución en la revista médica.</p>
+<p>Resultado del proyecto: Es la entidad que contiene todos los resultados de los
+proyectos que participaron en el concurso.</p>
+<p>Fondo: Es la entidad que contiene la información de los organismos que auspician los
+fondos para gestionar un concurso.</p>
+<p>Comité: Es la entidad que contiene la información de los diferentes comités que
+aprueban los proyectos de investigación</p>
+<p>Investigador: Es la entidad que contiene los datos de la persona interesada de presentar
+un proyecto de investigación</p>
+<p>Concurso: Es la entidad que contiene la información del concurso para convocar
+proyectos</p>
+<p>Informe de Evaluación: Es la entidad que contiene la información de la evaluación
+realizada al interno durante su rotación por el hospital</p>
+<p>Reporte de Notas: Es la entidad que contiene las notas obtenidas en el periodo de
+rotación</p>
+<p>Solicitud: Es el documento formal por el cual se realiza una solicitud de tipo actividad o
+recurso, la cual la solicita el médico o el responsable de la unidad del OEAIDE</p>
+<p>Orden de pago: Es el documento mediante el cual se emite un comprobante para poder
+ser pagado en tesorería</p>
+<p>Historial de proyectos aprobados: Es la entidad que contiene la relación de proyectos
+aprobados por los comités</p>
+<p>Historial de seguimiento de proyecto: Es la entidad que contiene la información de los
+proyectos</p>
+<p>Informe de aprobación: Es la entidad que contiene la información de la fecha de la
+aprobación de los proyectos</p>
+<p>Base del concurso: Es la entidad que contiene la información relevante para realizar el
+concurso</p>
+<p>Directiva de organismos públicos: Esla entidad que contiene las directivas sobre la
+que se rige el instituto del niño y sobre la que se basan los concursos</p>
+<p>Proyectos Aprobados: Esla entidad que contiene el listado de los proyectos aprobados,
+ya sean mediante el concurso o mediante el proceso de revisión de investigaciones.</p>
+<p>Cronograma de actividades: Es la entidad que contiene la información de todas las
+actividades que se van a desarrollar en OEAIDE de manera cronológica.</p>
+<p> Reglas de Negocio Las reglas de negocio son la colección de políticas y restricciones de negocio de una organización. En
+general, las organizaciones funcionan siguiendo múltiples reglas de negocio, explicitas o táctiles, que están embebidas en
+procesos, aplicaciones informáticas, documentos, etc. Estas permiten a la empresa que los procesos puedan mantenerse prácticamente
+sin cambios (excepto los derivados de las mejoras introducidas en su diseño) ya que la mayor parte de los cambios se derivan
+de las variaciones del entorno empresarial, que es justamente lo que queda definido en las reglas de negocio. </p>
+
+<p>
+46 Una definición explicita sobre esto dice: “Una regla de negocio es simplemente una regla que está bajo jurisdicción del negocio.
+ Esto quiere decir que se toma para significar que el negocio puede decretar, revisar, y continuar sus reglas de negocio mientras que
+consideran vigentes. Si una regla no está bajo jurisdicción del negocio en ese sentido, entonces no es una regla de negocio.” 
+La Oficina Ejecutiva de Apoyo a la Investigación y Docencia Especializada es de gran importancia en el desarrollo de las
+actividades del Instituto Especializado de Salud del Niño. Esto debido a que el IESN es un hospital de alta complejidad y,
+por ende, debe realizar actividades referidas a la investigación. No se limita a la parte asistencial como las demás entidades
+de salud en el Perú, de media y baja complejidad, sino que ejerce como entidad educativa en temas relacionados a la pediatría,
+además, de lo referido a la investigación. Se tomo como referencias las siguientes fuentes de información que sirvieron como
+base para la elaboración del documento de las Reglas de Negocio fueron las siguientes: Manual de Organización y Funciones
+de la Oficina Ejecutiva de Apoyo a la Investigación y Docencia Especializada. Informe de Gestión 2006 de la OEAIDE.</p>
+ <p> Documento elaborado por el Dr. Justo Padilla, Director Ejecutivo. Plan de Gestión OEAIDE 2007 Reglamento de Organización y Funciones
+del Instituto Especializado de Salud del Niño.</p>
+<p> 47 Con la finalidad de completar la información normativa de la OEAIDE, se llevó a cabo una entrevista con el 
+  Dr. Justo Padilla, Director Ejecutivo. Esta entrevista fue elaborada por el Gerente del
+Proyecto. A continuación se definirán y enumerarán las reglas de negocio y las pautas que rigen las actividades de la Oficina
+Ejecutiva de Apoyo a la Investigación y Docencia Especializada (OEAIDE). Con la elaboración de este documento se podrá normar
+a la mencionada oficina y, así, llevar un adecuado control de la misma. Se debe tener en cuenta que las presentes reglas
+de negocio serán divididas según las unidades formativas de la Oficina Ejecutiva de Apoyo a la Investigación y Docencia Especializada
+para su mayor entendimiento. Además, se describirán las reglas que norman a la Oficina en general y a las actividades y funciones
+del Director Ejecutivo. Sobre los convenio Regla de Tipo Existencia OEAIDE puede tener al menos un convenio con una universidad
+para que exista Sobre la Universidad Regla de Tipo Existencia Una solicitud puede ser ingresada por una Universidad. </p> 
+<p>Sobre los Trámites Regla de Tipo Existencia El trámite es creado por OEAIDE Sobre el Residente </p>
+<p>48 Regla de Tipo Existencia El residente debe provenir necesariamente de una universidad para ser aceptado. Sobre Investigador 
+  Regla de Tipo Existencia El investigador tiene que por lo menos presentar un proyecto Sobre los Convenios Regla de Tipo Existencia 
+  OEAIDE puede tener al menos un convenio con una universidad para que exista Sobre la Actividad 
+  Regla de tipo Restricción: Estimulus Para que se genere una actividad debe haber existir el convenio con la universidad 
+  solicitante. Sobre el Concurso Regla de tipo Restricción: Estimulus Para que exista un concurso primero se tiene que 
+  conseguir los fondos de dichos concurso. </p>
+<p> Sobre los recursos  49 Regla de tipo Restricción:</p> 
+  <p>  Estimulus Para separar los recursos, estos deben estar disponibles. </p>
+  <p>Sobre los internos Regla de tipo Existencia El interno debe provenir necesariamente de una universidad para ser aceptado. <p>
+  <p>El interno solo será admitido si existe convenio Sobre la revista médica Restricción: Estimulus El proyecto debe estar 
+    cerrado para poder publicarse. </p>
+  <p>Sobre las bases del concurso Restricción: Estimulus Las bases del concurso tienen que ser 
+    publicadas antes de la apertura del concurso</p> 
+    <p>Sobre la orden de pago Restricción: Estimulus Para que se emita una orden de 
+    pago primero tiene que salir la lista de meritos con los proyectos aprobados Restricción: Structural Una orden de pago
+    tiene por lo menos un ítem 50 Sobre los comités Existencia El comité tiene que tener por lo menos un proyecto de investigación 
+   a evaluar Sobre la solicitud Existencia Una solicitud puede ser ingresada por una Universidad. Sobre el informe de evaluación 
+   Existencia El informe de evaluación podrá generarse cuando el alumno termine sus actividades teóricas.</p> 
+   <p>Misión de la Oficina La misión de la entidad de salud es la siguiente:</p>
+
+   <p>* Apoyar la investigación, docencia y capacitación de calidad en el INSN.12 En cuanto a la misión, este documento es un breve
+enunciado que sintetiza los principales propósitos estratégicos y los valores esenciales que deberán ser conocidos, 12 Cfr.</p>
+<h4>Plan de Gestión OEAIDE 2007 51 comprendidos y compartidos por todas las personas que colaboran en el desarrollo del negocio.</h4>
+<p>Sirve para potencializar la capacidad de respuesta de la organización ante las oportunidades que se generan en su entorno
+para la alta dirección. Visión de la Oficina La visión de la entidad de salud es la siguiente:</p>
+<p> · Lograr que el INSN sea líder
+en la investigación, docencia y capacitación de la pediatría nacional.13 En cuanto a la visión, es el documento donde se
+enuncian una idea o conjunto de ideas que se tienen de la organización a futuro. Es el sueño más preciado a largo plazo.</p>
+<p> La visión de la organización a futuro expone de manera evidente y ante todos los grupos de interés el gran reto empresarial
+que motiva e impulsa la capacidad creativa en todas las actividades que se desarrollan dentro y fuera de la empresa. Consolida
+el liderazgo de alta dirección, ya que al tener claridad conceptual acerca de lo que se requiere construir a futuro, le permite
+enfocar su capacidad de dirección, conducción y ejecución hacia su logro permanente. En cuanto a los objetivos, este documento
+define el marco de referencia con base en el cual se orientan todas las estrategias, planes, programas y proyectos específicos
+de la organización. Sirve para evaluar el desempeño general de la organización y medir el avance o rezago que manifiesta
+esta en relación con los grandes propósitos empresariales. 13 Cfr. Plan de Gestión OEAIDE 2007 52 En síntesis, la descripción
+del negocio nos ayuda a entender el funcionamiento del negocio. En esta empresa, se tienen los conceptos y objetivos claros,
+lo cual es favorable para realizar todas las funciones y procesos que necesita la oficina de investigación y docencia. Objetivos
+de la Oficina Para tener un mejor conocimiento del área de estudio, es necesario tener bien definidos los objetivos, ya que
+en base a ellos vamos a realizar una propuesta de arquitectura empresarial. </p>
+<h4>Objetivos General</h4> <p>· Lograr que el INSN sea líder
+en la investigación, docencia y capacitación de la pediatría nacional Objetivos Específicos · Coordinar la programación y
+evaluación de las investigaciones y actividades de especialización y capacitación, en coordinación con la Oficina Ejecutiva
+de Planeamiento Estratégico y demás unidades orgánicas involucradas.</p><p> · Promover el diseño y ejecución de protocolos de investigación
+en materia del campo de investigación y requerimientos institucionales, para desarrollar las actividades asistenciales y
+la transferencia tecnológica correspondiente.</p><p> · Promover y coordinar el diseño y ejecución de programas de especialización
+y capacitación de recursos humanos, requeridos para desarrollar las actividades asistenciales y de investigación del Instituto.</p>
+<p>· Promover y coordinar el diseño y ejecución de programas de proyección a la comunidad en el campo de investigación del Instituto.</p>
+
+<p>53 · Proporcionar el asesoramiento metodológico, bibliográfico y otros servicios especializados, así como el soporte técnico
+y administrativo necesario para coadyuvar al desarrollo de protocolos de investigación básica e investigación clínica y la
+ejecución de las actividades de especialización y capacitación del Instituto.</p>
+<p> · Promover y coordinar la formación y especialización
+de los recursos humanos requeridos para desarrollar las actividades asistenciales y de investigación del Instituto.</p>
+<p> · Sistematizar
+y mantener actualizado el registro de los recursos humanos del Sector Salud, especializados en investigación, capacitación
+y actividades asistenciales en el campo de investigación del Instituto. </p>
+<p>· Efectuar el seguimiento de la atención de los pacientes
+involucrados en protocolos de investigación a cargo de las unidades orgánicas correspondientes.</p>
+
+<p>Figura 3.3 – Diagramas de Objetivos Fuente: Elaboración Propia Ubicación de la institución 54 El instituto del niño,
+   es un órgano desconcentrado del Ministerio de Salud, se encuentra ubicado en la provincia de Lima, en el Distrito de
+    Breña La oficina de investigación y
+docencia es una entidad perteneciente al instituto del niño, la cual se encuentra cercana a este. Este mapa de la oficina
+especializada de apoyo a la investigación y docencia especializada nos muestra el lugar donde están ubicadas las áreas que
+participan en el proceso de la institución. A continuación, se graficará la distribución del primer y segundo piso de la
+institución Figura 3.4 – Mapa de Ubicación-Primer piso Fuente: Elaboración Propia Figura 3.5 – Mapa de Ubicación-Segundo
+piso</p>
+<p>  55 Fuente: Elaboración Propia En conclusión, se pudo detectar que la oficina de investigación y docencia genera 3 procesos
+importantes para el desarrollo de sus objetivos. Estos procesos fueron: investigación, aprendizaje y apoyo administrativo,
+los cuales trabajan conjuntamente para llevar adelante los objetivos del negocio. Macro procesos de la Oficina Dentro de
+OEAIDE se tienen en consideración los procesos por el cual el usuario de Capacitación e Investigación recorren o podrían
+recorrer dentro de la oficina. Asimismo, de acuerdo a sus objetivos y el funcionamiento de la OEAIDE se han identificado
+los siguientes macro procesos: Figura 3.6 – Mapa de procesos general del negocio </p> 
+<p>56 Fuente: Elaboración Propia Este diagrama
+esta divido en 3 grandes procesos: Estratégicos: Estos son los procesos que se caracterizan por ser directrices de la organización
+y por ser ejecutados por la Unidad de Capacitación, la Unidad de Diseño y elaboración de proyectos de investigación, en este
+caso identificamos los procesos de planificación de campañas anuales, que está referido a la planificación de los concursos
+y de los cronogramas de capacitación al inicio del año. Operativos: Procesos destinados a llevar a cabo las acciones que
+permiten desarrollar las políticas y estrategias definidas para la OEAIDE para dar servicio de sus usuarios. Estos procesos
+involucran a los Jefe de las 5 Unidades Funcionales de la oficina. Cabe resaltar que cuentan con la cooperación del Director
+Ejecutivo.</p> 
+<p>57 De Soporte: Procesos no directamente ligados a las acciones de desarrollo de las políticas, pero cuyo rendimiento
+influye directamente en el nivel de los procesos operativos. A continuación se hace un desglose de nuestro anterior mapa
+de procesos general, para tener de manera detallada los procesos del área de la oficina ejecutiva de apoyo a la investigación
+y docencia. Mapeo de Procesos vs Objetivos El mapeo de los procesos versus los objetivos nos permite obtener una vista de
+cuáles son los procesos que están alineados a los objetivos de negocio, priorizando de esta manera objetivamente los procesos
+corre del negocio. A continuación se muestra la tabla que contiene los procesos más importantes para la oficina ejecutiva
+de apoyo a la investigación y docencia especializada. Tabla 3.1 – Mapeo de procesos vs Objetivos de negocio </p>
+
+<p>Fuente: Elaboración Propia</p>
+<p> 58 Objetivos </p>
+<p>>1. Lograr que el INSN sea líder en la investigación, docencia y capacitación de la pediatría nacional.</p>
+<p> 2. Promover y coordinar la formación y especialización de los recursos humanos requeridos para desarrollar las actividades
+asistenciales y de investigación del Instituto</p>
+ <p>3. Promover y coordinar el diseño y ejecución de programas de especialización
+y capacitación de recursos humanos, requeridos para desarrollar las actividades asistenciales y de investigación del Instituto</p>
+<p>4. Coordinar la programación y evaluación de las investigaciones y actividades de especialización y capacitación, en coordinación
+con la Oficina Ejecutiva de Planeamiento Estratégico y demás unidades orgánicas involucrada Los procesos más importantes
+son la gestión de la admisión de alumnos, administrar la investigación, administrar la capacitación siendo los de menos prioritarios
+administrar concurso. Procesos de la Oficina ejecutiva de apoyo a la investigación y docencia Para la descripción de los
+procesos de la oficina ejecutiva de apoyo a la investigación y docencia, nos centraremos e los 4 procesos operativos.</p> 
+
+<p>Figura 3.7 – Procesos Operativos Fuente: Elaboración Propia </p>
+
+<p>59 A continuación se describirán la forma de trabajo de cada uno de
+los procesos de la oficina ejecutiva de apoyo a la investigación y docencia especializada, para llegar a poder tener un mejor
+entendimiento sobre ellos. Gestión Formativa Este macro proceso abarca la admisión de los profesionales de salud en formación
+y la capacitación del personal de los distintos servicios del Instituto de salud del niño, así como. Los procesos son:</p> 
+<p>·Gestión de Admisión de profesionales de salud en formación Este proceso tiene como objetivo llevar un control de los distintos
+profesionales de salud que ingresan para realizar sus actividades de formación, ya que en la oficina se manejan tres tipos
+de personal médico, entre ellos se encuentran los internos, residentes y pasantes que solicitan realizar sus actividades
+en dicha institución y para ello es necesario tener un control del personal, así como también al finalizar sus labores es
+necesario el registro de notas para llevar un control de sus actividades realizadas. </p>
+<p>Figura 3.8 – Flujo de trabajo del proceso gestionar la admisión de profesionales de salud Fuente: Elaboración Propia </p> 
+<p>60 El subproceso registrar las solicitudes de
+admitidos comienza cuando la universidad solicita que sus alumnos sean admitidos, ya sea como internos, residentes o pasantes.</p>
+<p>En el caso de internos tiene que existir un convenio entre la Universidad y el IESN, en caso que hubiese dicho convenio y
+existan vacantes, se procede a solicitar los requisitos necesarios para su ingreso. En el caso de residentes o pasantes,
+solo se procede a verificar si existen vacantes para el mes que desean ingresar, se procede a solicitar sus requisitos y
+se los registra en caso que todo esté conforme.</p> 
+<p>Figura 3.9 – Flujo de trabajo del subproceso registrar solicitudes de admisión
+Fuente: Elaboración Propia </p>
+<p>Caracterización del Proceso Gestión de admisión de profesionales de salud en formación Análisis</p>
+<p>61 · Registrar admitidos (D-F) Tabla 3.2 – Caracterización del Subproceso de registrar solicitudes de admitidos N° Entrada
+Actividad Salida Descripción Responsable</p>
+<p> 1 Necesidad de envío de alumnos Presentar solicitudes Solicitud de necesidad La
+universidad envía solicitudes para que sean aprobadas por la OEAIDE Universidad </p>
+<p>2 Solicitud de necesidad Recibir y revisar
+solicitudes Solicitud de necesidad El oficinista UEF recibe y revisa las solicitudes enviadas por las universidades Especialista
+administrativo UEF</p> 
+<p>3 Solicitud de necesidad Es solicitud de recurso </p> 
+<p> - Solicitud de recurso </p>
+  <p>- Solicitud de admisión de alumnos
+Verifica si la solicitud hace referencia a un recurso o a la admisión de un grupo de alumnos Especialista administrativo
+UEF</p>
+<p> 4 Solicitud de recurso Reservar recurso Recurso reservado Si la solicitud de la universidad hace referencia a un recurso,
+se activa el proceso de reserva de recurso Especialista administrativo UEF</p>
+<p> 5 Solicitud de admisión de alumnos Es solicitud
+de admisión de internos</p>
+<p> - Solicitud de admisión de internos</p>
+  <p> - Solicitud de admisión Se verifica si la solicitud de alumnos hace referencia a internos o residentes Especialista administrativo UEF</p>
+  <p>62 de residentes 6 Solicitud de admisión de residentes Existe vacante</p> - Solicitud de admisión de residentes aceptada - Solicitud de admisión de residentes rechazada Se verifica
+si existen vacantes para aceptar a residentes Especialista administrativo UEF 7 Solicitud de admisión de internos Existe
+convenio - Solicitud de admisión de internos aceptada - Solicitud de admisión de internos rechazada Se verifica si existe
+convenios con las universidades para aceptar alumnos Especialista administrativo UEF 8 - Solicitud de admisión de residentes
+aceptada - Solicitud de admisión de internos aceptada Solicitar requisitos Informe de requisitos para admisión El oficinista
+UEF solicita requisitos a las universidades para que los alumnos sean aceptados en el OEAIDE Especialista administrativo
+UEF 9 Informe de requisitos para admisión Elaborar expediente con requisitos del IESN Expediente con requisitos de admisión
+La universidad realiza el expediente con los requisitos que solicita el IESN Universidad 63 10 Expediente con requisitos
+de admisión Aprueban los requisitos - Expediente con requisitos de admisión aprobado - Expediente con requisitos de admisión
+desaprobado El oficinista debe aceptar o rechazar los expediente entregados por las universidades Especialista administrativo
+UEF 11 Expediente con requisitos de admisión aprobado Elaborar registro de admitidos Listado de admitidos Si los expedientes
+son aprobados, se elabora un registro con los diferentes alumnos aceptados, separándolos por universidades Especialista administrativo
+UEF Fuente: Elaboración Propia El subproceso gestionar las rotaciones, implica que una vez que se tenga la lista de admitidos,
+se proceda a revisar si realiza o no la rotación en el servicio respectivo y en caso solicite la rotación respectiva se procede
+a registrar y el médico de jefe de dicha unidad autoriza la asignación al servicio respectivo. Figura 3.10 – Flujo de trabajo
+del subproceso gestionar rotaciones 64 Fuente: Elaboración Propia Análisis · Registrar las rotaciones (A-B) · Aprobar las
+rotaciones(D-E) Tabla 3.3 – Caracterización del Subproceso gestionar rotaciones N° Entrada Actividad Salida Descripción Responsable
+1 Lista de participantes Revisar lista de admitidos Lista de participantes que necesitan rotación La universidad envía solicitudes
+para que sean aprobadas por la OEAIDE Universidad 2 Lista de participantes que necesitan rotación Registrar rotación Participante
+registrado Se registrar la información de la rotación solicitada Especialista administrativo UEF 3 - Participante registrado
+- No rotar alumno Entregar cané de identificación Carné de identificación Se entregan las identificaciones a los alumnos
+Especialista administrativo UEF 65 4 - Carné de identificación - Aprobación de rotación Autorizar asignación Rotación aprobada
+por el jefe de OEAIDE Se aprueba la rotación Jefe de OEAIDE 5 Rotación aprobada por el jefe de OEAIDE Emitir autorización
+de asignación Rotación aprobada por el jefe de OEAIDE Se envía las rotaciones a las diferentes áreas del IESN Jefe de OEAIDE
+Fuente: Elaboración Propia El subproceso administrar programa de actividades comienza cuando cada uno de los servicios respectivos
+en donde se realice la rotación o el internado propiamente dicho, procede a elaborar un programa de actividades definidos
+por ellos , en donde tienen que evaluar y calificar a cada uno de los participantes, luego esta información es enviada a
+la unidad de enseñanza formativa respectiva. Una vez que el residente, interno o pasante haya culminado su labor formativa,
+puede solicitar una constancia, la cual es elaborada por la Unidad de enseñanza formativa y procede a entregársela. Figura
+3.11 – Flujo de trabajo del subproceso administrar programa de actividades Fuente: Elaboración Propia 66 Tabla 3.4 – Caracterización
+del subproceso administrar programa de actividades N° Entrada Actividad Salida Descripción Responsable 1 Emitir autorización
+de asignación Elaborar programa de actividades asistenciales - Actividad registrada - Emitir listado de actividades Los diferentes
+servicios de la oficina, en las cuales están asignados los internos, proponen actividades para que las desarrollen. Servicio
+Unidad Externa 2 - Actividad registrada - Emitir listado de actividades Evaluar y calificar Calificaciones de internos Los
+encargados de los servicios emiten las calificaciones de los internos, dependiendo si son asistenciales o teóricas Servicio
+Unidad Externa 3 Calificaciones de internos Recibir las calificaciones Calificaciones de internos El especialista administrativo
+UEF recibe las calificaciones de parte de los responsables de los servicios del hospital Especialista administrativo UEF
+4 Calificaciones de internos Guardar en el historial del admitido Base de datos actualizada con calificaciones de internos
+El especialista UEF se encarga de guardar los datos de los internos en la base de datos Especialista en educación UEF 5 -
+Solicitud de constancia - Información en base de datos Solicitar Constancia Solicitud de constancia aprobada Los alumnos
+de las universidades solicitan a la oficina una constancia con los resultados de las actividades. Universidad 67 6 Solicitud
+de constancia aprobada Elaborar constancia de estancia en el hospital Constancia autorizada La oficina emite las constancias
+solicitadas. Especialista en educación UEF Fuente: Elaboración Propia El subproceso reservar recursos comienza cuando el
+usuario, sea interno o externo, solicita información sobre el uso de quipos y aulas para determinar que recurso se encuentra
+disponible, luego emite una solicitud de uso de estos recursos para que el encargado sea el que disponga de estos. En caso
+el usuario sea externo, la solicitud se envía a la dirección general, la cual coordina con el jefe de la OEAIDE sobre el
+préstamo de estos recursos. En caso el usuario sea interno, la solicitud se envía directamente con el jefe de la OEAIDE.
+En ambos casos, el responsable de la unidad de enseñanza formativa revisa la programación de ocupación de aulas y equipos,
+en caso no exista disponibilidad se procede a cerrar el proceso. Pero si existe recursos libres, el responsable de la unidad
+de enseñanza formativa realiza la priorización de recursos y autoriza su uso, en caso lo haya pedido un usuario externo,
+se prestan los recursos pero con su respectivo pago en caja. Seguidamente, se emite una notificación a los usuarios, donde
+se envía un rol de los recursos reservados. Figura 3.12 – Subproceso de reservar recursos 68 Fuente: Elaboración Propia Análisis
+Tabla 3.5 – Caracterización del subproceso reservar recurso N° Entrada Actividad Salida Descripción Responsable 1 Solicitud
+de recurso Presentar solicitud de uso de aulas y equipos Solicitud de recurso preliminar El usuario presenta la solicitud
+de recurso para separar algún aula o recurso. Usuario (Interno o Externo) 2 Solicitud de recurso preliminar Recibir solicitud
+y derivarla a la unidad correspondiente Solicitud de recurso derivada El jefe de la oficina deriva la solicitud al especialista,
+solo las solicitudes que no son parte de las actividades del interno Jefe de OEAIDE 3 Solicitud de recurso asignada Recibir
+solicitud y enviarla al técnico Solicitud de recurso aprobada Cuando se aprueba la solicitud del usuario, se envía al técnico
+para la selección de los recursos Especialista en educación UEF 4 Solicitud de recurso Priorizar y autorizar el uso Listado
+de aulas El encargado prioriza y selecciona los recursos Especialista en educación 69 aprobada de aulas y equipos y equipos
+para los usuarios UEF 5 Listado de aulas y equipos Comunicar usuario Boleta de pago El especialista se encarga de comunicar
+al usuario que la solicitud de aulas y equipos se realizó con éxito, así también se genera una boleta de pago Especialista
+en educación UEF 6 Boleta de pago Recibir comunicación y realizar pago Boleta de pago cancelada El usuario recibe la boleta
+de pago para hacer efectiva la reserva de recurso Usuario (Interno o Externo) 7 Listado de aulas y equipos Programar la asignación
+de los recursos Listado de aulas y equipos consolidada El especialista en educación realiza la programación de todos los
+recursos Especialista en educación UEF Listado de aulas y equipos consolidad Acondicionar los equipos y aulas en la fecha
+solicitud Aula acondicionada El especialista en educación realiza el acondicionamiento de los recursos Especialista en educación
+UEF Fuente: Elaboración Propia · Administrar Capacitación Este proceso tiene como objetivo aprobar las capacitaciones, realizar
+el registro de dichas capacitaciones, así mismo realizar la matricula del personal de salud perteneciente a dicho curso o
+taller. Finalmente, es necesario el registro de notas después de la capacitación realizada para llevar un control del personal
+capacitado y poder ver así sus logros. Figura 3.13 – Flujo de trabajo de gestión de capacitación 70 Fuente: Elaboración Propia
+Análisis · Matricular Participante (A-B) · Ejecutar matricula (D-E-F) Tabla 3.6 – Caracterización del subproceso administrar
+capacitación N° Entrada Actividad Salida Descripción Responsable Tiempo 1 Solicitud de actividades académicas Registrar actividad
+- Actividad registrada - Recursos separados - Docente asignado - Formatos de calificación definidos Según el plan anual de
+capacitación, las actividades se presentan para su registro, esta actividad es realizada por el especialista administrativo
+UCE Especialista administrativo UCE 71 2 - Actividad registrada - Listado de alumnos para capacitación Realizar inscripción
+y registrar participante Participante inscrito El especialista administrativo UCE es el encargado de registrar a los participantes
+en la actividad de capacitación Especialista administrativo UCE 3 Participante inscrito Elaborar informe con las actividades
+a llevar Listado de actividades Se genera un listado de actividades que el alumno debe realizar en un ciclo académico Especialista
+administrativo UCE 4 Listado de actividades Iniciar capacitación y supervisar asistencia de participantes Matricula completa
+El especialista en educación UCE se encarga de dar por iniciada la capacitación Especialista en educación UCE 5 Matricula
+completa Ejecutar la programación Capacitación completa Se ejecutan las actividades que se implican en la capacitación Especialista
+en educación UCE 6 Capacitación completa Registrar calificación de la actividad Listado de notas El especialista en educación
+UCE registra las notas de los alumnos al termino de la capacitación Especialista en educación UCE 2 días 7 Listado de notas
+Dar por concluida la capacitación Capacitación completa Se determina que la capacitación finalizo cuando se obtuvieron las
+notas de todos los alumnos Especialista en educación UCE 1 día Fuente: Elaboración Propia 72 Este subproceso registrar actividad
+consiste en la creación de las actividades que se dictarán en la OEAIDE, ya sea que sean teóricas o asistenciales. Para la
+creación de las actividades se debe contar con el docente que llevara a cabo la actividad, así como registrar las distintas
+calificaciones que los alumnos obtendrán durante la actividad y finalmente reservar el aula en donde se llevara a cabo dicha
+actividad. Figura 3.14 – Flujo de trabajo del Subproceso de registrar actividad Fuente: Elaboración Propia Análisis · Programar
+actividades (A-B) · Formatos de calificación(C-D) · Reserva de recursos ( E ) Tabla 3.7 – Caracterización del subproceso
+registrar actividad N° Entrada Actividad Salida Descripción Responsable 1 Listado de alumnos aceptados por la OEAIDE Recibir
+asignación de alumnos Solicitud de actividades El especialista recibe el listado de alumnos aceptados en la OEAIDE y, a partir
+de esto, propone actividades que Especialista en educación UCE 73 soporten las necesidades de los alumnos 2 Solicitud de
+actividades Elaborar programa de actividades Programa de actividades elaborado Las actividades se deben aprobar para que
+se emita el programa de actividades elaborado Especialista en educación UCE 3 Programa de actividades elaborado Asignar a
+docente a la actividad Docente asignado a la actividad Los docentes se asignan a las actividades registradas Especialista
+administrativo UCE 4 Docente asignado a la actividad Registrar formatos de calificación Formatos de calificación definidos
+Los formatos de calificación se asignan a las actividades registradas, estos formatos dependen del tipo de actividad Especialista
+administrativo UCE 5 Formatos de calificación definidos Reservar aulas Aulas reservadas Las aulas se reservan para dictar
+las actividades de capacitación Especialista administrativo UCE Fuente: Elaboración Propia Este subproceso registrar calificación
+de la actividad consiste en el registro de las notas de los alumnos para la actividad que están llevando. Para ello se debe
+buscar la actividad en la cual se desea registrar la actividad así como el alumno al cual se le va asignar la calificación
+correspondiente. Figura 3.15 – Flujo grama del subproceso de Registrar calificación 74 Fuente: Elaboración Propia Análisis
+· Registrar notas (A-B-C-D) · Actualizar Historial del alumno(E-F) Tabla 3.8 – Caracterización del subproceso registrar calificación
+N° Entrada Actividad Salida Descripción Responsable 1 Listado de alumnos por actividad Solicita información del alumno Alumno
+objetivo El responsable de la actividad solicita la información del alumno al cual se le van a ingresar las notas Especialista
+en educación UCE 2 Alumno objetivo Solicita información de la actividad Actividad objetivo El responsable de la actividad
+solicita la información las actividades que está llevando el alumno al cual se le van a ingresar las notas Especialista en
+educación UCE 75 3 Actividad objetivo Registra calificación del alumno Notas ingresadas Se realiza el registro de las notas
+del alumno Especialista en educación UCE 4 Notas ingresadas Emite informe de evaluación de actividad educativa Consolidado
+de notas El especialista en educación UCE genera un consolidado de notas Especialista en educación UCE 5 Consolidado de notas
+Recepción de informe de nota final del alumno Consolidado de notas aprobadas El especialista en educación UEF procede a aprobar
+el consolidado de notas generado por el especialista en educación UCE Especialista en educación UEF 6 Consolidado de notas
+aprobadas Adjunta a historial del alumno Historial del alumno actualizado El especialista en educación UEF se encarga de
+adjuntar el consolidado de notas del alumno a su historial Especialista en educación UEF Fuente: Elaboración Propia Investigación
+en el IESN Este macro proceso abarca desde la gestión de concursos que se realiza con la finalidad de llevar a cabo la convocatoria
+de proyectos de investigación y poder realizar la aprobación de éstos, esta actividad está encargada por la unidad de diseño
+y elaboración de proyectos. Una vez obtenido las aprobaciones de las propuestas de proyectos, se realiza un seguimiento,
+con la finalidad de lograr el desarrollo final de los proyectos y finalmente invitarlos a la publicación de dichos proyectos
+en revistas especializadas de la localidad. 76 · Administrar Concurso Es el proceso que involucra realizar diversos concursos,
+y llevarlos a cabo, con la finalidad de incentivar la investigación en el Perú y en el ISN .Por otro lado, se tienen que
+gestionar los criterios de calificación del concurso y se tienen que cumplir con dichas criterios identificados. Figura 3.16
+– Flujo de trabajo del Proceso de Administrar concurso Fuente: Proyecto Investigación OEAIDE El detalle y la caracterización
+del proceso de Administrar concurso se encuentra en la Memoria: “Arquitectura Empresarial para el Sector Salud, Procesos
+de Investigación de la Oficina Ejecutiva de Apoyo a la Investigación y Docencia Especializada” · Administrar Investigación
+77 Es el proceso que involucra recibir proyectos de investigación ya sea vía a través de un concurso generado por la OEAIDE
+auspiciado por el ISN o recibir proyectos de investigación de personas interesadas en realizar investigación en las distintas
+áreas pediátricas del hospital. También, implica realizar el respectivo seguimiento para la ejecución del proyecto y su posterior
+publicación en revistas especializadas de la localidad. Figura 3.17 – Flujo de trabajo del proceso de investigación especializada
+Fuente: Proyecto Investigación OEAIDE El detalle y la caracterización del proceso de Investigación Especializada se encuentra
+en la Memoria: “Arquitectura Empresarial para el Sector Salud, Procesos de Investigación de la Oficina Ejecutiva de Apoyo
+a la Investigación y Docencia Especializada” 78 Gestión Administrativa Este macro proceso abarca la gestión administrativa
+de la OEAIDE, la cual se encarga de archivar, derivar y satisfacer los requerimientos que son solicitados por entidades externas
+a la oficina (MINSA, Universidades, etc.). Asimismo, permite disponer de la información de las personas que han llevado un
+curso o taller en la OEAIDE para poder otorgarle su certificado en caso sea solicitado por los alumnos. Finalmente, permite
+tener un mejor control de los convenios que diversas instituciones tienen con la oficina, ya sea para el uso de sus instalaciones
+como para llevar algún curso o taller. Figura 3.18 – Flujo de trabajo del proceso de gestión administrativa Fuente: Elaboración
+Propia El subproceso recepcionar oficios abarca tanto a los oficios como a los memorándum. La diferencia principal entre
+ambos es que los oficios son expedientes provenientes de una unidad externa (universidades, MINSA o una persona natural)
+y los memorándum son expedientes internos de la OEAIDE. Asimismo, este proceso consiste en mantener un seguimiento de los
+expedientes que son de tipo memorándum, ya que estos se encontrarán dentro de las unidades de la OEAIDE. 79 Figura 3.19 –
+Flujo de trabajo del subproceso recepcionar oficios Fuente: Elaboración Propia Análisis Tabla 3.9 – Caracterización del subproceso
+recepcionar oficios N° Entrada Actividad Salida Descripción Responsable 1 Necesidad de emisión de documento Emitir un documento
+dirigido a OEAIDE Documento Alguna entidad de afuera del OEAIDE emite un documento. Unidad Externa 2 Documento Presentar
+en mesa de partes Documento entregado La unidad externa presenta el documento en mesa de partes. Unidad Externa 3 Documento
+entregado Solicitar cargo - Documento entregado - Cargo La unidad externa solicita un cargo para ser llenado. Especialista
+Administrativ o UAA 4 - Cargo - Documento Presentar cargo en la - Cargo sellado - Documento Cuando la unidad externa completo
+el cargo, lo presenta en Unidad Externa 80 entregado oficina aceptado la oficina. 5 - Cargo sellado - Documento aceptado
+Verificar cargo sellado - Cargo sellado - Documento aceptado El cargo presentado en la oficina debe encontrarse debidamente
+validado y sellado para que sea aceptado. Especialista Administrativ o UAA 6 Documento aceptado Registrar documento - Base
+de datos de documentos actualizada - Documento aceptado El encargado registra el documento en la base de datos de la oficina.
+Técnico Administrativ o UAA 7 Documento aceptado Asignar documento Documento asignado El documento emitido se asigna a la
+unidad funcional correspondiente. Técnico Administrativ o UAA 8 Documento asignado Derivar a unidad correspondient e Documento
+derivado El documento emitido se deriva a la unidad funcional correspondiente. Especialista Administrativ o UAA 9 Cargo sellado
+Recepcionar cargo Cargo aceptado La persona encargada procede a recepcionar cargo. Unidad Externa Fuente: Elaboración Propia
+El subproceso emitir expediente consiste en cubrir el requerimiento solicitado por el expediente y emitir una respuesta al
+emisor del expediente. En caso el expediente sea un oficio se puede responder directamente al ente externo. Caso contrario,
+el expediente 81 sea un memorándum éste se evalúa y se deriva a la siguiente unidad funcional dentro de la oficina. Figura
+3.20 – Flujo grama del subproceso emitir expediente Fuente: Elaboración Propia Análisis Tabla 3.10 – Caracterización del
+subproceso emitir expediente N° Entrada Actividad Salida Descripción Responsable 1 Necesidad de enviar expediente Emitir
+un expediente - Expediente - Oficio La unidad funcional procede a emitir un expediente. Unidad Funcional 2 Expediente Recepcionar
+expediente Expediente El encargado recepciona el expediente para verificarlo. Especialista Administrativ o UAA 82 3 Expediente
+Analizar y satisfacer requerimiento Expediente aceptado Se procede a determinar la dirección del expediente Especialista
+Administrativ o UAA 4 Expediente aceptado Analizar el estado del expediente Expediente actualizado El encargado procede a
+revisar el estado del expediente, con la finalidad de determinar la unidad funcional de destino. Técnico Administrativ o
+UAA 5 Expediente actualizado Adjuntar hoja al detalle del expediente - Expediente actualizado - Hoja de detalle El técnico
+adjunta el detalle del expediente. Técnico Administrativ o UAA 6 Oficio Envía expediente a unidad externa Oficio entregado
+El encargado emite el oficio a algún ente externo a la oficina. Unidad Funcional Fuente: Elaboración Propia El subproceso
+“Solicitar y emitir constancia” abarca todo el trámite que realiza un alumno que ha llevado alguna actividad en la OEAIDE,
+es decir desde su concepción hasta su recepción por parte del alumno. Asimismo, como en este flujo hay un ingreso de dinero
+para la institución este se da por el IESN, es por ello que uno de los actores de este flujo es el personal de tesorería.
+Con este flujo se busca tener una mayor fluidez en el trámite y un mejor registro de los trámites que son emitidos por la
+OEAIDE. Figura 3.21 – Flujo grama del subproceso solicitar y emitir constancia 83 Fuente: Elaboración Propia Análisis Tabla
+3.11 – Caracterización del subproceso solicitar y emitir constancias N° Entrada Actividad Salida Descripción Responsable
+1 Necesidad de constancia Solicitar información en la UCE para obtener la certificación Necesidad de constancia atendida
+Los alumnos y exalumnos solicitan los requisitos para obtener alguna constancia de estudios. Ex-alumno 2 Necesidad de constancia
+atendida Verificar Kardex de exalumnos Alumno aceptado El responsable verifica los datos del alumno o exalumno. Especialista
+Administrativ o UAA 3 Alumno aceptado Brindar información sobre la presentación Listado de requisitos El responsable entrega
+al solicitante los requisitos y da indicaciones para Especialista Administrativ o UAA 84 de solicitud y costos que pueda
+solicitar alguna constancia. 4 Listado de requisitos Presentar en mesa de partes solicitud dirigida a director de OEAIDE
+Solicitud de constancia El alumno entrega la solicitud para que pueda generar una constancia. Ex-alumno 5 Solicitud de constancia
+recepcionada Elaborar orden de pago por certificado o constancia Orden de pago La oficina genera una orden de pago correspondiente
+a la solicitud del alumno. Especialista Administrativ o UAA 6 Orden de pago Entregar cargo de orden de pago a exalumnos Orden
+de pago El responsable entrega la orden de pago al alumno correspondiente. Especialista Administrativ o UAA 7 Orden de pago
+Presentar orden de pago en caja y realizar pago por derecho a la certificación Recibo de pago El solicitante procede a cancelar
+la orden de pago emitida por su solicitud de constancia Ex-alumno 8 Recibo de pago Actualizar información del trámite en
+el sistema - Base de datos de solicitudes actualizada - Recibo de pago El tesorero se encarga de actualizar la información
+del trámite cuando tiene el recibo de pago Tesorero 9 Recibo de pago Emitir y entregar Recibo de pago cancelado El tesorero
+se encarga de recibir el pago por el recibo Tesorero 85 recibo de pago de pago. 10 Recibo de pago cancelado Presentar en
+UCE recibo de pago y devolver el cargo del memo - Cargo del memo - Recibo de pago cancelado El solicitante entrega el recibo
+de pago cancelado y el cargo del memo. Ex-alumno 11 - Cargo del memo - Recibo de pago cancelado Verificar recibo de pago
+Cargo del memo aprobado El encargado procede a revisar el recibo de pago, el cual deberá encontrarse registrado Especialista
+Administrativ o UAA 12 Cargo del memo aprobado Elaborar documento Constancia elaborada Cuando el solicitante haya cumplido
+con todos los requisitos, el encargado procede a elaborar la constancia. Especialista Administrativ o UAA 13 Constancia elaborada
+Firmar documentos Constancia firmada El jefe del OEAIDE se encarga de firmar la constancia del alumno Jede de OEAIDE 14 Constancia
+firmada Entregar documentos Constancia entregada Una vez se haya firmado la constancia, se procede a entregarla al solicitante.
+Jede de OEAIDE Fuente: Elaboración Propia 86 Este subproceso firma de convenios se encarga de registrar los acuerdos de diferentes
+instituciones con la OEAIDE. Para ello, se presenta un proyecto el cual contendrá una serie acuerdos. Estos convenios tienen
+como objetivos brindar una serie de privilegios a estas instituciones como: préstamo de las instalaciones y equipos de la
+Oficina, dictado de clases y talleres entre otros. Figura 3.22 – Flujo grama del subproceso firmar convenios Fuente: Elaboración
+Propia Análisis Tabla 3.12 – Caracterización del subproceso firmar convenios N° Entrada Actividad Salida Descripción Responsable
+1 Necesidad de capacitación a alumnos Solicitar convenio específico Solicitud de convenio Las universidades pueden solicitar
+algún tipo de convenio con el OEAIDE, para que los alumnos puedan Facultad de universidad 87 ser admitidos. 2 Solicitud de
+convenio Evaluar solicitud Solicitud evaluada EL responsable evalúa la solicitud para determinar si los requisitos fueron
+cumplidos por la universidad. Especialista Administrativ o UAA 3 - Solicitud evaluada - Reserva de auditorio Realizar reuniones
+de coordinación - Solicitud aprobada - Solicitud rechazada Los interesados y los representantes de ambas instituciones se
+reúnen para exponer sus necesidades y llegar a un convenio. Especialista Administrativ o UAA 4 Solicitud aprobada Elaborar
+proyecto de convenio según acuerdo con el MINSA Proyecto de convenio Al momento de aceptar realizar un convenio con alguna
+universidad, se debe realizar un proceso de aprobación por los diferentes entes reguladores. Especialista Administrativ o
+UAA 5 Proyecto de convenio Revisar proyecto de convenio Proyecto de convenio revisado El proyecto de convenio debe ser revisado
+por el responsable del instituto del niño para su aprobación. Oficina de Asesoría Jurídica 6 Proyecto de convenio revisado
+Dar conformidad a proyecto y remitir Proyecto de convenio conforme Cuando el jefe del OEAIDE da su conformidad, el proyecto
+de Jefe de OEAIDE 88 convenio lo derivan al IDREH 7 Proyecto de convenio conforme Revisar proyecto - Proyecto de convenio
+aprobado - Proyecto de convenio rechazado Cuando se aprueba el proyecto, se procede a registrarlo al sistema. IDREH 8 Proyecto
+de convenio aprobado Registrar convenio en el sistema Base de datos actualizada El proyecto de convenio se registra en la
+base de datos. Especialista Administrativ o UAA Fuente: Elaboración Propia Diagrama de integración En el siguiente diagrama
+se aprecia la relación grafica entre los macro procesos planteados. Figura 3.23 – Diagrama de Integración Fuente: Elaboración
+Propia 89 Se puede apreciar como en el macro proceso de Gestión de Capacitación se realizan las capacitaciones a todas las
+personas que ingresan a la OEAIDE. Estas capacitaciones puedes ser talleres específicos o los mismos proyectos de investigación
+(Gestión de Investigación). Además, el macro proceso Gestión de Concurso es el que se encarga de crear los concursos, lo
+cual incluye, formar el comité de evaluación, bases de los concursos, calificación etc. Finalmente, el macro proceso Administración
+de Trámites permite el manejo de los certificados o constancia de las personas. También, se encarga de los convenios que
+la OEAIDE tiene con diversas instituciones médicas. Descomposición Funcional La descomposición funcional es el paso siguiente
+al diagrama de procesos, quiere decir que en este artefacto se explota, refina y descomponen los procesos de manera mucho
+más detallada. Además los procesos a mas nivel de detalle se encuentra dispuesto jerárquicamente, siendo estos niveles de
+jerarquía determinados por la descomposición funcional de los procesos. Esta metodología representa el flujo de trabajo de
+cada uno de los procesos de investigación y docencia, así como sus objetos participantes. Entonces, define lo que realiza
+cada proceso en tareas. Figura 3.24 – Descomposición Funcional 90 Fuente: Elaboración Propia En síntesis, todos los procesos
+generales y específicos se pueden llevar a un nivel de detalle mucho mayor. Es así que se han definido 4 productos: Admisión
+de personal de salud en formación, Apoyo a la Investigación, Capacitación Especializada y Organizar Concurso. En conclusión,
+en este apartado se realizo la distribución física del negocio, realizando un mapa de ubicación, el cual nos servirá para
+identificar mejor la ubicación de los actores que realizaran los procesos. Además, se realizo un mapeo de los actores contra
+los procesos para los 3 procesos principales de la empresa. 91 Capítulo 4. Definición de Proyectos para la Oficina de Investigación
+y Docencia En este capítulo se desarrollan los proyectos propuestos para la Oficina Ejecutiva de Apoyo a la Investigación
+y Docencia Especializada (OEAIDE). Para definir estos proyectos se siguió la metodología del EUP y se desarrolló los artefactos
+que permiten la formación de los proyectos, lo cual está estructurada de la siguiente manera: objetivo, funcionalidades,
+alcance, estimación de esfuerzo y diagrama de casos de uso. Cabe resaltar que estos proyectos se han agrupado en tres programas
+denominados Aprendizaje, Investigación y Apoyo Administrativo. Cartera de Proyectos Este artefacto lista los programas que
+buscan satisfacer las necesidades del IESN. Además, por cada programa, enumera los proyectos que están incluidos. De esta
+manera, se controla y respeta las jerarquías entre los programas y permite, además, establecer posibles servicios entre los
+diferentes proyectos. En el presente documento se listan, además, los proyectos derivados del proceso Aprendizaje. Estos
+proyectos se encuentran agrupados formando los programas que servirán para el control del Portafolio. Es preciso resaltar
+que estos programas se integrarán a los módulos desarrollados en la UPC concernientes al sector salud. Y, de esta manera,
+se abarcará todos los procesos que comprende un hospital de alta complejidad, como es el IESN. 92 A continuación, se nombran
+y codifican los programas y sus proyectos respectivos. En la parte derecha se muestra el código, dentro del rectángulo coloreado,
+que identifica al programa o proyecto en particular. Tabla 4.1 – Lista de productos Producto Nombre Abreviatura Producto
+1 Aprendizaje PAA Producto 2 Investigación PGC Producto 3 Apoyo Administrativo PAI Fuente: Elaboración Propia Producto 1:
+Aprendizaje Objetivo Este producto será utilizado por el técnico administrativo y por el médico de la oficina. Los usuarios
+podrán realizar la gestión de admisión de los alumnos que son enviados por las universidades. Los alumnos que pueden acceder
+a la enseñanza en la oficina son los internos, pasantes y residentes. Además, se podrá realizar las rotaciones respectivas
+de los alumnos por los diferentes servicios del IESN. Funcionalidades Administrar Personal de Salud 93 Son las actividades
+relacionadas con los alumnos que reciben clases dentro de la oficina, las cuales abarcan desde su ingreso en la base de datos
+hasta que culmina con el ciclo académico propuesto. Incluye: Verificar tipo de participación Comprueba y distingue el tipo
+de participación. Este puede ser pasantía, internado o residentado. Buscar participante Se ingresan los criterios de búsqueda
+que pueden ser Código, Tipo de Participación, Nombre o Apellido del participante. Crear participante Se ingresan los datos
+del participante y se archivan en la base de datos. Esto se realizará si el participante aprobó el ingreso. Actualizar participante
+Se editan los datos del participante y se guarda dicha información. Eliminar participante Se borra de la base de datos al
+participante escogido. Consultar participante Se muestran los datos del participante elegido. Asignar Rotación Esta funcionalidad
+permite a los usuarios del programa realizar las rotaciones a los alumnos que están cursando algún ciclo académico. Los alumnos
+aptos para realizar 94 esta rotación son los pasantes, residentes o internos, que hayan culminado satisfactoriamente sus
+actividades. Incluye: Buscar alumno Se realiza la búsqueda de los alumnos que están aptos para realizar sus rotaciones, tanto
+dentro como fuera del IESN. Asignar especialidad Se escoge la especialidad a la que el alumno va a rotar, ya sea dentro o
+fuera del IESN. Registrar Nota Esta característica del módulo servirá para que la persona responsable de la actividad tenga
+la posibilidad de registrar las calificaciones de los alumnos en su curso. Este registro servirá como un consolidado de notas
+para la universidad, la cual tendrá los resultados de los alumnos en alguna actividad específica. Aprobar Rotación Consiste
+realizar una búsqueda de las rotaciones que se han generado en determinado periodo de tiempo para luego decidir si son aprobadas
+o no. Solicitar Actividad Permite a las universidades o institutos solicitar actividades a la Oficina con el objetivo de
+poder llevar una determinada actividad en cierto periodo de tiempo. Incluye: 95 Aprobar actividad Consiste en realizar una
+búsqueda de las actividades que han sido solicitadas por las universidades para analizar el detalle de la solicitud y luego
+definir si son aprobadas o no. Ingresar actividad Se ingresan los datos de la actividad para que se archiven en la base de
+datos. Esto servirá en el momento de la matrícula al asignar al alumno con la actividad. Actualizar actividad Se modificarán
+los distintos campos de las actividades que ya se encuentran registradas en la base de datos. Eliminar actividad Las actividades
+serán dadas de baja, es decir, solo se les cambiará de estado. Consultar actividad Los responsables del registro de matrícula,
+son los que deben consultar la actividad para luego relacionarla con el grupo de alumnos que serán matriculados. Matricular
+Participante Esta funcionalidad del módulo sirve para relacionar las actividades del instituto con los alumnos, ya sean internos,
+residente o pasantes. Solo el registro de una actividad teórica estará ligado al módulo de reserva de aulas y equipos. Administrar
+Capacitación Esta característica del módulo permite realizar un seguimiento a las personas matriculadas en alguna actividad
+propuesta por la oficina. Mediante esto, las universidades pueden realizar el seguimiento debido a sus alumnos. Reservar
+recurso 96 Consiste en tener un control respecto a los recursos que maneja la Oficina. Esto se debe porque las instalaciones
+que tiene la Oficina pueden ser reservadas independientes a otras universidades para fines académicos. Cabe resaltar que
+estas universidades tienen algún convenio específico con la Oficina. Además, esta actividad del módulo es la más importante
+y crítica en el proceso, ya que los recursos solicitados cambiarán su estado a reservado, lo cual permitirá que no se realice
+la reserva 2 veces. Incluye: Separar recurso Permite la separación de un recurso de la Oficina para fines académicos. Puede
+ser tanto de un aula o equipos. Luego de la reserva cambiara el estado del recurso para que éste no pueda ser reservado por
+otro usuario. Consultar reserva Las personas responsables de la reserva de recursos tendrán la opción de realizar un consolidado
+con las aulas y equipos usados. En donde podrán apreciar que recursos han sido reservados y cuales aún se encuentra disponible.
+Eliminar reserva Esta funcionalidad permite la eliminación de la reserva realizada, los cuales si se borrarán de la base
+de datos del sistema. Alcance Este producto abarca la gestión de los alumnos que provienen de las universidades del medio,
+así como el registro de las rotaciones y sus aprobaciones. También abarca la 97 administración de las solicitudes de actividades
+y las calificaciones de los curso llevados por los alumnos. Estimación de esfuerzo Esta estimación está basada en el modelo
+de Karner. Cálculo de los puntos de casos de uso sin ajustar A.1 Factor de peso de los actores sin ajustar (UAW) Tabla 4.2
+– Actores Aprendizaje Fuente: Elaboración Propia A.2 Factor de peso de los casos de uso (UUCW) 98 Tabla 4.3 – Casos de Uso
+Aprendizaje Fuente: Elaboración Propia A.3 Puntos de casos de uso sin ajustar Tabla 4.4 – Puntos de caso de uso sin ajustar
+Aprendizaje Fuente: Elaboración Propia Cálculo de los puntos de casos de uso ajustados B.1 Factor de complejidad técnica
+Tabla 4.5 – Complejidad Técnica Aprendizaje 99 Fuente: Elaboración Propia B.2 Factor de ambiente Tabla 4.6 – Factor Ambiente
+Aprendizaje Fuente: Elaboración Propia B.3 Puntos de caso de uso ajustado Tabla 4.7 – Puntos de caso de uso ajustado Aprendizaje
+Fuente: Elaboración Propia 100 Cálculo del total de horas disponibles Tabla 4.8 – Total de Horas Aprendizaje Fuente: Elaboración
+Propia Diagrama de casos de uso Figura 4.1 - Diagrama de Casos de Uso de Aprendizaje Fuente: Elaboración Propia 101 Producto
+2: Investigación Objetivo Este producto será utilizado por el técnico administrativo, el ingeniero administrativo y por los
+médicos de la oficina. Los usuarios del producto podrán realizar todas las actividades referentes al desarrollo del proyecto
+de investigación, pasando por su creación y el seguimiento del mismo. Así también, se podrá registrar las revistas médicas
+y enviar los proyectos desarrollados. Funcionalidades Administrar Proyecto de Investigación En este caso de uso se ingresa,
+elimina, modifica y consulta los datos del proyecto de los concursantes para su desarrollo. Esto sucede luego de que los
+ganadores de los concursos han presentado su proyecto para que pueda ser desarrollado. Incluye: Ingresar investigación Los
+proyectos de investigación que han ganado algún concurso, así como los proyectos planteados por investigadores ajenos a la
+OEAIDE, son factibles para que sean desarrollados, es por esto que deben ser ingresadas, asignándolos a sus respectivos grupos.
+102 Modificar investigación Este caso de uso tiene por opción poder cambiar alguna información de las investigaciones presentadas,
+de acuerdo a petición de los stakeholders involucrados en el desarrollo de la investigación. Eliminar investigación Los actores
+que usan el sistema pueden tener la necesidad de eliminar alguna investigación que ya no está activa o en el que algún miembro
+lo dejo. En este caso, los proyectos pueden ser tomados por el OEAIDE para su desarrollo. Consultar investigación Esta utilidad
+del caso de uso es necesaria para la empresa, ya que mediante esto, se pueden ver el historial de las investigaciones. Seleccionar
+investigación Esta función sirve para decidir que investigaciones se deben implantar en que grupo de proyecto. Cargar documento
+Se tiene la opción de cargar el documento físico, donde el grupo que realiza la investigación especifica sus propuestas y
+logros Evaluar Proyecto de Investigación En este caso de uso se realiza la revisión de los proyectos de investigación, donde
+el comité especifica las observaciones encontradas en los proyectos y envía notificaciones a los involucrados en la investigación.
+Incluye: Exportar a Excel 103 Es el proceso de generar las observaciones encontradas y migrarlas al Excel, donde se podrá
+obtener un documento físico, el cual será enviado a los integrantes de la investigación. Grabar observaciones En este punto
+se realiza la asignación de las observaciones a la investigación, esto ayudara a realizar el seguimiento de las mismas. Enviar
+notificación de observaciones Las observaciones detectadas por el comité y asignadas a un proyecto podrán ser enviadas a
+los integrantes de la investigación. Administrar Revista Médica En este caso de uso se ingresa, elimina, modifica y consulta
+los datos de las revista médicas especializadas. Todas las revistas en las que se publican los proyectos desarrollados tienen
+un convenio con el IESN. Incluye: Ingresar revista médica Se debe ingresar los datos de la revista médica especializada,
+para que en un futuro se designe a cuál de ellas se envía el proyecto. Modificar revista médica Se selecciona la revista
+médica de la cual se quieran cambiar la información, esto se realiza para estar actualizados los campos. Eliminar revista
+médica La opción de eliminar revista médica no es muy frecuente, sin embargo hay la posibilidad de eliminarla porque se venció
+algún convenio. 104 Consultar revista médica Se puede realizar una vista a todas las revistas médica que tiene convenio con
+el IESN, esto también se realiza para realizar un historial de estos. Seleccionar revista médica Para realizar el historial
+se seleccionan las revistas por orden alfabético, luego se realiza la vista de todos los campos. Publicar Investigación Para
+realizar el proceso de publicación del proyecto, se debe seleccionar la revista médica, para luego enviar y publicar el informe
+final del proyecto en alguna revista médica especializada. Incluye: Seleccionar investigación Se debe seleccionar la investigación
+o documento final donde se ha desarrollado por completo la investigación. Seleccionar revista médica Se envían los documentos
+del proyecto a una revista médica. Enviar notificación Se envía notificación a la revista y a los miembros del grupo de proyecto
+para informarles acerca de la publicación. Administrar Concurso La oficina de investigación y docencia tiene por objetivo
+realizar concursos para que se promuevan las investigaciones en el campo de la salud, es por eso que se realizan los 105
+diferentes concursos. En este caso de uso se ingresa, elimina, modifica y consulta los datos de los concursos realizados
+por la oficina. Estos datos de los concursos sirven para tomar en cuenta en otros de la OEAIDE. Incluye: Ingresar concurso
+Los concursos que se realizan en el hospital, tanto el “fondo concursable” como en el “premio IESN”, deben quedar registrados
+para los posibles trabajos de investigación que se puedan presentar a futuro. Modificar concurso Este caso de uso tiene por
+opción poder cambiar alguna información de los concursos de acuerdo a petición de los stakeholders del mismo. Eliminar concurso
+Los actores que usan el sistema pueden tener la necesidad de eliminar algún concurso que no ha cumplido con los requerimientos.
+Sin embargo, esta posibilidad no es tan usual. Consultar concurso Esta utilidad del caso de uso es necesaria para la empresa,
+ya que mediante esto, se pueden ver el historial de concursos. Además, loa consultas que se hacen se pueden relacionar con
+las empresas que aportan dinero y con el monto que dona cada una de ellas. Seleccionar concurso Esta función sirve para decidir
+de qué concurso se quiere obtener la información deseada para la empresa. 106 Gestionar fondos para concurso En este caso
+de uso se registra, elimina, modifica y consulta los fondos que las empresas han donado para los concursos y los fondos que
+el mismo instituto dispone para estos. Los fondos para concurso son destinados para los 2 tipos, ya sea para el “Fondo Concursable”
+o para el “Premio IESN”. Además, permite que los fondos sean asignados a algún concurso y relacionados a alguna empresa.
+Gestionar organización En este caso de uso se ingresa, elimina, modifica y consulta los datos de las empresas. Todas las
+organizaciones que han realizado algún donativo que sirva para los concursos, se deben registrar, teniendo en cuenta la información
+relevante de estas empresas. Gestionar bases En todo concurso que realiza la oficina de investigación y docencia, apoyada
+por el IESN, debe tener unas bases con las cuales los participantes puedan inscribirse. Es así que es este caso de uso se
+ingresa, elimina, modifica y consulta las bases para que el concurso se lleve a cabo y los puntos que los concursantes deben
+tratar en los documentos de sus proyectos de investigación. Estas bases siguen un flujo, desde la aprobación por parte de
+un comité hasta su publicación para que los grupos de proyecto puedan realizar sus documentos. Asignar comité evaluador Este
+caso de uso sirve para definir quienes serán los miembros del comité evaluador para algún concurso específico. En este caso
+de uso se ingresa, elimina, modifica y consulta los datos de los miembros del comité evaluador que se tiene en la base de
+datos. Así también, este caso de uso permite seleccionar el grupo de personas que conformarán el comité y relacionarlas a
+algún concurso. Busca Investigación Esta opción sirve para seleccionar alguna investigación o proyecto de investigación para
+actualizarlo, evaluarlo o eliminarlo. Cuenta con diferentes opciones para una búsqueda más rápida. 107 Enviar Mail Esta opción
+sirve para mantener informado al concursante o responsable de proyectos sobre el estado de la investigación. Esta característica
+está adaptada para las necesidades de la oficina. Gestionar concursante Este caso de uso sirve para los miembros del comité
+de los concursos. En este caso de uso se ingresa, elimina, modifica y consulta los datos de los concursantes que se tiene
+en la base de datos para que, según las bases del concurso, sean aceptados en el concurso respectivo. En los casos de uso
+dependientes de este, se realizan seguimientos a los proyectos para verificar su avance. Incluye: Ingresar concursante Los
+datos recolectados de los concursantes, que se han inscrito en algún concurso, deben registrar para posteriores consultas.
+Eliminar concursante Los grupos de proyecto que han sido inscritos tienen la opción de ser eliminados en caso no se presenten
+al concurso. Modificar concursante La información relacionada al concursante podrá ser modificada de acuerdo al proceso del
+concurso. Consultar concursante Se puede realizar una vista de los concursantes que han sido registrados en algún concurso
+y que han cumplido con las bases del mismo. 108 Seleccionar concursante para historial Los datos de las organizaciones y
+los montos dados para algún concurso, se pueden necesitar para alguna operación de la empresa. Realizar proyecto de investigación
+En este caso de uso se ingresa, elimina, modifica y consulta los datos de los documentos realizados por los concursantes.
+Incluye: Ingresar proyecto de investigación Las investigación propuestas por los integrantes de un grupo de proyecto deben
+ser ingresadas, asignando los documentos de proyecto a sus respectivos grupos. Modificar proyecto de investigación Este caso
+de uso tiene por opción poder cambiar alguna información de las investigaciones presentadas al comité de concurso, de acuerdo
+a petición de los stakeholders del mismo. Eliminar proyecto de investigación Los actores que usan el sistema pueden tener
+la necesidad de eliminar alguna investigación que ya no está activa o que en el proceso se vio que era intrascendente o que
+no ha cumplido con los requerimientos. Sin embargo, esta posibilidad no es tan usual. Consultar proyecto de investigación
+Esta utilidad del caso de uso es necesaria para la empresa, ya que mediante esto, se pueden ver el historial de las investigaciones.
+Asignar documento 109 Los miembros del comité del concurso deben asignar los documentos enviados por los concursantes a algún
+grupo. Es así que en este caso de uso se procede a asignar los documentos de investigación a los concursantes correspondientes.
+Cargar documento El comité de seguimiento de proyecto es el encargado de enviar un documento sobre el avance de la investigación
+y sobre las dificultades presentadas en la investigación. Enviar documento El comité se encargará de enviar los informes
+de avance o dificultades a los investigadores, para esto existe una pantalla de correo donde se envía al investigador los
+informes. Calificar Proyecto de Investigación Una vez asignados los documentos de proyecto a los grupos, se procede a evaluar
+los mismos. En este caso de uso, los miembros del comité proceden a evaluar los documentos de investigación de los alumnos,
+generar la lista de orden de méritos y asignar los premios respectivos. Incluye: Enviar proyecto aprobado Luego de revisar
+el proyecto, el personal del comité debe enviarlo para que siga su flujo normal. Actualizar estado Cada vez que un proyecto
+de investigación ha sido evaluado, los miembros del comité deben realizar el cambio de estado a aprobado. Generar puntaje
+total 110 Los proyectos de investigación se califican mediante criterios detallados antes que se comience con el concurso.
+Cada uno de estos ítems equivale un porcentaje de evaluación. Imprimir bases Esta función se realiza luego de que se genere
+la lista de orden de meritos, la cual es impresa y entregada al directo del OEAIDE. Asignar monto para el proyecto de investigación
+De acuerdo a la complejidad del proyecto, y a las necesidades especificadas en el documento presentado por los integrantes
+del grupo, se procede a asignar una cantidad para el desarrollo del proyecto de investigación Generar Orden de Méritos Existe
+la opción de recargar la lista de meritos, luego de generarla, esto será de utilidad para el directo, al momento de otorgar
+los montos del concurso. Administrar bases del concurso Antes de que un proyecto de investigación pase por el proceso de
+evaluación del comité, debe cumplir con ciertos requisitos que la oficina de investigación y docencia específica al momento
+de crear el concurso. Esta función de verificar el cumplimiento de las bases está a cargo del comité evaluador. Incluye:
+Seleccionar una base Se puede seleccionar una por una las bases en caso el proyecto no cumpla con todas las que propone la
+oficina de investigación y docencia. Seleccionar todas las bases 111 Se puede selecciona todas las bases en caso el proyecto
+cumpla con todas las que propone la oficina de investigación y docencia. Quita una base Se puede quitar una de las bases
+ya asignadas en caso el proyecto no cumpla con dicha base. Quitar todas las bases Se puede quitar todas las bases ya asignadas
+en caso se requiera verificar de nuevo su cumplimiento. Actualizar estado Cada vez que un proyecto de investigación ha sido
+evaluado, los miembros del comité deben realizar el cambio de estado a aprobado. Generar porcentaje de cumplimiento Dependiendo
+de la cantidad de bases que exista en el concurso, y de acuerdo a la asimilación que esta tuvo por parte del concursante,
+se definirá cuanto cumple el proyecto para ingresar al concurso. Alcance Este producto abarca la gestión del concurso, desde
+el registro de los proyectos de investigación, pasando por la calificación de los mismos y terminando con la entrega de los
+premios a los ganadores. Estimación de esfuerzo Esta estimación está basada en el modelo de Karner. 112 Cálculo de los puntos
+de casos de uso sin ajustar A.1 Factor de peso de los actores sin ajustar (UAW) Tabla 4.9 – Actores Investigación Fuente:
+Elaboración Propia A.2 Factor de peso de los casos de uso (UUCW) Tabla 4.10 – Casos de Uso Investigación Fuente: Elaboración
+Propia A.3 Puntos de casos de uso sin ajustar 113 Tabla 4.11 – Puntos de caso de uso sin ajustar Investigación Fuente: Elaboración
+Propia Cálculo de los puntos de casos de uso ajustados B. 1 Factor de complejidad técnica Tabla 4.12 – Complejidad Técnica
+Investigación Fuente: Elaboración Propia B. 2 Factor de ambiente Tabla 4.13 – Factor Ambiente Investigación 114 Fuente: Elaboración
+Propia B. 3 Puntos de caso de uso ajustados Tabla 4.14 – Puntos de caso de uso ajustado Investigación Fuente: Elaboración
+Propia Cálculo del total de horas disponibles Tabla 4.15 - Total de Horas Investigación 115 Fuente: Elaboración Propia Diagrama
+de casos de uso Figura 4.2 - Diagrama de Casos de Uso: Investigación. Fuente: Elaboración Propia 116 Producto 3: Apoyo Administrativo
+Objetivo Este módulo busca administrar las actividades administrativas internas y externas que se dan en la OEAIDE, tales
+como manejo de expedientes, trámites y convenios. Además, este modulo permitirá conocer el estado en que se encuentran estas
+actividades. Funcionalidades Recepcionar Documento Este caso de uso tiene opciones para los expedientes como nuevo, modificar,
+eliminar y guardar. Permitirá tener un adecuado registro de los expedientes que se recojan. Incluye: Nuevo expediente Activa
+los campos que permiten registrar los expedientes que han sido recepcionados. Estos pueden ser expedientes internos como
+externos. Modificar expediente Si alguno de los empleados de la oficina requiere cambiar algún dato del expediente emitido.
+Esto implica parte del seguimiento de los expedientes, ya que todo cambio queda registrado. Eliminar expediente 117 Existen
+expedientes que se emitieron pero que después de un tiempo no son necesarios, en cuyo caso se eliminaran. Guardar expediente
+Esto permite registrar todos los campos introducidos del expediente en donde se generará un identificador el cual permita
+ubicarlo. Emitir Expediente Este caso de uso permite tener un control de los expedientes que son emitidos como por ejemplo
+saber cuál fue la fecha de recepción mediante el cargo. Consultar Estado de Expediente Este caso de uso muestra los pasos
+por donde los expedientes han sido traslados ya sea si han sido recepcionados o emitidos. Tendrá campos para registrar como
+fechas, asunto, observaciones etc. Incluye: Registrar fecha Se debe ingresar la fecha en la que se modificó el expediente,
+esto para llevar un correcto seguimiento de los mismos. Consultar Alumno Este caso de uso realiza la búsqueda de una persona
+que ha llevado algún curso en el OEAIDE, estos pueden ser tanto alumnos como doctores. La búsqueda se puede realizar por
+diversos campos como código, nombre, apellidos, curso o ciclo académico. Registrar Trámite 118 Este caso de uso se da como
+consecuencia de haber realizado una consulta de la persona. Se enfoca poner las especificaciones que la persona requiere
+para su trámite y en generar un código único que sea el identificar del mismo. Incluye: Generar orden Esta opción consolidara
+los datos registrados para el tramite, es decir, verificar que sean los que el usuario ha solicitado. Además, emitirá una
+orden de pago, la cual se le entregara al usuario para que cancele el monto indicado de su trámite en tesorería. Verificar
+Estado de Trámite Este caso de uso consiste en conocer el estado del trámite, ya que se puede encontrar en pendiente, cancelado
+o entregado. Para ello realiza una búsqueda de los trámites, por medio de diversos campos para filtrar. Registrar Convenio
+Este caso de uso permite administrar los convenios que realiza la OEAIDE con diversas instituciones así como conocer el rango
+de fechas que delimitan el convenio. Además, de conocer los documentos legales que respaldan el convenio. Alcance El módulo
+permite administrar todas las diversas actividades administrativas que se realizan en las unidades del OEAIDE así como también
+la relación que maneja con el modulo de tesorería del IESN. 119 Estimación de Esfuerzo Esta estimación está basada en el
+modelo de Karner. Cálculo de los puntos de casos de uso sin ajustar A.1 Factor de peso de los actores sin ajustar (UAW) Tabla
+4.16 – Actores Apoyo Administrativo Fuente: Elaboración Propia A.2 Factor de peso de los casos de uso (UUCW) Tabla 4.17 –
+Casos de Uso Apoyo Administrativo Fuente: Elaboración Propia 120 A.3 Puntos de casos de uso sin ajustar Tabla 4.18 – Puntos
+de caso de uso Apoyo Administrativo Fuente: Elaboración Propia Cálculo de los puntos de casos de uso ajustados B.1 Factor
+de complejidad técnica Tabla 4.19 – Complejidad Técnica Apoyo Administrativo Fuente: Elaboración Propia B.2 Factor de ambiente
+121 Tabla 4.20 – Factor Ambiente Apoyo Administrativo Fuente: Elaboración Propia B.3 Puntos de caso de uso ajustados Tabla
+4.21 – Puntos de caso de uso Apoyo Administrativo Fuente: Elaboración Propia Cálculo del total de horas disponibles Tabla
+4.22 – Total de Horas Apoyo Administrativo 122 Fuente: Elaboración Propia Diagrama de Casos de Uso Figura 4.3 - Diagrama
+de Casos de Uso: Apoyo Administrativo. Fuente: Elaboración propia Dependencias de Casos de Uso La dependencia de casos de
+uso muestra los módulos que se deben crear en primer lugar, para que un modulo, que depende del primero, pueda ser creado.
+En el siguiente cuadro se muestra la dependencia entre los módulos. En la primera columna se muestra el nombre del módulo
+seguido de sus casos de uso, y en las dos columnas últimas van los códigos de los casos de uso que dependen del primero y
+los que sirven de base o de apoyo al primero (consecuente). Asimismo, se han definido los proyectos prioritarios para su
+desarrollo, ver Anexo D. Tabla 4.22 – Dependencias Módulos Casos de Uso Dependiente Consecuente 123 Producto Aprendizaje
+CU01 Administrar personal de salud CU06 CU02, CU03 CU02 Asignar rotación CU01, CU04 CU03 Registrar nota CU01, CU06, CU07
+CU04 Aprobar rotación CU02 CU05 Solicitar actividad CU09, CU25 CU06, CU08 CU06 Matricular participante CU05 CU01, CU03, CU07
+CU07 Administrar capacitación CU06 CU03 CU08 Reservar recurso CU05 Producto Investigación CU09 Realizar proyecto de investigación
+CU11 CU05, CU10, CU12, CU13 CU10 Administrar revista médica CU09 CU11 Administrar proyecto de investigación CU09, CU12, CU13,
+CU15 CU12 Buscar investigación CU09, CU11 CU13 Evaluar proyecto de investigación CU09, CU11 CU14 Enviar mail CU18 CU15 Publicar
+investigación CU11 CU16 Administrar bases del concurso CU17 CU17 Administrar concurso CU16, CU18 CU18 Calificar proyecto
+de investigación CU17 CU14, CU19 CU19 Generar orden de mérito CU18 CU20 Gestionar concursante Producto Apoyo Administrativo
+CU21 Registrar trámite CU26 CU22 Consultar estado de expediente CU23 CU27 124 CU23 Emitir expediente CU22 CU24 Recepcionar
+expediente CU25 CU27 CU25 Registrar convenio CU05 CU26 Verificar estado de trámite CU21 CU27 Consultar alumno CU22, CU24
+Fuente: Elaboración Propia Con la realización de este capítulo se ha conseguido determinar la priorización de los módulos
+propuestos, mediante un análisis de los procesos modelados así como la dependencia de los casos de uso. Por otro lado, se
+ha elaborado un documento de visión en el cual se plasman los acuerdos conseguidos mediante las entrevistas realizadas que
+se tuvieron con el Director Ejecutivo del la OEAIDE, así como los jefes de las unidades orgánicas. Todos los proyectos planteados
+serán manejados desde una base de datos única, ver Anexo E, la cual estará relacionada con algunas otras bases de datos del
+Instituto del Niño, esto para tener los datos consolidados y evitar la duplicidad de información. 125 Capítulo 5. Arquitectura
+Empresarial El propósito de esta disciplina consiste en definir los servicios que el Sistema de Investigación y Docencia
+va a consumir y brindar con los demás aplicaciones que interactué. Para ello se han analizado las bases de datos que estos
+sistemas del Instituto del Niño utilizan, con lo cual se han podido identificar tres: Vocabulario, Recursos Humanos y Tesorería.
+Por lo tanto, se ha elaborado un documento donde se han especificado que parámetros serán requeridos al momento de utilizar
+los servicios así como de brindarlos para garantizar la correcta operación del sistema. Además, se han capturados los requerimientos
+Técnicos y del Negocio que se presentan en la OEAIDE. Finalmente se han elaborado representaciones gráficas como el diagrama
+de integración y meta-model que permiten un mejor entendimiento de los servicios que se presentan en el sistema. Arquitectura
+de Procesos Definición de Requerimientos El propósito de la definición de requerimientos es especificar los requerimientos
+funcionales y no funcionales provenientes del modelo de negocio empresarial y de la administración de portafolio. Estos formarán
+parte del sistema de información planteado para esta institución. Este documento incluirá la descripción de los requerimientos
+técnicos y del negocio que definirán los módulos del sistema para la OEAIDE. 126 Los artefactos que se necesitaron para poder
+definir los requerimientos son dos, el glosario de términos y las reglas de negocio. Requerimientos del negocio Los requerimientos
+del negocio necesarios para poder identificar los futuros servicios que podrán ser usados entre los procesos del OEAIDE.
+A continuación se detallaran los requerimientos, clasificados por diversos puntos. Sobre los expedientes · La OEAIDE requiere
+la administración de los expedientes que emite y recepciona. Estos pueden ser de 2 tipos Memorándum (interno) y Oficio (externo).
+Asimismo, cabe resaltar que los Oficios que llegan a la OEAIDE son recepcionadas únicamente en la Unidad de Apoyo Administrativo.
+Por otro lado, todas las unidades del OEAIDE pueden emitir documentos internos así como externos. · Las unidades de la OEAIDE
+requieren tener un seguimiento de los expedientes para así poder identificarlos y conocer cuál ha sido el flujo que han seguido
+al interno de la institución. Sobre los convenios · La OEAIDE requiere la administración de los convenios que la institución
+tiene con diversas organizaciones relacionadas al sector salud como por ejemplo: Universidades, institutos, clínicas etc.
+· Asimismo, necesita saber el rango de fechas que delimitaran la validez del convenio que se establece con la institución.
+127 Sobre los trámites · La OEAIDE requiere la administración de los trámites realizados en el día a día, así como el seguimiento
+de los mismos con el cual se conocerá en qué estado se encuentra el tramite. Estos específicamente se dan con los alumnos
+que han llevado algún curso, taller o capacitación etc, ya que realizan la solicitud de un certificado o constancia. · Por
+medio del análisis realizado en la OEAIDE se ha determinado que debería existir un servicio que relacione al modulo de tesorería
+del IESN con el sistema de la OEAIDE para así poder brindar un mejor servicio a los alumnos. Sobre los alumnos · La OEAIDE
+requiere tener un historial de los alumnos que han realizado alguna actividad en la institución. Estos pueden venir de diversas
+partes del país así como también del extranjero. · La OEAIDE le interesa conocer los rangos de fecha de las actividades que
+los alumnos realizaran en la institución. Además, de conocer la especialidad a donde ira de ser el caso. · La OEAIDE requiere
+conocer datos específicos como la Sede de la cual proviene, así como también de la universidad donde realizaron sus estudios.
+Sobre las rotaciones · La OEAIDE requiere administrar las rotaciones realizadas por los alumnos que llegan a la institución
+y de los alumnos que pertenecen a la institución. · La OEAIDE le interesa conocer las fechas que delimitarán las rotaciones.
+Sobre los doctores 128 · La OEAIDE requiere conocer la información de los doctores que laboran en la institución y brindarán
+algún servicio a los alumnos tales como: un taller, capacitación etc. Sobre las actividades · La OEAIDE requiere registrar
+las actividades que brindará a los alumnos. Estas pueden ser teóricas o asistenciales. · La OEAIDE le interesa registrar
+el formato de evaluación que se realizará a cada actividad. · La OEAIDE le interesa registrar las calificaciones que el alumno
+obtiene al finalizar la actividad. Esto determinara saber si el alumno aprueba o no la actividad para luego poder obtener
+algún certificado. Sobre las aulas · La OEAIDE requiere administrar las instalaciones que maneja para el dictado de las actividades,
+es decir, cuales se encuentran disponibles y por quien han sido reservadas. Sobre los concursos · La OEAIDE requiere administrar
+los concursos que la institución realiza para el desarrollo de investigaciones. Sobre las investigaciones · La OEAIDE requiere
+administrar las investigaciones que se presentan en la institución, ya sea provenientes del concurso realizado por la misma
+institución o las que son presentadas por personas externas. 129 Sobre las donaciones · La OEAIDE requiere administrar las
+donaciones que son brindadas por diferentes organizaciones para el financiamiento de los proyectos que ganan el concurso
+realizado por la institución. Sobre las publicaciones de los proyectos de investigación · La OEAIDE requiere difundir los
+proyectos de investigación culminados a las diferentes revistas médicas del medio. Requerimientos funcionales Los requerimientos
+funcionales son los deducidos del Flujogramas de trabajo de la organización y por parte de algunos requerimientos indicados
+por el personal de trabajo de la empresa. A continuación se detallaran los requerimientos extraídos de las entrevista con
+el personal responsable de los procesos analizados. · Creación de cuentas: Las diversas unidades deberán enviar una solicitud
+al administrador para la creación de sus cuentas destinadas a la unidad correspondiente. · Configurar periodo de ciclo académico:
+Permite al actor registrar los periodos de evaluación. Asimismo, permite definir un periodo académico como actual y el registro
+de las fechas que lo delimitan. · Gestionar tipo de ingreso: Permite al actor registrar, consultar, actualizar y eliminar
+los tipos de ingresos de los alumnos en el OEAIDE. 130 · Gestionar universidad: Permite al actor registrar, consultar, actualizar
+y eliminar las universidades que poseen convenios con la OEAIDE. · Gestionar sede: Permite al actor registrar, consultar,
+actualizar y eliminar las sedes (hospitales, institutos, clínicas etc.) que poseen con la OEAIDE. · Gestionar aulas: Permite
+al actor registrar, consultar, actualizar y eliminar las aulas y laboratorios existentes en la OEAIDE. · Generar reporte:
+El sistema permite realizar un reporte de los alumnos que han realizado alguna rotación o actividad en la OEAIDE. Este reporte
+permite los alumnos agrupados por distintos criterios definidos conjuntamente con un resumen estadístico y gráficos. Asimismo
+será posible la visualización de esta consulta tipo reporte siendo los datos exportados a Excel con la facilidad de grabar
+en una ruta indicada por el usuario el diseño curricular generado. · Gestionar investigación: Permite al actor registrar,
+consultar, actualizar y eliminar las investigaciones que se presentan en la OEAIDE. Para ello se registran el Titulo de la
+investigación así como sus integrantes y el tipo de investigación. · Seguimiento de investigación: Permite al actor actualizar
+el estado y adjuntar las observaciones hecha a la investigación. Además, se busca automatizar enviando el documento al alumno
+con las observaciones correspondientes. · Publicar resultado de investigación: El sistema permite realizar un reporte de
+las investigaciones que se encuentran en el estado de Cerrado. · Gestionar concurso: El sistema permite registrar los concursos
+que la OEAIDE realizara en un periodo determinado así como también asignar el comité evaluador, los fondos para el financiamiento
+del proyecto ganador y las bases del concurso. · Gestionar comité: Permite al actor registrar, consultar, actualizar los
+datos de las personas que conforman el comité. · Gestionar organización: Permite al actor registrar, consultar, actualizar
+los datos de las organizaciones que financiaran a los proyectos que ganan el concurso. · Gestionar expedientes: Permite al
+actor registrar, consultar, actualizar los expedientes ingresados y emitidos de la OEAIDE. 131 · Gestionar seguimiento de
+Expediente: Permite al actor registrar, consultar, actualizar y eliminar los estados para los alumnos existentes en la OEAIDE.
+· Gestionar trámites: Permite al actor registrar, consultar, actualizar y eliminar los trámites realizados en la OEAIDE para
+la obtención de algún certificado o constancia. · Gestionar convenios: Permite al actor registrar, consultar, actualizar
+y eliminar los convenios realizados en la OEAIDE con diversas instituciones relacionadas al sector salud (universidades,
+institutos etc.). Asimismo, permite definir un las fechas que delimitaran la validez del convenio con la OEAIDE. Requerimientos
+no funcionales Los requerimientos no funcionales son los que pertenecen a un sistema o modulo, pero que no han sido especificados
+por los usuarios. A continuación, se definirán estos requerimientos, basados en usabilidad, rendimiento, el soporte y mantenimiento
+y la seguridad. Usabilidad · Si la funcionalidad lo requiere las pantallas deberían tener la opción de deshacer los cambios
+realizados y restablecer los cambios anteriores antes de comprometer datos nuevos. · Deben estar estandarizados los nombres
+de los botones, etiquetas, mensajes de ventanas de dialogo y mensajes de error, esto permitirá al usuario comprender los
+eventos que suceden durante un determinado proceso. · Se ofrecerá una funcionalidad que los reportes realizados mediante
+el sistema sean exportados a Excel y guardados según las necesidades del usuario. · Capacitación de usuarios 132 · Debido
+al nivel de los usuarios, serán necesarias diversas capacitaciones. Se estima que con 3 o 4 sesiones de capacitación se llegue
+a comprender el sistema. · Manejo de errores · Se mostrarán mensajes de error cuando se produzca un error del sistema o uno
+ocasionado cuando el usuario intente realizar una opción incorrecta. Rendimiento · El tiempo de respuesta de una transacción
+debe ser menor a 5 segundos. · El sistema debe soportar 20 personas simultáneamente considerando todas las unidades del OEAIDE
+así como también los usuarios del modulo de Tesorería y Recursos Humanos del IESN. Soporte y mantenimiento · Se considerarán
+los estándares de codificación definidos en los proyectos de desarrollo en la UPC Seguridad · El sistema utilizará mecanismos
+de identificación y autentificación de usuarios mediante el manejo de cuentas de usuario y passwords. Definición de Servicios
+Introducción 133 El propósito de este artefacto es definir los servicios identificados en la Oficina de Investigación y Docencia.
+Asimismo se especificará que servicios brinda y consume la Oficina entre los diversos módulos del IESN. El alcance del presente
+documento incluirá la descripción de los servicios tanto requeridos como brindados entre los módulos del sistema de información
+Definición de Servicios En esta parte del documento se presentara un listado de los servicios que consume la OEAIDE entre
+otros módulos del IESN. A continuación, se mostrará la nomenclatura que se utilizará para referirse a los módulos que brindan
+cierta información por medio de los servicios. Tabla 5.1 – Definición de servicios Abreviatura Nombre de Modulo RH Recursos
+Humanos VOC Vocabulario TES Tesorería S32OEA Sistema OEAIDE Fuente: Elaboración Propia La estructura de la definición de
+los servicios será la siguiente: [Abreviatura del modulo que brinda el servicio] -
+<Servicio>
+
+134 Servicios que consume el S32OEA [VOC] – Ver Ubicación geográfica Se envía un mensaje ObtenerListadoUbicacionGeografica
+Se espera una respuesta ObtenerListadoUbicacionGeografica conteniendo una lista de los países, departamentos, provincias
+y distritos. Los campos que recepecionará son el ID, la abreviatura y el Id del padre. Módulos consumidores [S32OEA]
+[VOC] – Ver Lista de Servicios Se envía un mensaje ObtenerListadoServiciosRequest Se espera una respuesta ObtenerListadoServiciosResponse
+conteniendo una lista de los servicios que brinda el hospital. Cada elemento de la lista contiene el código y nombre
+de los servicios. Módulos consumidores [S32OEA] [RH] – Ver Lista de Doctores Se envía un mensaje ObtenerListadoDoctoresRequest
+Se espera una respuesta ObtenerListadoDoctoresResponse conteniendo una lista de los doctores. Cada elemento de la lista
+de doctores contiene el código de los doctores, apellido paterno, apellido materno, nombres, especialidad. Módulos consumidores
+[S32OEA] [RH] – Ver Lista de Especialidades 135 Se envía un mensaje ObtenerListadoEspecialidadesRequest Se espera una
+respuesta ObtenerListadoEspecialidadesResponse conteniendo una lista de las especialidades. Cada elemento de la lista
+de contiene: código, apellido paterno, apellido materno, nombres, especialidad. Módulos consumidores [S32OEA] [TES] –
+Ver Monto disponible fondos propios Se envía un mensaje ObtenerMontoDisponibleRequest Se espera una respuesta ObtenerMontoDisponibleResponse
+conteniendo un valor que esta designado para cada concurso. La cadena que recibe tiene el monto disponible. Módulos consumidores
+[S32OEA] [TES] – Ver Listado de Trámites Se envía un mensaje ObtenerListadoTramitesRequest Se espera una respuesta ObtenerListadoTramitesResponse
+conteniendo una lista con el estado de los trámites de las órdenes de pago. Módulos consumidores [S32OEA] Arquitectura
+de Software Figura 5.1 – Diagrama de Integración 136 Fuente: Elaboración Propia Definición de Servicios El diagrama de
+integración es una representación gráfica de los servicios que prestan los productos de la oficina de investigación y
+docencia especializada. Es por esto que se presentará un gráfico, mostrando los servicios que brinda así como también
+los servicios que se consumen entre los diferentes productos del OEAIDE. El documento incluirá los servicios que se presentan
+en la OEAIDE. Además de las transacciones que se realizan entre los diversos módulos que cubren el sistema. La figura
+5.2 muestra los servicios que brinda o recibe el OEAIDE con módulos de fuera (como el módulo de vocabulario y el de recursos
+humanos). Además se presenta una tabla que muestra de forma detallada estos servicios. Figura 5.2 – Diagrama de Integración
+externo 137 Fuente: Elaboración Propia Tabla 5.2 – Descripción Servicios Externos Servicio Descripción 1 Ver Ubicación
+geográfica El módulo de vocabulario brinda la información de loa ubicación geográfica de las universidades. Los campos
+requeridos son: País, Departamento, Provincia y distrito. 2 Ver Lista de servicios El módulo de vocabulario brinda la
+información de los servicios que brinda el hospital. Los campos requeridos son código y nombre del servicio. 3 Ver Lista
+de doctores El módulo de Recursos Humanos brinda información sobre los datos del médico en el IESN. 4 Ver Lista de especialidades
+El módulo de recursos humanos brinda la información de las especialidades que existen en el IESN. 5 Ver Monto Disponible
+Fondos Propios El módulo de Tesorería brinda el monto disponible que está dispuesto para cada concurso. 6 Ver Listado
+de trámites El módulo de Tesorería cambia el estado de la Orden de pago a ejecutada. Fuente: Elaboración Propia También
+se presenta los servicios que se prestan los productos que existen dentro de la oficina de investigación y docencia.
+En este caso también se muestra una tabla con el detalle de estos servicios. Figura 5.3 – Diagrama de Integración interno
+138 fig039a.jpg Fuente: Elaboración Propia Tabla 5.3 – Descripción Servicios Internos Nombre Descripción * 1 Ver Ubicación
+geográfica El módulo de vocabulario brinda los campos de la ubicación geográfica para el registro de los convenios entre
+la OEAIDE y la universidad. * 2 Ver Lista de servicios El módulo de vocabulario brinda el listado de los servicios para
+poder registrar la rotación de los participantes que ingresarán a la OEAIDE. * 3 Ver Lista de doctores El módulo de recursos
+humanos brinda información sobre los datos del médico en el IESN. * 4 Ver Lista de especialidades El módulo de recursos
+humanos brinda la información de las especialidades que existen en 139 el IESN. 5 Ver Monto Disponible Fondos Propios
+El módulo de Tesorería brinda el monto disponible que está dispuesto para cada concurso. 6 Ver Listado de trámites El
+módulo de Tesorería cambia el estado de la Orden de pago a ejecutada. 7 Ver Datos de convenio Permite verificar si la
+institución a la que pertenecen los alumnos que realizarán una actividad en la OEAIDE tiene convenio en la misma. 8 Enviar
+datos del alumno El producto de aprendizaje brinda consulta de los datos del alumno. 9 Enviar documento de investigación
+El producto de investigación envía documento final de investigación para que sea dictado en algún taller. Fuente: Elaboración
+Propia Mediante la realización de este capítulo se ha podido definir una lista de servicios que permite conocer como
+estos interactúan con otras aplicaciones, es decir cuales brinda y consume el sistema de investigación y docencia. Además,
+se han determinado los requerimientos técnicos y del negocio que se presentan en la OEAIDE. Finalmente, se han realizado
+dos representaciones gráficas que muestran como se da esta interacción de los servicios. Arquitectura de Red 140 La arquitectura
+de red es el medio más efectivo en cuanto a costos para desarrollar e implementar un conjunto coordinado de productos
+que se puedan interconectar. La arquitectura es el plan con el que se conectan los protocolos y otros programas de software.
+Esto es benéfico tanto para los usuarios de la red como para los proveedores de hardware y software Se ha determinado
+una serie de características que debería poseer la Oficina de Investigación y Docencia en su arquitectura de red, según
+las necesidades de los stakeholders. En primer lugar determinamos que su arquitectura de red debería tener una amplia
+conectividad, esto quiere decir que debería soportar una cantidad grande de usuarios conectados simultáneamente, manteniendo
+una optima conexión en las diferentes nodos. Además se debe mantener un nivel de seguridad alto que permita la privacidad
+de los datos. En segundo lugar, se debe contar con recursos compartidos, debido a que la logística de la Oficina de Investigación
+y Docencia es restringida por ser una entidad del estado. Además, este requerimiento permitirá que las operaciones que
+se realicen en la red sean más eficientes y económicas. En tercer lugar, se debe diseñar la arquitectura con un alto
+grado de modularidad, de manera que los cambios se puedan realizar con menos recursos y en menor tiempo. El motivo de
+este requerimiento consiste en que se piensa añadir sistemas nuevos a la estructura de la Oficina de Investigación y
+Docencia. Finalmente, se debe tener una conexión externa mediante internet. Esta es una característica importante ya
+que el Instituto de Salud del Niño se está expandiendo, y 141 por ende, la Oficina de Investigación y Docencia debe comunicarse
+con los médicos o pasantes que residen en las nuevas sedes. Por otra parte, se debe especificar la topología que se desea
+implantar para que soporte las necesidades de la Oficina de Investigación y Docencia. Para determinar el tipo de red
+se realizaron entrevistas para identificar cual era la realidad con la que contaba la institución, según esto, se determino
+que se debe implantar una red LAN, con salida a internet. El diseño de la arquitectura de red se presenta a continuación.
+Figura 5.4 – Arquitectura de redes Fuente: Elaboración Propia Arquitectura de Datos En este punto se definirán los niveles
+y los responsables del mantenimiento de la base de datos para la Oficina de Investigación y Docencia Especializada. 142
+Para definir la arquitectura de base de datos se debe tener en cuenta que existe información que los usuarios pueden
+tener acceso y otras a las que no lo tienen. Esto es definido por los niveles, uno de los cuales es la estructura física
+de base de datos, a la cual los usuarios no tienen acceso debido a que es compleja para ellos, el siguiente nivel son
+las vistas o esquemas con los que el usuario interactúa, y un nivel que especifica la mediación entre los niveles antes
+mencionados. En primer lugar mencionaremos sobre el nivel interno. En este nivel se define la estructura física de almacenamiento
+de datos, para la Oficina de Investigación y Docencia se ha realizado un esquema donde se especifican las entidades involucradas.
+Figura 5.5– Modelo de Dominio Fuente: Elaboración Propia El siguiente nivel es conceptual, que determina como se relaciona
+el nivel interno con las vistas o esquemas que se muestran al usuario. Se ha definido el esquema de base de datos que
+tendría el sistema. 143 Figura 5.6– Modelo de Datos Fuente: Elaboración Propia Finalmente, definimos el nivel externo,
+el cual determina las vistas o esquemas que son visibles para el usuario. Estos esquemas han sido definidos en el manual
+de usuario, el cual se encuentra en el anexo H. 144 Capítulo 6. Construcción del Sistema de Investigación y Docencia
+En este capítulo se detallará la forma en que se realizo la construcción del software para el Sistema de Investigación
+y Docencia. Se tocaran puntos como la tecnología empleada, el equipo encargado para el desarrollo, la arquitectura propuesta
+etc. Cabe resaltar que para el desarrollo del software se dispuso del servicio de la empresa JavaFactory, la cual cuenta
+con alumnos entre octavo y décimo ciclo de la carrera de Ing. de Software. Descripción de la empresa JavaFactory es la
+principal empresa dentro de la UPC dedicada al desarrollo de soluciones de software basadas en nuevas tecnologías para
+el sector corporativo. Su negocio depende de las aplicaciones Web para entregar un servicio de calidad y eficiente en
+lo que refiere a e-comercio, el portal, el negocio-a-negocio y las soluciones next-generation, se requiere entrega confiable
+de SLA (acuerdo del porcentaje de disponibilidad). Las soluciones de Java Software Factory le apoyan en todas las fases
+del ciclo de vida de sus aplicaciones Web - comenzando con el diseño, el desarrollo, las pruebas y finalmente con la
+producción. Nuestras soluciones aceleran el desarrollo y mejoran el 145 funcionamiento y la disponibilidad del sistema
+para asegurar una mejor experiencia en el usuario final. Java Factory provee las herramientas que ayudan a los usuarios
+a manejar la calidad del código y el funcionamiento y disponibilidad de sus aplicaciones web con soluciones de monitoreo
+y diagnóstico que rápidamente le lleva a identificar y resolver problemas. Figura 6.1– Organigrama de Java Factory Fuente:
+Elaboración Propia Los proyectos que manejo la empresa en el ciclo 2008-2. · Workflow de la carrera · Sistema de Investigación
+y Docencia 146 Equipo de desarrollo del sistema de Investigación Para el desarrollo del sistema de investigación y docencia,
+se definió una serie de roles y las personas a carga de cada uno de ellos. Todas las personas involucradas en el proyecto
+fueron evaluadas antes de atribuirse a sus cargos. Una correcta comunicación y la definición precisa de sus actividades
+permitió el desarrollo del producto en los tiempo s establecidos, a continuación se muestra la tabla con los roles y
+los alumnos asignados. Tabla 6.1: Roles Empresariales Alumno Rol Enrique Huamán Gestión de la Configuración y Jefe del
+Proyecto Rosa Feliz Implementación de Procesos Raúl Coaguila Arquitecto de Software Fuente: Elaboración Propia Gestión
+de la configuración Para poder administrar los cambios realizados en el sistema, a lo largo de la etapa de desarrollo,
+se necesito de una herramienta, la cual permita el manejo efectivo de versiones. Luego de analizar las características
+de varios sistemas de administración, se decidió por usar el software denominado Subversion, ya que posee muchas ventajas
+de administración y favorece el manejo de versiones. 147 Por otro lado, se escogió una herramienta, para administrar
+el servicio SVN, denominado Visual SVN Server, la cual es un producto FreeWare y ofrece un ambiente de administración
+didáctico, amigable para los usuarios promedio y es fácil de usar dentro de un entorno Windows. Como Herramientas Cliente
+se opto por el uso de Tortoise SVN 1.5.3, por su facilidad de integración con el Explorador de Windows y su fácil manejo
+intuitivo. Y SubEclipse, el plugin de SVN para el IDE Eclipse, este se escogió por tener a Eclipse como una de las herramientas
+básicas para el desarrollo. Figura 6.2– Software de Gestión Fuente: Elaboración Propia Descripción y representación arquitectónica
+La arquitectura de las aplicaciones desarrolladas en la Fábrica Java fue planteada en base al uso de portales. Los portales
+son Frameworks para administrar contenido en diversas partes de un navegador web y unificar aplicaciones bajo una aplicación
+que las contiene. Las aplicaciones entran en un portal en ventanas llamadas portlets. Yahoo14 es un ejemplo de portal.
+14 http://www.yahoo.com 148 Los portales evaluados fueron jBoss Portal y Liferay. Se escogió Liferay por si vigencia
+y mayores ventajas, entre ellas: · Nos permite estandarizar el diseño visual de las aplicaciones. · Nos permite administrar
+las aplicaciones, la forma en la que se muestran en la pantalla, para que sea por zonas. · Se unifica la autenticación.
+Los usuarios pueden interactuar con todas las aplicaciones a las que tengan permiso con un solo login en el portal. Esto
+se logra añadiendo autenticación CAS al Portal. En a figura 7.3 se muestra de forma general de los componentes a utilizar
+en el desarrollo de las aplicaciones de la fábrica Java. Figura 6.3– Componentes generales Fuente: Elaboración Propia
+JSP + 149 Breve descripción de cada componente: · Liferay15: Es el portal escogido para las aplicaciones de la fábrica.
+Permite integrarse con diversas otras herramientas para la administración de las aplicaciones. · Apache DS16: Fue escogido
+por trabajar bajo la plataforma Windows, que es en la cual es el ambiente de desarrollo. Se puede cambiar a otros servidores
+de directorios como Active Directory. Se integra con Liferay para obtener un inicio de sesión en el portal. Esto luego
+puede extenderse con herramientas como CAS (Central Authentication Services) para obtener un mismo inicio de sesión en
+todas las aplicaciones. · Bases de datos MySQL17 y PostgreSQL18: Son bases de datos gratuitas que se comunican naturalmente
+con Liferay y jBPM. Se utiliza MySQL por su facilidad pero en caso una aplicación requiera PostgreSQL se puede cambiar
+fácilmente para esa aplicación en específico. · Hibernate19: Es un framework que nos permite acceder a diversas bases
+de datos mediante el manejo de entidades. No importa la base de datos con la que se trabaje, se exponen las entidades
+y permiten el cambio entre base de datos mediante el manejo de dialectos SQL. · jBPM20: Es un motor de procesos muy potente
+desarrollado por la comunidad de jBoss21. Permite modelar los procesos en varios lenguajes como jBPM, jPDL, etc. 15 http://www.liferay.com
+16 http://directory.apache.org 17 http://www.mysql.com 18 http://postgresql.org 19 http://www.hibernate.org 20 http://www.jboss.org/jbossjbpm
+150 Los procesos que describen las aplicaciones a desarrollar se convierten en procesos en jBPM y luego sirven como esqueleto
+de las aplicaciones. · Se utiliza jPDL como lenguaje de procesos por ser el más estable y el más fácil de entender para
+los desarrolladores por su similitud con los diagramas de actividades. · JSP y Struts: Son tecnologías clásicas de Java
+para el desarrollo de páginas web. Con esto obtenemos aplicaciones web que luego se publican en el portal. · Servidor
+de Aplicaciones jBoss AS: Es un servidor open-source que tiene buena compatibilidad con la mayoría de herramientas mencionadas
+anteriormente. Se escogió el servidor jBoss basado en Tomcat 5.5. Se ha determinado que la versión del Framework a utilizar
+será SDK 1.5.012, debido a que es la más compatible con las herramientas mencionadas. A continuación se muestran los
+casos de uso del portal en el que se colocan las aplicaciones. Las acciones que el usuario puede realizar dependen de
+su rol en cada aplicación a la que tenga acceso. El administrador del portal puede cambiar los roles de los usuarios
+en el portal y mantener las aplicaciones que se pondrán en el portal. Figura 6.4: Representación Arquitectónica Fuente:
+Factoría de Java 21 http://www.jboss.org 151 Acceder a la aplicación: Un usuario accede a una aplicación a la que tenga
+permiso. Sólo se muestran las opciones dentro de esa aplicación según el rol que tenga el usuario. Administrar usuarios
+del portal: El administrador del portal mantiene los usuarios del portal y de cada una de las aplicaciones. Administrar
+los portlets: El administrador del portal puede manejar los portlets que se muestran en el portal y para que rol se muestran.
+Esto permite agregar aplicaciones al agregar portlets que las contienen. Vista de Despliegue Se muestran las relaciones
+físicas entre los componentes hardware y software en el sistema final, es decir, la configuración de los elementos de
+procesamiento en tiempo de ejecución y los componentes software (procesos y objetos que se ejecutan en ellos). Estarán
+formados por instancias de los componentes software que representan manifestaciones del código en tiempo de ejecución
+(los componentes que sólo sean utilizados en tiempo de compilación deben mostrarse en el diagrama de componentes). Un
+diagrama de despliegue es un grafo de nodos unidos por conexiones de comunicación. Un nodo puede contener instancias
+de componentes software, objetos, procesos (caso particular de un objeto). En general un nodo será una unidad de computación
+de algún tipo, desde un sensor a un mainframe. Las instancias de componentes software pueden estar unidas por relaciones
+de dependencia, posiblemente a interfaces (ya que un componente puede tener más de una interfaz). Figura 6.5: Despliegue
+del Sistema 152 Fuente: Factoría de Java Servidor de Base de datos: Servidor donde se almacenan las bases de datos de
+Liferay y de las aplicaciones que se contengan en el portal. Podría ser más de uno dependiendo si las aplicaciones Web
+son muchas. Servidor Portal Liferay: El servidor que contiene el portal al que acceden los usuarios. Este servidor puede
+ser virtual para facilitar su instalación y el despliegue de aplicaciones en el entorno de la UPC. Los servidores de
+aplicaciones trabajan con el Framework de Java (JDK 1.5.012). Herramientas de Desarrollo Las principales herramientas
+del desarrollo que se han empleado en el Sistema de Investigación y Docencia son: · Eclipse Europa con jBoss Tools: Es
+una herramienta que ofrece un buen ambiente para el trabajo con flujos. Nos permite, gracias al plugin GPD (Graphical
+Plugin Designer) diseñar procesos jBPM y obtener el código XML asociado. · No se usa utilizará la última versión de Eclipse
+(Ganymede) debido a que la versión de jBoss Tools que trabaja con dicho IDE está aún en versión Beta y nuestras 153 pruebas
+con el software nos confirman que aún no es un ambiente adecuado para trabajar. · Se utiliza también para probar procesos
+y otro código gracias al conjunto de herramientas jUnit. · NetBeans: Es el IDE oficial de Sun, se utiliza para el desarrollo
+de aplicaciones Web basadas con Struts. 154 Capítulo 7. Puesta en Producción En este capítulo se detallará la forma en
+que se realizó la puesta en producción del Sistema de Investigación y Docencia en las instalaciones del OEAIDE. Se tocarán
+puntos como el cronograma que se realizo para la capacitación a los usuarios, los manuales de los mismos, los planes
+de operación y soporte y las actas como constancia de haber concluido satisfactoriamente el proyecto. Estas tareas se
+han realizado con el propósito de minimizar los riesgos para la salida a producción y para dar como concluido el proyecto
+desarrollado. Manual de Usuario Es un documento que expone los procesos que el usuario puede realizar con el sistema
+a ser implantado. En este documento se detallarán todas las características de las opciones a usar. El objetivo general
+del manual es que muestre como navegar por la aplicación de una forma práctica y dinámica. Asimismo, que luego de haber
+leído el manual el usuario conozca y utilice adecuadamente la aplicación desarrollada. Los objetivos específicos son:
+· Que el usuario conozca como registrar los datos de entrada. · Definir las funciones que debe realizar el usuario. ·
+Que el documento sirva como manual de aprendizaje. · Que el documento sirva como manual de referencia. 155 El documento
+completo del manual de usuario se puede encontrar en el anexo H. Capacitación de usuarios La capacitación a usuarios
+es uno de los puntos vitales para que todo sistema de información culmine con éxito, ya que los usuarios finales por
+lo general suelen ser reacios al cambio al utilizar un sistema nuevo. Por ello, se elaboró un cronograma para poder capacitar
+a los usuarios en el uso del nuevo sistema que utilizarán con el objetivo que se familiaricen con el mismo y puedan conocer
+las funcionalidades que este ofrece. Las personas encargadas para el dictado de la capacitación serán los analistas Luis
+Alvarez y Gustavo Briceño quienes se han encargado de todo el análisis y diseño del sistema, así como la gestión del
+desarrollo del mismo. A continuación, se presentará el cronograma que se realizó con el personal de la OEAIDE: Tabla
+7.1 – Cronograma de capacitación Unidades del OEAIDE Participantes Sesiones (días) Duración x sesión (hrs) Unidad de
+Diseño y Elaboración de Proyecto de Investigación Dr. Felipe Lindo Pérez 3/11/08 - 4/11/08 Ing. Armando Barrientos Achata
+3 Sr. Ormindo Hugo Vela Marrou 156 Unidad de Desarrollo de Investigación Clínico- Epidemiológico y Ensayos Clínicos Dr.
+José Tantalean Da Fieno 6/11/08 - 7/11/08 Sra. Agripina Camacho Ramos 3 Sr. Milton Cuzcano Cortez Unidad de Enseñanza
+Formativa Dr. Juan Falen Boggio 10/11/08 - 12/11/08 3 Sra. Edith Lozano Gonzales Sr. Carlos Arauzo Zavala Sr. David Urbano
+Rodríguez Unidad de Capacitación Especializada Dra. Gloria Ubillus Arriola 14/11/08 - 15/11/08 3 Lic. Jenny Violeta Reyes
+Gutierrez Sra. Olga Tarazona Díaz Sra. Gilda Carrillo Rodríguez Unidad de Apoyo Administrativo Sra. Jannet Chong Campana
+(Jefa) 18/11/08 – 21/11/08 3 Sr. Andrés Torrico Rivera Fuente: Elaboración Propia Manual de Instalación Para una correcta
+instalación del producto se realizo un manual en el cual se detalla paso a paso la forma y orden en que se debe realizar
+la dicha tarea. Este documento también sirvió para el departamento de sistemas del IESN, ya que ellos poseen un área
+que se encarga de administrar todos los servidores del Instituto. 157 El documento completo del manual de usuario se
+puede encontrar en el anexo I. Plan de Soporte y Operación Luego de realizar el pase a producción del sistema se debe
+dejar en claro cómo, durante cuánto tiempo y a través de que medio prestará soporte en caso se presente algún error en
+el sistema. Por ello, se han realizado el documento de Plan de Soporte, el cual deja en claro el flujo que se seguirá
+en caso surja algún error en el sistema cuando éste ya se encuentre en producción. Este flujo involucra: responsable,
+tiempos, medio de comunicación etc. Figura 7.1: Medios de comunicación para realizar el soporte fig048.jpg fig048a.jpg
+Fuente: Elaboración propia El documento completo del plan de soporte se puede encontrar en el anexo F. Por otro lado,
+se ha realizado el documento plan de operación con el objetivo de definir la forma en que el sistema será operado. En
+este plan se definen los acuerdos de niveles de servicio para cuando se presente algún incidente. Asimismo, los procedimientos
+de backup y restore para salvaguardar la información de la Oficina. El documento completo del plan de operación se puede
+encontrar en el anexo F. 158 Actas Durante el transcurso de todo el proyecto se realizaron varias actas con la finalidad
+de mantener una garantía de los avances que veníamos realizando. Algunas actas eran internas, es decir, de los trabajos
+que se realizaban con JavaFactory o con el equipo de Validación y Verificación. También, se registraron actas externas
+propiamente dicho con nuestro cliente: OEAIDE. Finalmente, para realizar el cierre del proyecto se elaboro un acta en
+la cual se detallo que el desarrollo del mismo se había desarrollado en los tiempos y costos acordados en un inicio.
+Las actas elaboradas durante el transcurso del proyecto pueden visualizarlas en el anexo J. 159 CONCLUSIONES En el presente
+trabajo se realizó una investigación sobre las actividades que se realizan en la Oficina de Investigación y Docencia,
+lo cual nos permitió elaborar y secuenciar sus procesos importantes. Luego de haberlos conocido, y de haber realizado
+artefactos, documentos y reuniones, estuvimos en la capacidad de proponer un sistema, que ayude a las personas que laboran
+en esta entidad, a realizar un trabajo efectivo, ordenado y de calidad para sus clientes. A continuación, se explicará
+a detalle las fases del proyecto para culminar con la elaboración del sistema y lo que implica su instalación. En primer
+lugar se tuvo que realizar el modelamiento de los procesos de la Oficina de Investigación y Docencia. Analizando los
+procesos habituales que se desarrollan en la Oficina para luego diagramarlos y determinar los macro procesos. En segundo
+lugar se definió una cartera de proyectos que soporten los procesos identificados. Estos módulos fueron probados y aceptados
+por los usuarios finales, quedando constancia mediante una carta firmada entre las 2 partes. En tercer lugar se desarrolló
+el producto de Aprendizaje. Esto se definió con el director de la Oficina de Investigación y Docencia, quedando en compromiso
+terminar los otros 2 módulos. Finalmente, se realizó la puesta en producción del módulo de Aprendizaje. Para esto se
+definió la arquitectura que soporte la infraestructura tecnológica y lógica del sistemas, teniendo en cuenta recursos,
+datos, cantidad de usuarios, etc. 160 RECOMENDACIONES · El Comité de Salud debe mantener constantemente actualizadas
+las reglas del negocio que se dan para los Hospitales de alta complejidad, para determinar el impacto que puede tener
+en el Sistema. · Implementar un Plan de Capacitación para los usuarios del OEAIDE que usarán el Sistema. · Tener una
+mejor comunicación con el área de Sistemas del Hospital del Niño para especificar los servicios que el proyecto consumirá
+y brindará. · Se definió un sistema con tres módulos, los cuales engloban y satisfacen las necesidades de la Oficina,
+y abarcan los procesos desarrollados en ella. · El primero módulo a implementar debería ser Aprendizaje, ya que abarca
+las principales actividades desarrolladas en la Oficina. · El segundo módulo a implementar debería ser Investigación,
+ya que permitirá una mejor calidad de enseñanza en los cursos dictados dentro de la Oficina. · El ultimo módulo a implementar
+debería ser Apoyo Administrativo, ya que brinda soporte a las áreas de la Oficina. · En un futuro, dar mantenimiento
+periódico al sistema, permitiendo adicionar procesos que surjan en la Oficina. · Se ha planteado una arquitectura orientada
+a servicios, la cual muestra de qué forma este Sistema interactuará con los demás módulos de un Hospital de alta complejidad.
+· Se decidió usar herramientas que no conlleven a pagos por licencias, ya que la Oficina de Investigación y Docencia
+no cuenta con el presupuesto necesario para solventarlas. 161 BIBLIOGRAFIA AMBLER, Scott W. y otros. 2005 The Enterprise
+Unified Process: Extending the Rational Unified Process. NY. Prentice Hall PTR. GREENFIELD, Jack y otros 2004 Software
+Factories: Assembling Applications with Patterns, Models, Frameworks, and Tools. NY: John Wiley & Sons. IEEE Computer
+Society. 2004 IEEE Standard for Information Technology Software Life Cycle Processes Reuse Processes. NJ: IEEE Computer
+Society. PERÚ. Congreso de la República 2007 Resolución Ministerial N# 589-2007/MINSA Instituto Especializado de Salud
+del Niño 2007 Reglamento de organización y funciones Sistemas de Información Geográfica en Salud Pública (SIG-SP) 2007
+( http://ais.paho.org/sigepi/index.asp) Sitio Oficial de la organización panamericana de la salud. Sistema de información
+de salud 2005 Proyecto desarrollado por los alumnos de sistemas de información
+
+<h4>links de referencia: </h4>
+<ul>
+    <li>
+        <a href="http://repositorioacademico.upc.edu.pe/upc/bitstream/10757/273760/1/GBrice%C3%B1o.pdf">Análisis y diseño del sistema de aprendizaje para la Oficina Ejecutiva de apoyo a la Investigación y Docencia-UNIVERSIDAD
+            DE PERU</a>
+    </li>
+    <li>
+        <a href="https://es.wikipedia.org/wiki/Proceso_Unificado_Racional">PROCESO UNIFICADO RACIONAL(RUP)</a>
+    </li>
+    <li>
+        <a href="http://enterpriseunifiedprocess.com/">Enterprise Unified Process (EUP)</a>
+    </li>
+    
+</ul>
+
+
+    </div>    
+  </div>
+  </div>
+  <!-- Classic Modal -->
+  <div class="modal fade" id="myModal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">Modal title</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <i class="material-icons">clear</i>
+          </button>
+        </div>
+        <div class="modal-body">
+          <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-link">Nice Button</button>
+          <button type="button" class="btn btn-danger btn-link" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+  <!--  End Modal -->
+  <footer class="footer" data-background-color="black">
+    
+      
+      
+      <div class ="row">
+          <hr>
+          <div class ="col-xs-4 col-sm-4 col-md-4">
+          <h3 class ="shadow p-2 mb-2  rounded text-danger">CONSULTAS</h3>
+               
+               
+               <div class ="col-xs-10 col-sm-10 col-md-12 col-offset-xs-1 col-offset-sm-1 col-offet-md-1 ">
+                   
+                    <a href="#" class ="text-primary shadow"><strong>Registrarse</strong></a> <br>
+                     <a href="#" class="text-primary shadow  "><strong>Preguntas frecuentes</strong></a><br>
+                    
+               </div>
+               
+               
+                
+             
+          </div>
+          <div class ="col-xs-4 col-sm-4 col-md-4">
+              <h3 class ="shadow p-2 mb-2  rounded text-danger">UNNE</h3>
+             <hr>
+              <p class ="text-black shadow">	
+                <strong>Ciudad de Corrientes - Corrientes, Argentina.</strong>
+              </p>
+              <hr>
+          </div>
+          <div class ="col-xs-4 col-sm-4 col-md-4 text-right">
+              <h3 class ="shadow p-2   rounded">
+                <a href="contacto" class ="text-danger">Contactenos</a></h3><hr>
+              <p >
+                  <i class="rounded bg-primary" style="font-size:15px"></i>
+                  <strong class ="lead">Email: victor2283@gmail.com </strong>
+              </p>
+              
+          </div>
+          
+      
+      <hr>
+      <div class ="col-12 ">
+          <h6 class ="text-center text-primary">Copyright <i class ="text-danger">&copy;<script type="text/javascript">document.write(new Date().getFullYear())</script></i>- Todos los derechos reservados <a href="index">Tecno Ventas S.R.L</a></h6>
+      </div> 
+           
+          
+  
+  
+  
+  
+  </footer>
+  <!--   Core JS Files   -->
+
+  <script src="assets/js/core/jquery.min.js" type="text/javascript"></script>
+  <script src="assets/js/core/popper.min.js" type="text/javascript"></script>
+  <script src="assets/js/core/bootstrap-material-design.min.js" type="text/javascript"></script>
+  <script src="assets/js/plugins/moment.min.js"></script>
+  <!--	Plugin for the Datepicker, full documentation here: https://github.com/Eonasdan/bootstrap-datetimepicker -->
+  <script src="assets/js/plugins/bootstrap-datetimepicker.js" type="text/javascript"></script>
+  <!--  Plugin for the Sliders, full documentation here: http://refreshless.com/nouislider/ -->
+  <script src="assets/js/plugins/nouislider.min.js" type="text/javascript"></script>
+  <!--  Google Maps Plugin    -->
+  <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"></script>
+  <!-- Control Center for Material Kit: parallax effects, scripts for the example pages etc -->
+  <script src="assets/js/material-kit.js?v=2.0.5" type="text/javascript"></script>
+  <script>
+    $(document).ready(function() {
+      //init DateTimePickers
+      materialKit.initFormExtendedDatetimepickers();
+
+      // Sliders Init
+      materialKit.initSliders();
+    });
+
+
+    function scrollToDownload() {
+      if ($('.section-download').length != 0) {
+        $("html, body").animate({
+          scrollTop: $('.section-download').offset().top
+        }, 1000);
+      }
+    }
+
+  </script>
+<script src="assets/js/popper.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="assets/js/bootstrap.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

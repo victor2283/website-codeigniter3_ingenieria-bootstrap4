@@ -1,0 +1,1068 @@
+a:2:{s:6:"expire";i:1553542375;s:7:"headers";a:0:{}}ENDCI---><!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <link rel="apple-touch-icon" sizes="76x76" href="assets/img/apple-icon.png">
+  <link rel="icon" type="image/png" href="assets/img/favicon.png">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
+  <!--     Fonts and scripts jquery     -->  
+  
+  <script type="text/javascript" src="assets/js/jquery.js"></script>
+   
+  <title>Ingenieria Soft</title>
+  
+  <!--     Fonts and icons     -->
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
+  <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+  
+  <!-- CSS Files -->
+  <link href="assets/css/material-kit.css" rel="stylesheet" />
+  <!-- CSS Just for demo purpose, don't include it in your project -->
+  <link href="assets/css/demo.css" rel="stylesheet" />
+</head>
+<body class="index-page sidebar-collapse">
+   
+ 
+ <style>
+  .prueba{
+        /* font-size:10px; */
+        font-family:Verdana,Helvetica;
+       /* font-weight:bold;*/
+        color:dark;
+        /* background-color:#ffc107; */
+       /* border:0px;*/
+        /*width:80px;*/
+       /* height:19px;*/
+       /*navbar-expand-lg*/
+       /*bg-info*/
+       }
+</style>
+
+
+ <nav  class="prueba navbar navbar-transparent navbar-color-on-scroll fixed-top navbar-expand-lg bg-dark" color-on-scroll="100" id="sectionsNav">
+    <div class="container">
+      <div class="navbar-translate">
+        <a class="navbar-brand" href="Welcome">
+          Inicio </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="navbar-toggler-icon"></span>
+          <span class="navbar-toggler-icon"></span>
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      </div>
+      <div class="collapse navbar-collapse" id="navbarText">
+         <ul class="navbar-nav mr-auto">
+         <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Metodología EUP 2002 ext RUP
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="eup_2"> Links / fuentes</a>
+              <a class="dropdown-item" href="eup_3"> Visión General</a>
+              <a class="dropdown-item" href="eup_4"> Autores</a>
+              <a class="dropdown-item" href="eup_5">¿Qué etapas de la I.S cubre?</a>
+              <a class="dropdown-item" href="eup_6"> ¿Qué tipo de metodología es?</a>
+              <a class="dropdown-item" href="eup_7"> Objetivos</a>
+              <a class="dropdown-item" href="eup_8"> Fases de la misma</a>
+              <a class="dropdown-item" href="eup_9"> Roles que intervinien</a>
+              <a class="dropdown-item" href="eup_10"> Ventajas y Desventajas.</a>
+              <a class="dropdown-item" href="eup_11">Software que soporta.</a>
+              <a class="dropdown-item" href="eup_12"> Caso de uso.</a>
+              <a class="dropdown-item" href="eup_13">Empresas en que se aplican </a>
+              <a class="dropdown-item" href="eup_14"> Conclusión final</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="index">Ver todo</a>
+              
+
+
+              <a class="dropdown-item" href="uml">..</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="autores_eup">Autores</a>
+           </div>
+           
+         </li> 
+         <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Herramientas Ing.soft
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="kanbaninfo">implementar Kanban</a>
+              <a class="dropdown-item" href="calc_kanban">Calculadora de Kanban</a>
+              <a class="dropdown-item" href="uml_info">UML</a>
+              
+              <a class="dropdown-item" href="xml_info">XML</a>
+              <a class="dropdown-item" href="pmbok_info">¿Qué es PMBOK?</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="mgdraw">¿Qué es Magic Draw?</a>
+              
+              <div class="dropdown-divider"></div>
+         
+           </div>
+           
+         </li>
+         <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Otros Temas:
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="omg_info">¿Qué es Omg?</a>
+              <a class="dropdown-item" href="rup">¿Qué es RUP?</a>
+              <a class="dropdown-item" href="sreuse">¿Qué es strategic reuse?</a>
+              
+            <div class="dropdown-divider"></div>
+         
+           </div>
+           
+         </li>
+        </ul> 
+    
+        
+
+        
+
+
+
+
+
+
+      
+         
+        
+        <!-- <form class="form-inline my-2 my-lg-0">
+          <input class="form-control mr-sm-2 bg-light text-danger" type="search" placeholder="Buscar" aria-label="Search">
+          <button class="btn btn-dark my-2 my-sm-0" type="submit">Buscar</button>
+        </form> -->
+        
+        
+
+
+<!-- 
+        <ul class="navbar-nav ml-auto">
+          <li class="dropdown nav-item">
+            <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
+              <i class="material-icons">apps</i> Componentes
+            </a>
+            <div class="dropdown-menu dropdown-with-icons">
+              <a href="Welcome" class="dropdown-item">
+                <i class="material-icons">layers</i> Ver más
+              </a>
+              <a href="#" class="dropdown-item">
+                <i class="material-icons">content_paste</i> Documentación
+              </a>
+            </div>
+          </li> -->
+          <!-- <li class="nav-item">
+            <a class="nav-link" href="javascript:void(0)" onclick="scrollToDownload()">
+              <i class="material-icons">cloud_download</i> Download
+            </a>
+          </li> -->
+          <!-- <li class="nav-item">
+            <a class="nav-link" rel="tooltip" title="" data-placement="bottom" href="https://twitter.com/CreativeTim" target="_blank" data-original-title="Follow us on Twitter">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li> -->
+          <!-- <li class="nav-item">
+            <a class="nav-link" rel="tooltip" title="" data-placement="bottom" href="https://www.facebook.com/CreativeTim" target="_blank" data-original-title="Like us on Facebook">
+              <i class="fa fa-facebook-square"></i>
+            </a>
+          </li> -->
+          <!-- <li class="nav-item">
+            <a class="nav-link" rel="tooltip" title="" data-placement="bottom" href="https://www.instagram.com/CreativeTimOfficial" target="_blank" data-original-title="Follow us on Instagram">
+              <i class="fa fa-instagram"></i>
+            </a>
+          </li> -->
+        <!-- </ul> -->
+      </div>
+    </div>
+  </nav>
+  <!-- <div class="page-header header-filter clear-filter  purple-filter" data-parallax="true" style="background-image: url('assets/img/ds1.jpg');">  -->
+  <div class="page-header header-filter" style="background-image: url('assets/img/ds1.jpg'); background-size: cover; background-position: top center;">
+  <!-- <div class="page-header header-filter clear-filter  tint" data-parallax="true" style="background-image: url('assets/img/ds1.jpg');"> -->
+  <!-- <div class="page-header header-filter clear-filter  inkwell" data-parallax="true" style="background-image: url('assets/img/ds1.jpg');"> -->
+  
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 ml-auto mr-auto">
+          <div class="brand">
+            <h2 class ="title">INGENIERIA DE SOFTWARE </h2>
+            
+            <h3>CARRERA: Lic. en Sistemas de Información/Facultad de Ciencias Exactas/ UNNE</h3>
+			
+			            
+          
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+  <div class="main main-raised">
+    <div class="section section-basic">
+      <div class="container">
+
+ 
+         <div class="title">
+		<h1> Metodologia Enterprise Unified Process (EUP) extensiones RUP desde 2002</h1>
+
+        </div> 
+<div>
+            <h3>INTEGRANTES DEL GRUPO:</h3>
+			<ul> 
+				<li>
+			        Benitez Vallejos Victor Hugo	
+				 </li>
+				 <li>
+				 	Acevedo Eulices
+				 </li>
+                 <li>
+                 Abel Marquez
+                 </li>
+			</ul> 
+			
+</div>
+
+<h1>LINKS DE REFERENCIA:</h1>
+<hr>
+<ul>
+<li><a href="http://disciplinedagiledelivery.com/"> (DAD)</a></li>
+<li><a href="http://www.agilemodeling.com/">(AMDD)</a></li>
+<li><a href="http://www.agiledata.org/">Técnicas ágiles de base de datos</a></li>
+<li><a href="http://www.disciplined-agile.com/">Ambler+Associates</a></li>
+<li><a href="http://www.enterpriseunifiedprocess.com/">Proceso unificado de empresa (EUP)</a></li>
+<li><a href="https://disciplinedagileconsortium.org/">Asociación Internacional de Arquitectos de Software y Disciplina Agile Consortium</a></li>
+<li><a href="http://www.scrumrva.org/"> ScrumRVA.com </a></li>
+<li><a href="https://www.agileclassrooms.com/">AgileClassRooms.com</a></li>
+<li><a href="https://www.michaelvizdos.com/scrum-in-school.html">ScrumInSchool.org</a></li>
+<li><a href="https://www.agileineducation.org/">AgileInEducation.org</a></li>
+<li><a href="http://enterpriseunifiedprocess.com/">enterpriseunifiedprocess.com</a></li>
+<li><a href="https://www.significados.com/stakeholder/">stakeholders</a></li>
+<li><a href="http://repositorioacademico.upc.edu.pe/upc/bitstream/10757/273760/1/GBrice%C3%B1o.pdf">Análisis y diseño del sistema de aprendizaje para la Oficina Ejecutiva de apoyo a la Investigación y Docencia-UNIVERSIDAD DE PERU</a></li>
+<li><a href="https://www.significados.com/stakeholder/">stakeholders</a></li>
+<li><a href="https://es.wikipedia.org/wiki/Proceso_Unificado_Racional">PROCESO UNIFICADO RACIONAL(RUP)</a></li>
+<li><a href="http://www.uv-mdap.com/blog/pmp-introduccion-a-la-direccion-de-proyectos/">Ir a página donde se explica sobre que es un PMBOK</a></li>
+<li><a href="https://www.esan.edu.pe/apuntes-empresariales/2018/10/la-importancia-del-pmbok-y-su-influencia-en-un-proyecto/"> PMBOK</a></li>
+<li><a href="http://www.uv-mdap.com/blog/la-gestion-del-alcance-proyecto-enfoque-pmi/">uv-mdap.com</a></li>
+
+</ul>    
+
+
+
+
+
+
+
+
+<hr/>
+
+<h1>VISION GENERAL DE LA METODOLOGIA (EUP) extensiones RUP desde 2002</h1>
+        <p>Enterprise Unified Process (EUP) es una variante extendida del Proceso Unificado (RUP) y
+         fue desarrollado por <a href="eup_4"> Scott W. Ambler y Larry Constantine en 2000, reelaborado en 2005 
+         por Ambler, John Nalbone y Michael Vizdos</a>. EUP fue introducido originalmente
+         para superar algunas carencias de RUP, a saber, la falta de rendimiento y utilidad así como 
+         la eventual retirada de un sistema de software. Se agregaron dos fases y varias 
+         disciplinas nuevas. EUP considera que el desarrollo de software
+         no es una actividad autónoma, sino que está integrado en el ciclo de vida del sistema
+          (que se construirá o mejorará o sustituirá), el ciclo de vida de TI de la empresa 
+          y el ciclo de vida de la empresa. Se trata de desarrollo de software
+            como se ve desde el punto de vista del cliente.
+        </p>
+        <p>EUP ve el desarrollo de software, no como una actividad independiente, 
+             sino integrada en el ciclo de vida del sistema (que se construirá o 
+             mejorado o sustituido), el ciclo de vida de la empresa y el ciclo de 
+             vida de la organización / negocio de la empresa en sí misma. 
+             Las  ofertas con el desarrollo de software como se ve desde el punto de 
+             vista del cliente.
+        </p>
+        <p>Para comenzar hay que tener en claro que es RUP para saber cuales son las ventajas de usar EUP. </p>
+        <p>  Para saber mas sobre rup haga click en el siguiente boton =><a class ="btn btn-primary" href="rup">Saber de Rup</a></p>
+
+
+
+
+
+
+
+
+
+<hr/>
+<h1 class ="text-primary">LOS CREADORES DE LA METODOLOGIA EUP </h1><hr>
+
+<h1>Scott W. Ambler</h1>
+<div class ="row">
+    <div class ="col-3">
+    <img src="assets/img/autores_eup/scottAmblerHeadShot.jpg" alt="Raised Image" class="img-raised rounded img-fluid"> 
+    
+    </div>
+    <div class ="col-9">
+    <p>Es un socio consultor sénior con Scott <a href="http://www.disciplined-agile.com/">Ambler+Associates</a>,
+ que trabaja con organizaciones de todo el mundo para ayudarles a mejorar sus procesos de software.</p>
+  <p>Brinda capacitación, entrenamiento y asesoría en estrategias disciplinadas, ágiles, tanto a 
+      nivel de proyecto como de organización.</p>
+   <p> Tiene su  sede en Toronto, y aunque prefiere trabajar cerca de casa, el hecho es que
+       se dedica una parte de su tiempo a la consultoría en los Estados Unidos, 
+       Europa y, en ocasiones, en Asia-Pacífico.</p>
+    <p> Escribio varios libros sobre desarrollo de software orientado a objetos, 
+        proceso de software, Entrega ágil disciplinada<a href="http://disciplinedagiledelivery.com/"> (DAD)</a> , 
+        Desarrollo impulsado por modelo ágil <a href="http://www.agilemodeling.com/">(AMDD)</a>,
+         <a href="http://www.agiledata.org/">Técnicas ágiles de base de datos</a> y el <a href="http://www.enterpriseunifiedprocess.com/">Proceso unificado de empresa (EUP)</a> TM ).</p>
+     <p>Es un orador en una gran variedad de conferencias en todo el mundo y a menudo le 
+         piden que pronuncie discursos de apertura de conferencias así 
+         como presentaciones internas en organizaciones.</p>
+       <p>Es miembro de la <a href="https://disciplinedagileconsortium.org/">Asociación Internacional de Arquitectos de Software y Disciplina Agile Consortium</a> . Mis otras fotos se publican a continuación.</p>  
+    
+    </div>
+
+</div>
+
+
+<p>Comparte sus pensamientos y observaciones sobre el desarrollo de software y
+     escribe columnas y/o artículos para varias temas.</p>
+  <p> Manteniene  activas varias listas de correo y blog sobre cómo escalar 
+      el desarrollo ágil de software.</p>
+<h4>Email</h4>
+<p>
+Por cuestiones relacionadas con negocios de la mejor manera de ponerse en contacto con el 
+es a través de la una página de contacto de la SWA+. </p>
+    <p>Si desea contactarme personalmente, no dude en enviarme un correo electrónico a:</p>  
+  <strong class ="lead">  scott@scottambler.com</strong>
+
+
+
+<hr>
+
+<h1>Larry LeRoy Constantine</h1>
+
+<div class ="row"> 
+    <div class ="col-3">
+        <img src="assets/img/autores_eup/Larry_Constantine.jpg" alt="Raised Image" class="img-raised rounded img-fluid"> 
+    </div>
+    <div class ="col-9">
+    <p>Larry LeRoy Constantine (pronunciado Constanteen ; nacido en 1943) es un ingeniero de software estadounidense , profesor en el Centro de Ciencias Exactas e Ingeniería de la Universidad de Madeira Portugal , y considerado uno de los pioneros de la computación . [1] Ha contribuido con numerosos conceptos y técnicas que forman las bases de la práctica moderna en ingeniería de software y diseño y desarrollo de aplicaciones. </p>
+
+<p>Constantine creció en Anoka, Minnesota , y se graduó de Anoka High School en 1961 después de haber participado activamente en el debate y en otras actividades extra curriculares. Sus compañeros de clase lo nombraron "el más probable de tener éxito". Constantine recibió una SB en Administración de MIT Sloan School of Management en 1967 con una especialización en sistemas de información y psicología. Recibió un certificado en Family Therapy 1973 del Boston Family Institute, un programa de capacitación de postgrado de dos años. </p>
+
+<p>Constantino comenzó su carrera laboral como Técnico / Ayudante Técnico en el Laboratorio de Ciencias Nucleares del MIT en 1963. De 1963 a 1966 fue Consultor de Personal y Programador / Analista en CEIR, Inc. Desde 1966 a 1968 fue Presidente de Información y Sistemas. Institute, Inc. En 1967, también se convirtió en instructor del programa de postgrado en la Wharton School of Business de la Universidad de Pennsylvania. De 1968 a 1972 fue miembro de la facultad del IBM Systems Research Institute. </p>
+    
+    </div>
+
+
+<p>En 1973 se convirtió en Director de Investigación, Concord, Massachusetts Family Service Society. De 1973 a 1980 fue Profesor Clínico Asistente de Psiquiatría, Universidad de Tufts , Escuela de Medicina. Hasta 1987 fue profesor asistente de desarrollo humano y estudios familiares (adjunto) en la Universidad de Connecticut . De 1984 a 1986 fue también Supervisor Clínico, Intervención de Adolescentes y Familias, LUK, Inc., Fitchburg, Massachusetts. De 1987 a 1993, también trabajó como Consultor Independiente. Se mantuvo como científico jefe, consultor principal, Constantine & Lockwood, Ltd desde 1993. Desde 1994 a 1999 fue profesor de tecnología de la información en la Universidad de Tecnología de Sydney , Australia. [3]Desde 2006, ha sido profesor en el Departamento de Matemáticas e Ingeniería de la Universidad de Madeira Portugal , donde dirigió el Laboratorio de Ingeniería de Software Centrado en el Uso (LabUSE), un antiguo centro de investigación dedicado a estudiar los aspectos humanos de la ingeniería de software moderna antes de convertirse en Instituto Fellow en el Madeira Interactive Technologies Institute en 2010.</p>
+
+<p>En 1999, Constantine recibió el Premio Jolt a la Excelencia de Producto, el mejor libro de 1999 por su "Software para uso". En 2001 recibió el Premio a la Excelencia Platinum (primer lugar), Concurso de diseño centrado en el rendimiento 2001: Siemens AG, STEP-7 Lite. En 2006 fue reconocido como Ingeniero Distinguido por la Asociación de Maquinaria de Computación , y en 2007 fue nombrado Miembro de la ACM. Es el ganador del Premio Stevens en 2009 por "contribuciones destacadas a la literatura o la práctica de métodos para el desarrollo de software y sistemas". Recibió un Premio Simon Rockower en 2011 de la American Jewish Press Association . [5] Fue finalista para el 2014.Premio al libro Eric Hoffer . [6] Es miembro profesional de la Industrial Designers Society of America , miembro de la Asociación de Profesionales de la Usabilidad y de la IEEE Computer Society , y es miembro activo de los Escritores de ciencia ficción y fantasía de América .</p>
+</div>
+<h3>Publicaciones </h3>
+
+<p>Constantino tiene más de 200 artículos publicados en su haber, así como 22 libros.  Una selección:</p>
+<ul>
+   <li><p>1974. Matrimonio grupal: un estudio del matrimonio multilateral contemporáneo . Con Joan Constantine. Collier Books, 1974.</p>   </li>
+   <li><p>1975. Diseño estructurado . Con Ed Yourdon . Yourdon Press.</p></li>
+    <li><p>1981. Los niños y el sexo: nuevos hallazgos, nuevas perspectivas . (ed.) con Floyd Martinson. Little Brown & Co (T).</p></li>
+    <li><p>1986. Paradigmas familiares: la práctica de la teoría en terapia familiar . Guilford Press.</p></li>
+    <li><p>1995. Constantino en Peopleware . Yourdon Press Computing Series.</p></li>
+    <li><p>1999. Software para uso: una guía práctica para los modelos y métodos esenciales de diseño centrado en el uso . Con Lucy Lockwood. Leyendo, MA: Addison-Wesley.</p></li>
+    <li><p>2001. The Peopleware Papers: Notas sobre el lado humano del software . NJ: Prentice Hall.</p></li>
+    <li><p>2001. Más allá del caos: la ventaja de los expertos en la gestión del desarrollo de software . (ed.). Boston: Addison-Wesley.</p></li>
+    <li><p>2002. '' Las fases de transición y producción del proceso unificado . (ed.) con Scott W. Ambler . CMP Books, Lawrence 2002, ISBN  1-57820-092-X .</p></li>
+</ul>
+
+
+<hr>
+
+<h1>Michael Vizdos, Scrum Master en Residencia</h1>
+<div class ="row">
+<div class="col-3">
+    <img src="assets/img/autores_eup/Michael.png" alt="Raised Image" class="img-raised rounded img-fluid"> 
+</div>
+<div class ="col-sm-9">
+<p>
+Michael Vizdos es un empresario e innovador con sede en Richmond, Virginia ( <a href="http://www.scrumrva.org/"> ScrumRVA.com </a>).</p>
+<p> 
+Ken Schwaber lo ha llamado pionero de Agile , ha trabajado con más de 1000 equipos que buscan utilizar
+ Agile y Scrum; Ha estado en la industria por más de veinticinco años.</p>
+ <p>Michael viaja internacionalmente como consultor, mentor y entrenador, y disfruta trabajar con 
+    equipos para ayudarlos a Focus y #deliver . Michael también habla regularmente en grupos de 
+    usuarios locales y ofrece talleres (y conferencias) en conferencias internacionales de la industria.<p>
+<p>Fue coautor de un libro (con Scott Ambler) sobre el Proceso Unificado Empresarial (2005), que aborda la 
+escala de los equipos de desarrollo de software en toda la organización (como el popular tema actual de 
+escalamiento de Scrum y otras técnicas ágiles dentro de una empresa).</p>
+
+
+</div>
+
+</div>
+
+
+
+<p>Durante muchos años, Michael se ha ofrecido como voluntario en Gangplank (una organización sin fines 
+    de lucro originaria de Chandler, Arizona). En 2012, cofundó GangplankRVA en Richmond, Virginia. 
+    También ha sido mentor en una clase de emprendimiento en VCU, VSU y es miembro de la Junta Asesora 
+    de RVAWorks (una organización local sin fines de lucro centrada en la creación de empresas y
+     la creación de empleos).</p>
+<p>
+Además, Michael trae Agile y Scrum al aula, y a los equipos administrativos, en Deep Run High School 
+(Centro de Tecnología de la Información), Hermitage High School Technical Center, Hope High School, 
+Grandview Prep y como Asesor Mentor con <a href="https://www.agileclassrooms.com/">AgileClassRooms.com</a>. 
+Puede aprender más sobre sus experiencias en <a href="https://www.michaelvizdos.com/scrum-in-school.html">ScrumInSchool.org</a>
+  y unirse a una comunidad internacional gratuita en <a href="https://www.agileineducation.org/">AgileInEducation.org</a> .</p>
+Puedes conectarte con él en las redes sociales  aquí .
+
+mvizdos@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<hr/>
+<h1>¿Qué etapa de la INGENIERIA DE SOFTWARE cubre: Descripción, Desarrollo, Mantención?</h1>
+
+     
+       
+<p>Retomando el tema, comenzaremos a comparar los ciclos de vida de cada metodolgía
+             y sus caracteristicas:</p>
+        <p>En la figura 1, se muestra el ciclo de vida del RUP en su versión 2003. 
+            En él se aprecian las disciplinas de Modelamiento
+            del Negocio, Requerimientos, Análisis y Diseño, Implementación, 
+            Pruebas, Despliegue, Configuración y Manejo del cambio, Project
+            Management y Environment1, en contraste con sus fases de Concepción, 
+            Elaboración, Construcción y Transición.</p>
+           
+            <!-- <img src="assets/img/img1.jpg" alt="Raised Image" class="img-raised rounded img-fluid"> -->
+            <div class ="col-sm-offset-1">
+            <img src="assets/img/img1.jpg" alt="Raised Image" class="img-raised rounded img-fluid">
+                <h4 class ="text-center">Figura 1 – Ciclo de vida del RUP</h4>
+           </div>
+         <h1>Ciclo de vida del EUP</h1>
+         <p> En el ciclo de vida del EUP se puede apreciar las disciplinas 
+             anteriormente mencionadas del RUP y
+        las nuevas, propias del EUP. Estas son: 
+        <ul>
+            <li><strong class ="lead "><a href="http://www.enterpriseunifiedprocess.com/essays/enterpriseBusinessModeling.html">Modelado de negocios empresariales(Enterprise Business Modelling), </a></strong></li>
+            <li><strong class ="lead "><a href="https://www.apm.org.uk/body-of-knowledge/context/governance/portfolio-management/">Gestión de la cartera (Portfolio Management),</a></strong></li>
+            <li><strong class ="lead "><a href="https://www.itforbusiness.org/book/strategy-and-governance/enterprise-architecture/">Arquitectura empresarial(Enterprise Architecture),</a> </strong></li>
+            <li><strong class ="lead "><a href="sreuse">Strategic reuse (Reutilización estratégica)</a></strong></li>
+            <li><strong class ="lead "><a href="https://www.fibre2fashion.com/industry-article/2235/what-is-people-management">Gestión de personas(People Management),</a></strong></li>
+            <li><strong class ="lead "><a href="http://www.enterpriseunifiedprocess.com/essays/enterpriseAdministration.html">Administración de Empresas(Enterprise Administration),</a></strong></li>
+            <li><strong class ="lead "><a href=""><a href="https://broadswordsolutions.com/software-process-improvement/">Mejora de Procesos de Software(Software Process Improvement).</a> </strong></li>
+        </ul>
+        
+
+<hr/>
+
+<h1>Clasificación por tipo de metodología: Secuencial- lineal- incremental, iterativa, ágil</h1>
+<div class ="lead">
+<p >
+    Según fuentes de estudio EUP es una metodología ágil por ser una extensión de Rational Unified 
+    Process(RUP) pero más enfocado a las necesidades y informacion operativa de la empresa y no
+    tanto como RUP que se enfoca  más en desarrollo y entrega de software 
+    sin prestar atención a procesos posteriores a la entrega del software desarrollado, 
+    por lo tanto EUP cubre estos objetivos al dar soluciones durante las etapas de 
+    producción y retiro software. Asi presta atencion a los datos obtenidos cuando el software 
+    está en proceso de produccion o es retirado por no cumplir las espectativas.  
+</p>
+
+<p>Si bien existe un enfoque importante en las metodologías de desarrollo de software como 
+    Scrum y XP, y mejor aún en los marcos de entrega de soluciones tales como 
+    <a href="http://disciplinedagiledelivery.com/"> Disciplined Agile Delivery (DAD)</a> , 
+    está claro que hay más en los departamentos de tecnología de la información (IT) que en el
+     desarrollo / entrega. Lo que realmente necesitamos es un proceso de software completo.</p>
+
+<p>El Enterprise Unified Process (EUP) es una extensión de las metodologías de entrega de soluciones
+     como DAD, ejemplificaciones de Unified Process (UP) o incluso procesos de entrega locales 
+     basados ​​en Scrum u otros métodos de software ágiles. La figura 1 muestra el ciclo de vida de 
+     la EUP. Las personas familiarizadas con DAD o UP pueden ver que las extensiones incluyen 
+     dos nuevas fases; Producción y Retiro , y varias disciplinas nuevas:</p>
+<ul>
+    <li><a href="http://www.enterpriseunifiedprocess.com/essays/operationsAndSupport.html">Operaciones y Soporte</a></li>
+    <li><a href="http://www.enterpriseunifiedprocess.com/essays/enterpriseBusinessModeling.html">Modelado de negocios empresariales</a></li>
+    <li><a href="http://www.enterpriseunifiedprocess.com/essays/portfolioManagement.html">Gestión de la cartera</a></li>
+    <li><a href="http://www.enterpriseunifiedprocess.com/essays/enterpriseArchitecture.html">Arquitectura empresarial</a></li>
+    <li><a href="http://www.enterpriseunifiedprocess.com/essays/strategicReuse.html">Reutilización estratégica</a></li>
+    <li><a href="http://www.enterpriseunifiedprocess.com/essays/peopleManagement.html">Gestión de personas</a></li>
+    <li><a href="http://www.enterpriseunifiedprocess.com/essays/enterpriseAdministration.html">Administración de Empresas</a></li>
+    <li><a href="http://www.enterpriseunifiedprocess.com/essays/softwareProcessImprovement.html">Mejora de Procesos de Software</a></li>
+</ul>
+
+<h4>Figura 1 . El ciclo de vida para el proceso unificado de empresa (EUP): 2013.</h4>
+<img src="assets/img/eups/eup_lifecycle_2013.jpg" alt="Raised Image" class="img-raised rounded img-fluid">
+<hr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+<hr/>
+<h1>OBJETIVOS DE LA METODOLOGIA EUP</h1>
+
+
+
+<p>Los Objetivo de Enterprise Business Modeling para una  organización 
+    de TI es:</p>
+<ul>
+<li><p>Ayuda a facilitar un entendimiento común del negocio en el que está involucrada su 
+    organización. Aunque esto puede parecer superfluo para algunos, la documentación 
+    formal del negocio en el que participa su organización conducirá a muchas conversaciones
+     interesantes sobre cómo deberían funcionar las cosas y, en última instancia, a un 
+     entendimiento compartido de exactamente en qué negocio está y cómo ejecuta su trabajo.</p></li>
+<li>
+<p>Ayuda a identificar áreas de su negocio que pueden mejorarse a través de la 
+    automatización dirigida o la reingeniería de procesos empresariales a gran escala.</p>
+</li>
+<li><p>Ayuda a identificar las áreas de negocios que su organización aún no aborda o en las que
+     su organización es muy débil.</p></li>
+<li>
+<p>Proporciona información importante a los equipos de proyectos que pueden ayudarlos
+     a delimitar el alcance de su proyecto, en particular, ayudándoles a identificar 
+     cómo sus esfuerzos encajan en el negocio en general.</p>
+</li>     
+</ul>
+
+    
+
+
+
+<p>El desarrollo del modelo de negocio empresarial comienza con una visión amplia de todo el 
+    negocio. Esto no significa que modelará todo su negocio: por ejemplo, puede optar 
+    por ignorar los aspectos contables de su organización porque es estable, pero sí
+     significa que su modelo irá más allá del alcance de un solo proyecto. Su objetivo
+      debe ser capturar los fundamentos de su negocio al trabajar con sus partes 
+      interesadas en un modelo que abarque todo pero que sea superficial;
+       No necesitas muchos detalles, pero sí necesitas amplitud. Debe identificar
+        y priorizar las áreas de importancia para que puedan ser exploradas 
+        en detalle por los esfuerzos de modelado de negocios de los equipos de 
+        proyectos individuales. Su modelo de negocio empresarial debe definir 
+        una precisa, Visión general de alto nivel del negocio y debe contener información
+         que sea relativamente estable en el tiempo. Por ejemplo, dentro de un 
+         banco, la necesidad de procesar transacciones de banca minorista ha existido 
+         durante siglos, pero la forma en que esto ocurre ha cambiado dramáticamente
+          con el tiempo: la necesidad de alto nivel es estable, mientras que los detalles
+           son muy fluidos. Los esfuerzos de modelado de negocios de su empresa deben explorar
+            una amplia gama de problemas y, como resultado, su modelo de negocios de 
+            empresa en realidad se compone de una colección de artefactos más 
+            pequeños, como:</P>
+
+<ul>
+<li>Reglas de negocio de la empresa</li>
+<li>Modelo de proceso empresarial empresarial.</li>
+<li>Modelo de dominio empresarial</li>
+<li>Declaración de la misión de la empresa</li>
+<li>Visión empresarial</li>
+<li>Modelo de organizacion</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+<hr/>
+En el EUP se puede distinguir 
+        <FONT class ="text-danger" SIZE=5 >7 FASES</FONT>. 
+        <ul>
+            <li>
+                    <strong>La primera es previa a todo el proceso y, por ello, 
+                        es denominada Pre-Concepción. </strong>    
+            </li>
+            <li>
+                <strong class="text-primary"> Las 4 siguientes fueron rescatadas del
+                    RUP y son:</strong>
+                <ul>
+                   <li>Concepción, </li>
+                   <li>   Elaboración, </li>
+                   <li>    Construcción  </li>
+                   <li>y Transición.  </li>
+                </ul>    
+            </li> 
+            <li>
+                <strong class="text-primary">Finalmente, las 2 nuevas fases, que se integran al final del
+                    proceso, son:</strong>    
+                <ul>
+                <li> Producción </li>
+                <li> y Retiro.</li> 
+                </ul>    
+            </li>
+        </ul>
+        
+           </p>
+        
+          <h3>Esto se refleja en el gráfico 2, mostrado a continuación.</h3>
+        <div class="col-sm-offset-1">
+        <img src="assets/img/img3_eup.jpg" alt="Raised Image" class="img-raised rounded img-fluid">    
+         
+            <h4 class="text-center">Figura 2 – Ciclo de vida del EUP</h4>
+        </div>
+     <h1>Comparación entre RUP y EUP</h1>
+      <p>De la descripción de los ciclos de vida del <FONT class ="text-danger" SIZE=4> RUP </FONT> y del <FONT class ="text-primary" SIZE=4>EUP</FONT> se puede
+           ver que el <FONT class ="text-danger" SIZE=4>Enterprise Unified Process(EUP)</FONT> muestra una clara 
+           inclinación a la empresa como entidad y no solo al producto 
+           software. Por ejemplo, la primera disciplina del <strong class ="lead">RUP</strong> es 
+           <strong>Business Modelling (BM)</strong> mientras que la del <strong>EUP</strong> es 
+           <strong>Enterprise Business Modelling (EBM)</strong>. El <strong>BM</strong> se centra
+           en el producto software y le interesa la información relacionada 
+           a un área determinada; en cambio, el <strong>EBM</strong> tiene su foco en la empresa y
+           le interesa la información de la empresa en general. Sin embargo, el 
+           ciclo de vida de cualquier sistema debe comprender desde
+           la idea de su formación hasta la inactividad del mismo. Como se aprecia
+            en el gráfico siguiente, el ciclo de vida de un sistema
+            abarca más puntos que sólo las actividades del desarrollo 
+            del producto software.
+        </p>
+        <p>El <FONT class ="text-danger" SIZE=4>RUP</FONT> cubre de forma acertada dichas actividades pero no va 
+            más allá. Es decir, no abarca lo referido a la post-entrega.
+            El <FONT class ="text-dark" SIZE=4>EUP</FONT> si lo hace por medio de sus fases de <strong>Producción y Retiro.</strong></p>
+            <div class="col-sm-offset-1">
+                <img src="assets/img/img4_eup.jpg" alt="Raised Image" class="img-raised rounded img-fluid">    
+                 <h4 class="text-center">Figura 3 – Comparación entre RUP y EUP</h4>
+            </div>
+            <p>Fuente: <a href="http://enterpriseunifiedprocess.com/">
+                Enterprise Unified Process: Proceso Unificado de Empresa</a></p>
+            <p class="lead">Existen 4 tipos de ciclos de vida marcados desde el punto de vista del 
+                alcance de los mismos.</p>
+            <ul>
+                <li><strong>Ciclo de vida del Desarrollo del Sistema</strong>, abarca exclusivamente las 
+                    actividades del desarrollo del software. El RUP cubre
+                cabalmente este ciclo, es decir, pertenece a él.</li>
+                <li><strong>Ciclo de vida del Sistema</strong>, se basa en el anterior y añade las 
+                    actividades para operar y dar soporte al sistema, una vez puesto
+                en producción o cuando pase al retiro.</li>
+                <li><strong>Ciclo de vida de la Tecnología de Información (IT)</strong>, abarca las 
+                    actividades del departamento de tecnologías de información
+                y las que sirven para realizar un adecuado manejo de la organización. 
+                El EUP pertenece a este tipo de ciclo.</li>
+                <li><strong>Ciclo de vida de la Organización o del Negocio</strong>, comprende el 
+                    ciclo anterior y lo fusiona con las actividades del negocio.</li>
+              </ul>
+            <p>De esta agrupación de ciclos de vida se desprende que el RUP es
+                   limitado en lo referido a las actividades del negocio y sólo
+            se concentra en las relacionadas al desarrollo del producto software.
+            </p>
+            <p>Esto ya no es suficiente, se debe ofrecer más que un producto software. 
+                El proceso no debe acabar en la entrega del aplicativo
+                a la empresa que lo requirió, sino debe velar que éste funcione 
+                adecuadamente luego de que se haya puesto en producción.
+                Por eso es indispensable escalar el RUP, y así llegar al EUP, 
+                que abarca la producción, el retiro y, para ello, realiza
+                actividades del Gestión de la cartera, Arquitectura empresarial y 
+                Reutilización estratégica.
+            </p>
+
+            <hr>
+            <h2 class ="text-danger">Fase de Producción</h2>
+            <p>Es la primera fase adicional del EUP respecto del RUP. El ciclo de vida 
+                del Rational Unified Process concluía con la fase
+                de Transición, pero se ha visto que realmente no debe acabar allí. 
+                Las actividades propias de esta fase están más relacionadas
+                a las tecnologías de información (IT) que a la construcción y al 
+                despliegue del software, ya que se da cuando esto ya ha
+                terminado
+            </p>
+            <p>Esta fase del EUP contiene las actividades de soporte y operación del 
+                sistema, para ello el aplicativo debe estar en funcionamiento.
+               Estas actividades, que forman parte del ciclo de vida del sistema, 
+               duran hasta que se decida reemplazar el aplicativo,
+               ya sea por una nueva versión o por otro software. También la causa se 
+               puede deber a que dicho aplicativo ya no estará
+               más en uso, es decir, pasará al retiro.
+            </p>
+            <p>Pero se pueden presentar nuevos requerimientos por parte de los usuarios 
+                finales o cambios en la administración de los defectos
+               encontrados. En este caso, se deberá verificar que dichos cambios pasen 
+               a formar parte del nuevo ciclo de vida del desarrollo
+               del sistema.
+            </p>
+            <h4 class ="text-danger"> Objetivos</h4>
+            <p>El objetivo principal de esta fase es mantener el sistema útil y 
+                productivo para la organización que adquirió el producto
+                software. Para cumplir con estos niveles de servicio, especificados 
+                entre el usuario y el personal de soporte, es necesario
+                realizar planes de acción, en casos extremos, para dar mantenimiento 
+                de emergencia al sistema. Para mantener los sistemas
+                operando correctamente, se debe brindar diferentes soluciones. Estas 
+                soluciones dependen del giro de la organización
+                y del software que cuentan. En algunos casos, se brindarán soporte 
+                en las operaciones o cambios en ciertas funcionalidades
+                y, en otros, solo se hará soporte del tipo help desk, por ejemplo.
+            </p>
+            
+<hr/>
+
+<h3 class="text-danger">Roles</h3>
+            <P>
+                El EUP define una serie de roles relacionados a las actividades de 
+                producción. Estos roles abarcan todos las funciones que
+                se deben considerar para que se brinde servicios de operación y soporte 
+                de manera eficiente y efectiva. Los roles que se
+                usan para la disciplina de producción se detallarán a continuación.
+            </P>
+            <ul>
+                <li>
+                    <strong>Operador.</strong> Monitorear el sistema para verificar que 
+                    opere correctamente, para comenzar 
+                        los trabajos y procesos adecuados,
+                     para realizar un backup y restaurar la data y para ocuparse de, 
+                     de forma general, del sistema y su entorno.
+                </li>
+                <li>
+                    <strong>Gerente de Soporte</strong>. Programa y asigna tareas. Debe 
+                    asegurarse que el personal cuente con recursos necesarios para poder
+                    realizar las tareas y, con esto, que el trabajo esté terminado a tiempo
+                    y de forma óptima.
+                 </li>
+                 <li>
+                    <strong>Representantes de apoyo de clientes o usuarios finales:</strong> 
+                      <p>Deben proporcionar  guías a los usuarios y recibir los reportes de 
+                         las fallas ocurridas. Están en permanente contacto con el usuario y, si
+                          fuera el caso, muestran el progreso de la solución del problema reportado.</p> 
+                 </li>
+                 <li>
+                     <strong>Representantes de apoyo de sistema</strong> . Son los representantes del 
+                     soporte al sistema. Reciben los informes de los problemas reportados
+                     de los Representantes de atención al cliente. Si estos problemas son originados 
+                     por falla del sistema deben crear defectos
+                     para que sean atendidos por los Desarrolladores de soporte.
+                 </li>
+                    <li>
+                        <strong>Desarrollador de soporte</strong>. Son los encargados de realizar los
+                         cambios en el sistema con 
+                        el fin de que vuelva a funcionar
+                        correctamente.
+                    </li>
+            </ul>
+            <h3 class ="text-danger">Actividades Básicas</h3>
+            <p>La figura 4, muestra las actividades básicas que se realizan en esta fase del 
+            ciclo de vida del Enterprise
+            Unified Process. Además, muestra los roles principales involucrados en dicha 
+            fase y la relación de estos roles con las actividades
+            que están a su cargo.</p>
+            <div class="col-sm-offset-1">
+            <img src="assets/img/PhaseWorkflow.jpg" alt="Raised Image" class="img-raised rounded img-fluid">    
+            
+                <h4 class="text-center">Figura 4 – Actividades Básicas 2</h4>
+            </div>
+            <P>
+                <strong>Fuente: Enterprise Unified Process</strong>
+            </P>
+            <p><strong>Resumen</strong> Esta es la última fase del ciclo de vida del EUP. 
+                Trata sobre cómo se debe llevar a cabo un adecuado
+            retiro del producto software. Esto con la finalidad de que el cliente o usuario 
+            final no sienta el cambio (es otra realidad,
+            ya no se cuenta con el sistema que antes se usaba) o si lo siente no le afecte. 
+            Existen muchas razones para retirar un
+            sistema pero siempre estas razones estarán comprendidas en un proceso de mejora 
+             continua que pudiera resultar incomodo para el usuario final, pero necesario para el cliente y su organización.
+            </p><hr/>
+<h1>VENTAS Y DESVENTAJAS</h1>
+<div class ="lead">
+<p class ="lead">El desarrollo ágil de software es un enfoque que se utiliza para diseñar 
+    un proceso disciplinado de administración de software que también permite 
+    algunas modificaciones frecuentes en el proyecto de desarrollo. Este es un tipo
+     de metodologías de desarrollo de software que es un marco conceptual para llevar
+      a cabo varios proyectos de ingeniería de software. Se utiliza para minimizar el 
+      riesgo mediante el desarrollo de software en cajas de tiempo corto que se llaman 
+      iteraciones que generalmente duran de una semana a un mes.</p>
+<h2>Ventajas de la metodología de desarrollo ágil:</h2>
+<ul>
+<li>La metodología ágil tiene un enfoque adaptativo que es capaz de responder a los requisitos cambiantes de los clientes.</li>
+<li>La comunicación directa y los comentarios constantes del representante del cliente no dejan espacio para ninguna conjetura en el sistema</li>
+</ul>
+
+<h2>Desventajas de la metodología de desarrollo ágil:</h2>
+<ul>
+<li>Esta metodología se centra en el software de trabajo en lugar de la documentación, por lo que puede resultar en una falta de documentación</li>
+<li>El proyecto de desarrollo de software puede desviarse si el cliente no tiene muy claro el resultado final de su proyecto</li>
+</ul>
+</div><hr/>
+
+
+<h1> Herramientas (software) que soportan la metodología EUP, ¿Son gratuitas?</h1>
+<hr>
+<div class ="lead"> 
+   Para poder decir a ciencia cierta cuales son los software tanto para desarrollo 
+   o tipos de aplicación que generan usando EUP nombro a una empresa especializada 
+   en aplicar esta metodologia y publica en su pagina web 
+   un listado de software de desarrollo y tipos de aplicación que 
+   genera su empresa para empresas de todo el mundo incluido Inglaterra, Estados unidos
+    y dichas empresas son multinacionales en su mayoria. 
+   La empresa de Desarrollo de software es <strong>softeleganc</strong>
+    <a href="https://www.softelegance.com/technologies">softelegance.com</a>
+     para verficar.
+ 
+</div>
+<hr>
+<h1>TECNOLOGÍAS</h1>
+<hr>
+<h2>ENFOQUES</h2>
+<ul class="lead">
+    
+<li>Software de arquitectura orientada a servicios </li>
+<li>Aplicación de página única Arquitectura </li>
+<li>tradicional de tres niveles y múltiples niveles</li>
+</ul>
+<hr>
+<h3>Fuentes de está información</h3>
+
+<ul>
+    <li>
+        <a href="https://www.softelegance.com/technologies">Empresa softelegance.com</a>
+    </li>
+
+
+
+</ul>
+<hr>
+<div class ="lead">
+
+<h2>NET FRAMEWORK MICROSOFT</h2>
+<h4>(se paga licencia para desarrollo)</h4>
+<ul>
+<li>.NET Framework hasta 4.6 </li>
+<li>C # y VB.NET </li>
+<li>ASP.NET MVC y ASP.NET Web Forms </li>
+<li>WPF </li>
+<li>Varios ORM </li>
+<li>Xamarin</li>
+</ul>
+<h2>BIGDATA</h2>
+<h4>(algunas extensiones gratis)</h4>
+<ul>
+<li>Modelo de programación MapReduce </li>
+<li>Apache Hadoop Family </li>
+<li>Spark</li>
+</ul>
+<h2>ALOJAMIENTO</h2>
+<h4>(pagos)</h4>
+<ul>
+<li>Servidores dedicados y virtuales </li>
+<li>Amazon Web Services </li>
+<li>Windows Azure</li>
+</ul>
+<h2>TECNOLOGÍAS FRONT-END</h2>
+<h4>(gratis)</h4>
+<ul>
+<li>Librerías de JavaScript HTML5 </li>
+<li>jQuery </li>
+<li>Bootstrap </li>
+<li>AngularJS</li>
+</ul>
+<h2>DBMS Y SERVICIOS</h2>
+<h4>(gratis en versiones de desarrollo, pagos en versiones PRO)</h4>
+<ul>
+<li>MS SQL Server </li>
+<li>Servicio de informes </li>
+<li>SQL Servicios de análisis de SQL Server </li>
+<li>Herramientas de BI </li>
+<li>Bases de datos NoSQL</li>
+</ul>
+<h2>DISEÑO DE SOFTWARE Y GESTIÓN DE PROYECTOS.</h2>
+<h4>(En su mayoria se pagan licencias de uso)</h4>
+<ul>
+<li>UML </li>
+<li>Power design Base de </li>
+<li>flujo de trabajo de Windows </li>
+<li>Rational Requisite Pro </li>
+<li>Microsoft Project </li>
+<li>Team Foundation Server </li>
+<li>Varios software de control de versiones y administración de tareas</li>
+</ul>
+<h2>METODOLOGÍAS</h2>
+<ul>
+<li>Rational Unified Process </li>
+<li>RUP para equipos pequeños y medianos </li>
+<li>Agile RUP </li>
+<li>Agile Unified Process</li>
+</ul>
+</div>
+<hr/><hr/>
+
+<h1>Empresas que utilizan metodologia agil incluida EUP</h1>
+
+<h2>Facebook</h2>
+<p>En Facebook tienen una rutina que suelen llevar a cabo. Cuando se establece un nuevo proyecto, se reúne a un equipo de personas que lo llevarán a cabo, unas 6 o 7, dependiendo de la magnitud del proyecto. Estas personas son elegidas según las habilidades necesarias para hacer el proyecto, así que en muchas ocasiones proceden de departamentos diferentes, con distintos backgrounds, etc. En vez de coordinar el proyecto por mails, chats o hacer una reunión a la semana para establecer quién hace qué y que cada uno se vaya a hacerlo a su puesto de trabajo, lo que se hace es juntar a todo el equipo en una sala, a parte del resto de la oficina, y trabajan allí hasta que se ha finalizado el proyecto. También pueden reunirse una o dos veces a la semana para dedicar todo el día al proyecto. En esa sala cuentan con todo el material necesario y trabajan cada uno en la parte del proyecto en la que son expertos. El hecho de estar todos juntos les permite hablar y comunicarse directamente, estar al tanto de los cambios que se van produciendo en tiempo real y tener siempre presente el trabajo de los demás compañeros, que al final, no deja de ser el trabajo del resto de la cadena de creación del proyecto.</p>
+<hr>
+<h2>PayPal</h2>
+<p>En PayPal los objetivos se revisan cada día y todos los equipos involucrados echan un vistazo y discuten sobre qué van a hacer, qué han hecho y qué aprendieron el día anterior. En el caso de PayPal se combina el código con el contenido. El producto final es una página web que comunica un servicio, pero todo su servicio es inmaterial, no se puede tocar. El trabajo más difícil es el de unir la parte técnica; el código, con la comunicación; lo que la gente puede ver. El proceso que siguen les permite tener constante comunicación de unos equipos a otros y conocer los objetivos generales de la empresa.</p>
+<p>Ahora que ya conoces mejor en qué consiste la metodología ágil y cómo te puede ayudar, ¿te interesaría aplicarla en tu empresa? Entonces infórmate sobre el Postgrado en Gestión Ágil de Proyectos; puede ser la respuesta a algunos de los problemas de gestión de tu empresa.</p>
+
+<hr>
+
+<h2>Apple</h2>
+<p>Steve Jobs habló en más de una ocasión de cómo se gestionaban los equipos en Apple para conseguir que todo fluyera. En este caso os he recuperado una entrevista que hizo en 2010 en la que nos cuenta cómo Apple se organiza como una startup y mediante una metodología ágil.</p>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/f60dheI4ARg" allowfullscreen></iframe>
+</div>
+<iframe width="727" height="409" src="https://www.youtube.com/embed/f60dheI4ARg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p>Según explicaba Jobs, Apple es una empresa “increíblemente colaborativa”. En ella no hay ningún comité, lo que encuentras son personas al cargo de proyectos: una persona está al cargo del sistema operativo del iPhone, otra persona está al cargo del hardware del mac, otra persona está al cargo de la ingeniería del hardware del iPhone, otra persona está al cargo del marketing mundial, otra persona está al cargo de operaciones… Apple se organiza como una startup, la mayor startup del mundo. Todos se reúnen durante 3 horas una vez a la semana y hablan de qué están haciendo y cómo lo están haciendo. Cada responsable sabe lo que hacen los demás, para tenerlo en cuenta en su propio trabajo, por lo que hay mucho trabajo en equipo entre los responsables y ese trabajo se filtra luego hacia abajo, para pasar los objetivos hacia el resto de los equipos de trabajo de la compañía.</p>
+
+<p>Tal y como contaba Jobs, para que este método funcione, todo depende de que seas capaz de tener confianza en los demás responsables y trabajadores; confianza en que van a poder hacer su parte del trabajo a tiempo y bien, sin tener que estar vigilándolos todo el tiempo. Jobs destacaba que algo en lo que son realmente buenos en Apple es en tratar de averiguar cómo dividir las cosas en equipos, para que hubieran distintos focos y objetivos dentro del conjunto del producto. Al final todos trabajan en el mismo producto, pero cada uno se ocupa de un ciclo de vida del mismo, sin perder la visión general, gracias a la colaboración y comunicación. En cuanto al trabajo de Jobs, él en particular se pasaba el día reuniéndose con los distintos equipos y trabajando con ellos en ideas y soluciones a problemas.</p>
+
+<p>Cuando el entrevistador le pregunta: ¿y la gente está dispuesta a decirte que estás equivocado? Jobs contesta, “si, tenemos maravillosas discusiones”, a lo que el entrevistador le replica: “¿y las gana usted todas?” – “Oh no, ¡Ojalá lo hiciera! No puedes hacer eso, si quieres contratar a grandes talentos y quieres que se queden contigo, debes dejarles tomar muchas decisiones y tu debes dejarte guiar por las ideas, no por la jerarquía. De otra manera la gente no se quedaría”, le contesta Jobs.</p><hr/>
+
+<hr/> 
+            
+
+
+ 
+   </div>
+  </div>
+</div>
+  <!--  End Modal -->
+  <footer class="footer" data-background-color="black">
+    
+      
+      
+      <div class ="row">
+          <hr>
+          <div class ="col-xs-4 col-sm-4 col-md-4">
+          <h3 class ="shadow p-2 mb-2  rounded text-danger">CONSULTAS</h3>
+               
+               
+               <div class ="col-xs-10 col-sm-10 col-md-12 col-offset-xs-1 col-offset-sm-1 col-offet-md-1 ">
+                   
+                    <a href="#" class ="text-primary shadow"><strong>Registrarse</strong></a> <br>
+                     <a href="#" class="text-primary shadow  "><strong>Preguntas frecuentes</strong></a><br>
+                    
+               </div>
+               
+               
+                
+             
+          </div>
+          <div class ="col-xs-4 col-sm-4 col-md-4">
+              <h3 class ="shadow p-2 mb-2  rounded text-danger"><a href="http://www.unne.edu.ar/">UNNE</a></h3>
+             <hr>
+              <p class ="text-black shadow">	
+                <strong>Ciudad de Corrientes - Corrientes, Argentina.</strong>
+              </p>
+              <hr>
+          </div>
+          <div class ="col-xs-4 col-sm-4 col-md-4 text-right">
+              <h3 class ="shadow p-2   rounded">
+                <a href="#" class ="text-danger">Contactenos</a></h3><hr>
+              <p >
+                  <i class="rounded bg-primary" style="font-size:15px"></i>
+                  <strong class ="lead">Email: victor2283@gmail.com </strong>
+              </p>
+              
+          </div>
+          
+      
+      <hr>
+      <div class ="col-12 ">
+          <h6 class ="text-center text-primary">Copyright <i class ="text-danger">&copy;<script type="text/javascript">document.write(new Date().getFullYear())</script></i>- Todos los derechos reservados <a href="index">Tecno Ventas S.R.L</a></h6>
+      </div> 
+           
+          
+  
+  
+  
+  
+  </footer>
+  <!--   Core JS Files   -->
+
+  <script src="assets/js/core/jquery.min.js" type="text/javascript"></script>
+  <script src="assets/js/core/popper.min.js" type="text/javascript"></script>
+  <script src="assets/js/core/bootstrap-material-design.min.js" type="text/javascript"></script>
+  <script src="assets/js/plugins/moment.min.js"></script>
+  <!--	Plugin for the Datepicker, full documentation here: https://github.com/Eonasdan/bootstrap-datetimepicker -->
+  <script src="assets/js/plugins/bootstrap-datetimepicker.js" type="text/javascript"></script>
+  <!--  Plugin for the Sliders, full documentation here: http://refreshless.com/nouislider/ -->
+  <script src="assets/js/plugins/nouislider.min.js" type="text/javascript"></script>
+  <!--  Google Maps Plugin    -->
+  <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"></script>
+  <!-- Control Center for Material Kit: parallax effects, scripts for the example pages etc -->
+  <script src="assets/js/material-kit.js?v=2.0.5" type="text/javascript"></script>
+  <script>
+    $(document).ready(function() {
+      //init DateTimePickers
+      materialKit.initFormExtendedDatetimepickers();
+
+      // Sliders Init
+      materialKit.initSliders();
+    });
+
+
+    function scrollToDownload() {
+      if ($('.section-download').length != 0) {
+        $("html, body").animate({
+          scrollTop: $('.section-download').offset().top
+        }, 1000);
+      }
+    }
+
+  </script>
+<script src="assets/js/popper.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="assets/js/bootstrap.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

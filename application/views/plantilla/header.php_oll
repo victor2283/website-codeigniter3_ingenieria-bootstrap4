@@ -1,0 +1,80 @@
+<?php
+defined('BASEPATH') or exit('No direct script access allowed');
+?> 
+ <nav class="navbar navbar-transparent navbar-color-on-scroll fixed-top navbar-expand-lg  bg-warning" color-on-scroll="100" id="sectionsNav">
+    <div class="container">
+      <div class="navbar-translate">
+        <a class="navbar-brand" href="Welcome">
+          Inicio </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="navbar-toggler-icon"></span>
+          <span class="navbar-toggler-icon"></span>
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="navbar-nav ml-auto">
+          <li class="dropdown nav-item">
+            <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
+              <i class="material-icons">apps</i> Componentes
+            </a>
+            <div class="dropdown-menu dropdown-with-icons">
+              <a href="Welcome" class="dropdown-item">
+                <i class="material-icons">layers</i> Ver más
+              </a>
+              <a href="#" class="dropdown-item">
+                <i class="material-icons">content_paste</i> Documentación
+              </a>
+            </div>
+          </li>
+          <!-- <li class="nav-item">
+            <a class="nav-link" href="javascript:void(0)" onclick="scrollToDownload()">
+              <i class="material-icons">cloud_download</i> Download
+            </a>
+          </li> -->
+          <!-- <li class="nav-item">
+            <a class="nav-link" rel="tooltip" title="" data-placement="bottom" href="https://twitter.com/CreativeTim" target="_blank" data-original-title="Follow us on Twitter">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li> -->
+          <!-- <li class="nav-item">
+            <a class="nav-link" rel="tooltip" title="" data-placement="bottom" href="https://www.facebook.com/CreativeTim" target="_blank" data-original-title="Like us on Facebook">
+              <i class="fa fa-facebook-square"></i>
+            </a>
+          </li> -->
+          <!-- <li class="nav-item">
+            <a class="nav-link" rel="tooltip" title="" data-placement="bottom" href="https://www.instagram.com/CreativeTimOfficial" target="_blank" data-original-title="Follow us on Instagram">
+              <i class="fa fa-instagram"></i>
+            </a>
+          </li> -->
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <!-- <div class="page-header header-filter clear-filter  purple-filter" data-parallax="true" style="background-image: url('assets/img/ds1.jpg');">  -->
+  <div class="page-header header-filter" style="background-image: url('assets/img/ds1.jpg'); background-size: cover; background-position: top center;">
+  <!-- <div class="page-header header-filter clear-filter  tint" data-parallax="true" style="background-image: url('assets/img/ds1.jpg');"> -->
+  <!-- <div class="page-header header-filter clear-filter  inkwell" data-parallax="true" style="background-image: url('assets/img/ds1.jpg');"> -->
+  
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 ml-auto mr-auto">
+          <div class="brand">
+            <h2 class ="title">INGENIERIA DE SOFTWARE </h2>
+            
+            <h3>CARRERA: Lic. en Sistemas de Información/Facultad de Ciencias Exactas/ UNNE</h3>
+			
+			            
+          
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+  <div class="main main-raised">
+    <div class="section section-basic">
+      <div class="container">
